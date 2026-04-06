@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>xXx</title>
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;600;700&amp;family=Syne:wght@400;600;700;800&amp;display=swap" rel="stylesheet"/>
+<link href="style.css" rel="stylesheet"/></head>
+<body>
+<div class="window">
+<div class="titlebar">
+<div class="titlebar-dots">
+<div class="dot dot-red"></div>
+<div class="dot dot-yellow"></div>
+<div class="dot dot-green"></div>
+</div>
+<span class="app-name">xXx API <span style="color:var(--text3);font-weight:400">v2.1</span></span>
+<div class="status-pill"><div class="status-dot"></div> CONNECTED</div>
+</div>
+<nav class="nav">
+<button class="nav-tab active" onclick="switchTab('home', this)">
+<svg fill="none" height="14" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="14"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path><polyline points="9 22 9 12 15 12 15 22"></polyline></svg>
+      Home
+    </button>
+<button class="nav-tab" onclick="switchTab('settings', this)">
+<svg fill="none" height="14" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="14"><circle cx="12" cy="12" r="3"></circle><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-4 0v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83-2.83l.06-.06A1.65 1.65 0 0 0 4.68 15a1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1 0-4h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 2.83-2.83l.06.06A1.65 1.65 0 0 0 9 4.68a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 4 0v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 2.83l-.06.06A1.65 1.65 0 0 0 19.4 9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z"></path></svg>
+      Settings
+    </button>
+<button class="nav-tab" onclick="switchTab('telegram', this)">
+<svg fill="none" height="14" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="14"><line x1="22" x2="11" y1="2" y2="13"></line><polygon points="22 2 15 22 11 13 2 9 22 2"></polygon></svg>
+      Telegram
+    </button>
+<button class="nav-tab" onclick="switchTab('inventory', this)">
+<svg fill="none" height="14" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="14"><rect height="13" width="15" x="1" y="3"></rect><polygon points="16 8 20 8 23 11 23 16 16 16 16 8"></polygon><circle cx="5.5" cy="18.5" r="2.5"></circle><circle cx="18.5" cy="18.5" r="2.5"></circle></svg>
+      Inventory
+    </button>
+<button class="nav-tab" onclick="switchTab('logs', this)">
+<svg fill="none" height="14" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="14"><polyline points="22 12 18 12 15 21 9 3 6 12 2 12"></polyline></svg>
+      Logs
+    </button>
+</nav>
+<div class="content">
+<div class="tab-panel active" id="panel-home">
+<div class="section-title">Overview</div>
+<div class="home-grid">
+<div class="stat-card">
+<div class="stat-card-label">Order Price</div>
+<div class="stat-card-value accent" id="order-price-display">$12.50</div>
+<div class="stat-card-sub">Last configured price</div>
+</div>
+<div class="stat-card">
+<div class="stat-card-label">Lot Price</div>
+<div class="stat-card-value" id="lot-price-display">$12.45</div>
+<div class="stat-card-sub">Current market lot</div>
+</div>
+</div>
+
+<div class="settings-row">
+<div class="field">
+<label>Trade Delay (ms)</label>
+<input id="trade-delay" placeholder="1000" type="text"/>
+</div>
+<div class="field">
+<label>Order Hold Duration (s)</label>
+<input id="order-hold" placeholder="3600" type="text"/>
+</div>
+</div>
+
+<div class="field">
+<label>Select Skin</label>
+<select id="skin-select">
+<option value="">— Choose a skin —</option>
+<option value="ak47_redline">AK-47 | Redline (FT)</option>
+<option value="awp_asiimov">AWP | Asiimov (FT)</option>
+<option value="m4a4_howl">M4A4 | Howl (MW)</option>
+<option value="karambit_fade">Karambit | Fade (FN)</option>
+<option value="glock_fade">Glock-18 | Fade (FN)</option>
+<option value="deagle_blaze">Desert Eagle | Blaze (FN)</option>
+</select>
+</div>
+<div class="bottom-row">
+<div class="handshake-row">
+<input id="handshake-input" placeholder="Enter your handshake token…" type="text"/>
+<button class="btn btn-ghost btn-icon" onclick="saveHandshake()" title="Save handshake">
+<svg fill="none" height="15" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="15"><path d="M19 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11l5 5v11a2 2 0 0 1-2 2z"></path><polyline points="17 21 17 13 7 13 7 21"></polyline><polyline points="7 3 7 8 15 8"></polyline></svg>
+</button>
+</div>
+<button class="btn btn-primary" id="start-btn" onclick="toggleBot()">
+<svg fill="currentColor" height="13" viewbox="0 0 24 24" width="13"><polygon points="5 3 19 12 5 21 5 3"></polygon></svg>
+          START
+        </button>
+</div>
+
+</div>
+<div class="tab-panel" id="panel-settings">
+<div class="section-title">Trading Mode</div>
+<div class="radio-group" id="mode-group">
+<label class="radio-option selected" onclick="selectMode(this)">
+<input checked="" name="mode" type="radio" value="custom"/>
+<div class="radio-circle"><div class="radio-dot"></div></div>
+<div>
+<div class="radio-text">Custom Price</div>
+<div class="radio-desc">Manually set a fixed order price for all trades</div>
+</div>
+</label>
+<label class="radio-option" onclick="selectMode(this)">
+<input name="mode" type="radio" value="random"/>
+<div class="radio-circle"><div class="radio-dot"></div></div>
+<div>
+<div class="radio-text">Random Price</div>
+<div class="radio-desc">Randomize price within a defined min/max range</div>
+</div>
+</label>
+<label class="radio-option" onclick="selectMode(this)">
+<input name="mode" type="radio" value="outbid"/>
+<div class="radio-circle"><div class="radio-dot"></div></div>
+<div>
+<div class="radio-text">Outbid Under Lot</div>
+<div class="radio-desc">Automatically undercut the current lowest listing</div>
+</div>
+</label>
+</div>
+<div class="divider"></div>
+<div class="section-title">Parameters</div>
+<div class="settings-row param-group" id="group-custom" style="display: grid;">
+<div class="field">
+<label>Custom Price ($)</label>
+<input id="custom-price" placeholder="10.50" type="text"/>
+</div>
+</div>
+<div class="settings-row param-group" id="group-random">
+<div class="field">
+<label>Min Price ($)</label>
+<input id="min-price" placeholder="0.00" type="text"/>
+</div>
+<div class="field">
+<label>Max Price ($)</label>
+<input id="max-price" placeholder="999.99" type="text"/>
+</div>
+</div>
+<div class="settings-row param-group" id="group-outbid">
+<div class="field">
+<label>Outbid Delta ($)</label>
+<input id="outbid-delta" placeholder="0.01" type="text"/>
+</div>
+<div class="field">
+<label>Outbid Delay (seconds)</label>
+<input id="outbid-delay" placeholder="2" type="text"/>
+</div>
+</div>
+</div>
+<div class="tab-panel" id="panel-telegram">
+<div class="section-title">Telegram Bot</div>
+<div class="toggle-card">
+<div class="toggle-info">
+<div class="toggle-title">Telegram Notifications</div>
+<div class="toggle-sub">Receive trade alerts and bot status updates via Telegram</div>
+</div>
+<label class="toggle-switch" id="tg-toggle-wrap">
+<input id="tg-toggle" onchange="handleTgToggle(this)" type="checkbox"/>
+<div class="toggle-track"></div>
+<div class="toggle-thumb"></div>
+</label>
+</div>
+<div id="tg-fields" style="opacity:0.4;pointer-events:none;transition:opacity 0.3s">
+<div class="section-title">Credentials</div>
+<div class="tg-fields">
+<div class="field">
+<label>Bot Token</label>
+<input id="bot-token" placeholder="110201543:AAHdqTcvCH1vGWJxfSeofSAs0K5PALDsaw" type="password"/>
+</div>
+<div class="field">
+<label>Chat ID</label>
+<input id="chat-id" placeholder="-1001234567890" type="text"/>
+</div>
+</div>
+<div class="divider"></div>
+<div class="section-title">Notifications</div>
+<div class="settings-row">
+<div class="field">
+<label>Notify on</label>
+<select id="tg-notify">
+<option>All events</option>
+<option>Trades only</option>
+<option>Errors only</option>
+<option>Custom</option>
+</select>
+</div>
+<div class="field">
+<label>Message Format</label>
+<select id="tg-format">
+<option>Markdown</option>
+<option>Plain text</option>
+<option>HTML</option>
+</select>
+</div>
+</div>
+</div>
+</div>
+<div class="tab-panel" id="panel-inventory">
+<div class="inv-toolbar">
+<div class="section-title" style="margin-bottom:0;flex:none">Skins</div>
+<input placeholder="Search inventory…" style="width:300px;margin-bottom:0" type="text"/>
+<div class="inv-count" id="inv-count">0 items</div>
+</div>
+<div class="inv-grid" id="inv-grid">
+</div>
+</div>
+<div class="tab-panel" id="panel-logs">
+<div class="logs-toolbar">
+<div class="section-title" style="margin-bottom:0;flex:none">Console</div>
+<span class="log-level-badge badge-all active">ALL</span>
+<button class="btn btn-ghost btn-sm" onclick="clearLogs()" style="margin-left:auto">
+<svg fill="none" height="11" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="11"><polyline points="3 6 5 6 21 6"></polyline><path d="M19 6l-1 14a2 2 0 0 1-2 2H8a2 2 0 0 1-2-2L5 6"></path><path d="M10 11v6"></path><path d="M14 11v6"></path></svg>
+          Clear
+        </button>
+</div>
+<div class="log-console" id="log-console"></div>
+</div>
+</div></div>
+
+<div class="modal-overlay" id="sell-modal">
+<div class="modal">
+<div class="modal-title">Sell Skin</div>
+<div class="modal-sub" id="modal-skin-name">Set a price for your item</div>
+<div class="field">
+<label>Sale Price ($)</label>
+<input id="sell-price-input" placeholder="0.00" type="text"/>
+</div>
+<div style="display:flex;align-items:center;justify-content:space-between;font-size:10px;color:var(--text3)">
+<span>Market avg: <span id="modal-market-price" style="color:var(--text)">—</span></span>
+<span>You'll receive ~<span id="modal-receive" style="color:var(--text2)">—</span></span>
+</div>
+<div class="modal-actions">
+<button class="btn btn-ghost" onclick="closeModal()">Cancel</button>
+<button class="btn btn-primary" onclick="confirmSell()">
+<svg fill="none" height="12" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" viewbox="0 0 24 24" width="12"><polyline points="20 6 9 17 4 12"></polyline></svg>
+        Confirm Sale
+      </button>
+</div>
+</div>
+</div>
+
+<script src="script.js"></script></body>
+</html>

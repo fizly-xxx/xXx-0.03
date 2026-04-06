@@ -1,0 +1,17 @@
+{
+  "tradeDelay": "1000",
+  "orderHold": "5000",
+  "skin": "karambit_fade",
+  "handshake": "",
+  "mode": "outbid",
+  "customPrice": "0.01",
+  "minPrice": "",
+  "maxPrice": "",
+  "outbidDelta": "",
+  "outbidDelay": "",
+  "telegramEnabled": true,
+  "botToken": "utfhjsdkalo2ierlfhsda",
+  "chatId": "u3iedfhkajs3",
+  "tgNotify": "All events",
+  "tgFormat": "Markdown"
+}

@@ -1,0 +1,12194 @@
+[
+{
+    "id": 0,
+    "name": "None"
+},
+{
+    "id": 90,
+    "name": "Test0"
+},
+{
+    "id": 91,
+    "name": "Test1"
+},
+{
+    "id": 92,
+    "name": "Test2"
+},
+{
+    "id": 93,
+    "name": "Test3"
+},
+{
+    "id": 94,
+    "name": "Test4"
+},
+{
+    "id": 95,
+    "name": "Test5"
+},
+{
+    "id": 96,
+    "name": "Test6"
+},
+{
+    "id": 97,
+    "name": "Test7"
+},
+{
+    "id": 98,
+    "name": "Test8"
+},
+{
+    "id": 99,
+    "name": "Test9"
+},
+{
+    "id": 100,
+    "name": "MedalAssistanceBronze"
+},
+{
+    "id": 101,
+    "name": "MedalAssistanceSilver"
+},
+{
+    "id": 102,
+    "name": "MedalAssistanceGold"
+},
+{
+    "id": 103,
+    "name": "MedalAssistancePlatinum"
+},
+{
+    "id": 104,
+    "name": "MedalAssistanceBrilliant"
+},
+{
+    "id": 105,
+    "name": "MedalVeteran2018Bronze"
+},
+{
+    "id": 106,
+    "name": "MedalVeteran2018Silver"
+},
+{
+    "id": 107,
+    "name": "MedalVeteran2018Gold"
+},
+{
+    "id": 108,
+    "name": "MedalVeteran2018Platinum"
+},
+{
+    "id": 109,
+    "name": "MedalVeteran2019Bronze"
+},
+{
+    "id": 110,
+    "name": "MedalVeteran2019Silver"
+},
+{
+    "id": 111,
+    "name": "MedalVeteran2019Gold"
+},
+{
+    "id": 112,
+    "name": "MedalVeteran2019Platinum"
+},
+{
+    "id": 113,
+    "name": "Medal2YearsSilver"
+},
+{
+    "id": 114,
+    "name": "Medal2YearsGold"
+},
+{
+    "id": 115,
+    "name": "MedalCompetitiveBronze"
+},
+{
+    "id": 116,
+    "name": "MedalCompetitiveSilver"
+},
+{
+    "id": 117,
+    "name": "MedalCompetitiveGold"
+},
+{
+    "id": 118,
+    "name": "MedalCompetitivePlatinum"
+},
+{
+    "id": 119,
+    "name": "MedalCompetitiveBrilliant"
+},
+{
+    "id": 120,
+    "name": "MedalNewYearMadness2020Bronze"
+},
+{
+    "id": 121,
+    "name": "MedalNewYearMadness2020Silver"
+},
+{
+    "id": 122,
+    "name": "MedalNewYearMadness2020Gold"
+},
+{
+    "id": 123,
+    "name": "MedalNewYearMadness2020Platinum"
+},
+{
+    "id": 124,
+    "name": "MedalNewYearMadness2020Brilliant"
+},
+{
+    "id": 125,
+    "name": "MedalVeteran2020Bronze"
+},
+{
+    "id": 126,
+    "name": "MedalVeteran2020Silver"
+},
+{
+    "id": 127,
+    "name": "MedalVeteran2020Gold"
+},
+{
+    "id": 128,
+    "name": "MedalVeteran2020Platinum"
+},
+{
+    "id": 129,
+    "name": "ProjectZ9Bronze"
+},
+{
+    "id": 130,
+    "name": "ProjectZ9Silver"
+},
+{
+    "id": 131,
+    "name": "ProjectZ9Gold"
+},
+{
+    "id": 132,
+    "name": "ProjectZ9Platinum"
+},
+{
+    "id": 133,
+    "name": "ProjectZ9Brilliant"
+},
+{
+    "id": 134,
+    "name": "BadgeRevivalBronze"
+},
+{
+    "id": 135,
+    "name": "BadgeRevivalSilver"
+},
+{
+    "id": 136,
+    "name": "BadgeRevivalGold"
+},
+{
+    "id": 137,
+    "name": "BadgeRevivalEliteGold"
+},
+{
+    "id": 138,
+    "name": "BadgeRevivalPlatinum"
+},
+{
+    "id": 139,
+    "name": "BadgeRevivalDiamond"
+},
+{
+    "id": 140,
+    "name": "BadgeNewYear2021Bronze"
+},
+{
+    "id": 141,
+    "name": "BadgeNewYear2021Silver"
+},
+{
+    "id": 142,
+    "name": "BadgeNewYear2021Gold"
+},
+{
+    "id": 143,
+    "name": "BadgeNewYear2021EliteGold"
+},
+{
+    "id": 144,
+    "name": "BadgeNewYear2021Platinum"
+},
+{
+    "id": 145,
+    "name": "BadgeNewYear2021Diamond"
+},
+{
+    "id": 146,
+    "name": "MedalVeteran2021Bronze"
+},
+{
+    "id": 147,
+    "name": "MedalVeteran2021Silver"
+},
+{
+    "id": 148,
+    "name": "MedalVeteran2021Gold"
+},
+{
+    "id": 149,
+    "name": "MedalVeteran2021Platinum"
+},
+{
+    "id": 150,
+    "name": "MedalVeteran2021Diamond"
+},
+{
+    "id": 151,
+    "name": "Medal4YearsSilver"
+},
+{
+    "id": 152,
+    "name": "Medal4YearsGold"
+},
+{
+    "id": 153,
+    "name": "BadgeDragonRiseBronze"
+},
+{
+    "id": 154,
+    "name": "BadgeDragonRiseSilver"
+},
+{
+    "id": 155,
+    "name": "BadgeDragonRiseGold"
+},
+{
+    "id": 156,
+    "name": "BadgeDragonRiseEliteGold"
+},
+{
+    "id": 157,
+    "name": "BadgeDragonRisePlatinum"
+},
+{
+    "id": 158,
+    "name": "BadgeDragonRiseRubin"
+},
+{
+    "id": 159,
+    "name": "BadgeCursedSoulsBronze"
+},
+{
+    "id": 160,
+    "name": "BadgeCursedSoulsSilver"
+},
+{
+    "id": 161,
+    "name": "BadgeCursedSoulsGold"
+},
+{
+    "id": 162,
+    "name": "BadgeCursedSoulsEliteGold"
+},
+{
+    "id": 163,
+    "name": "BadgeCursedSoulsPlatinum"
+},
+{
+    "id": 164,
+    "name": "BadgeCursedSoulsDiamond"
+},
+{
+    "id": 165,
+    "name": "BadgeWinterFun2022Bronze"
+},
+{
+    "id": 166,
+    "name": "BadgeWinterFun2022Silver"
+},
+{
+    "id": 167,
+    "name": "BadgeWinterFun2022Gold"
+},
+{
+    "id": 168,
+    "name": "BadgeWinterFun2022EliteGold"
+},
+{
+    "id": 169,
+    "name": "BadgeWinterFun2022Platinum"
+},
+{
+    "id": 170,
+    "name": "BadgeWinterFun2022Diamond"
+},
+{
+    "id": 171,
+    "name": "MedalVeteran2022Bronze"
+},
+{
+    "id": 172,
+    "name": "MedalVeteran2022Silver"
+},
+{
+    "id": 173,
+    "name": "MedalVeteran2022Gold"
+},
+{
+    "id": 174,
+    "name": "MedalVeteran2022Platinum"
+},
+{
+    "id": 175,
+    "name": "MedalVeteran2022Diamond"
+},
+{
+    "id": 176,
+    "name": "MedalFiveYearsSilver"
+},
+{
+    "id": 177,
+    "name": "MedalFiveYearsGold"
+},
+{
+    "id": 178,
+    "name": "Badge_LegendsBronze"
+},
+{
+    "id": 179,
+    "name": "Badge_LegendsSilver"
+},
+{
+    "id": 180,
+    "name": "Badge_LegendsGold"
+},
+{
+    "id": 181,
+    "name": "Badge_LegendsEliteGold"
+},
+{
+    "id": 182,
+    "name": "Badge_LegendsPlatinum"
+},
+{
+    "id": 183,
+    "name": "Badge_LegendsDiamond"
+},
+{
+    "id": 184,
+    "name": "Badge_PandoraBronze"
+},
+{
+    "id": 185,
+    "name": "Badge_PandoraSilver"
+},
+{
+    "id": 186,
+    "name": "Badge_PandoraGold"
+},
+{
+    "id": 187,
+    "name": "Badge_PandoraEliteGold"
+},
+{
+    "id": 188,
+    "name": "Badge_PandoraPlatinum"
+},
+{
+    "id": 189,
+    "name": "Badge_PandoraDiamond"
+},
+{
+    "id": 190,
+    "name": "Medal_HotWinterPartyBronze"
+},
+{
+    "id": 191,
+    "name": "Medal_HotWinterPartySilver"
+},
+{
+    "id": 192,
+    "name": "Medal_HotWinterPartyGold"
+},
+{
+    "id": 193,
+    "name": "Medal_HotWinterPartyEliteGold"
+},
+{
+    "id": 194,
+    "name": "Medal_HotWinterPartyPlatinum"
+},
+{
+    "id": 195,
+    "name": "Medal_HotWinterPartyDiamond"
+},
+{
+    "id": 196,
+    "name": "Medal_Veteran2023Bronze"
+},
+{
+    "id": 197,
+    "name": "Medal_Veteran2023Silver"
+},
+{
+    "id": 198,
+    "name": "Medal_Veteran2023Gold"
+},
+{
+    "id": 199,
+    "name": "Medal_Veteran2023EliteGold"
+},
+{
+    "id": 201,
+    "name": "Halloween2021_Spin"
+},
+{
+    "id": 202,
+    "name": "Halloween2021_Spin_Reward1"
+},
+{
+    "id": 203,
+    "name": "Halloween2021_Spin_Reward2"
+},
+{
+    "id": 204,
+    "name": "Halloween2021_Spin_Reward3"
+},
+{
+    "id": 205,
+    "name": "NewYear2022_Spin"
+},
+{
+    "id": 206,
+    "name": "NewYear2022_Spin_Reward1"
+},
+{
+    "id": 207,
+    "name": "NewYear2022_Spin_Reward2"
+},
+{
+    "id": 208,
+    "name": "NewYear2022_Spin_Reward3"
+},
+{
+    "id": 209,
+    "name": "Legends_Spin"
+},
+{
+    "id": 210,
+    "name": "Legends_Spin_Shop_2"
+},
+{
+    "id": 211,
+    "name": "Legends_Spin_Shop_3"
+},
+{
+    "id": 212,
+    "name": "Legends_Spin_Shop_4"
+},
+{
+    "id": 213,
+    "name": "Legends_Spin_Shop_5"
+},
+{
+    "id": 214,
+    "name": "Legends_Spin_Shop_6"
+},
+{
+    "id": 215,
+    "name": "Legends_Spin_Shop_7"
+},
+{
+    "id": 216,
+    "name": "Legends_Spin_Silver_Available"
+},
+{
+    "id": 217,
+    "name": "Legends_Spin_Gold_Available"
+},
+{
+    "id": 218,
+    "name": "Legends_Spin_Diamond_Available"
+},
+{
+    "id": 219,
+    "name": "NEW_YEAR_2023_Spin"
+},
+{
+    "id": 220,
+    "name": "NEW_YEAR_2023_Spin_Used"
+},
+{
+    "id": 221,
+    "name": "NEW_YEAR_2023_Spin_Puzzle"
+},
+{
+    "id": 222,
+    "name": "NEW_YEAR_2023_Spin_Shop_2"
+},
+{
+    "id": 223,
+    "name": "NEW_YEAR_2023_Spin_Shop_3"
+},
+{
+    "id": 224,
+    "name": "NEW_YEAR_2023_Spin_Shop_4"
+},
+{
+    "id": 225,
+    "name": "NEW_YEAR_2023_Spin_Shop_Complete"
+},
+{
+    "id": 226,
+    "name": "NEW_YEAR_2023_Spin_Silver_Available"
+},
+{
+    "id": 227,
+    "name": "EventItem_PuzzleBronze"
+},
+{
+    "id": 228,
+    "name": "EventItem_PuzzleSilver"
+},
+{
+    "id": 230,
+    "name": "AdsOffer_FragmentBox_Item"
+},
+{
+    "id": 250,
+    "name": "Medal_Veteran2023Platinum"
+},
+{
+    "id": 251,
+    "name": "Medal_Veteran2023Diamond"
+},
+{
+    "id": 252,
+    "name": "Medal_FirebornBronze"
+},
+{
+    "id": 253,
+    "name": "Medal_FirebornSilver"
+},
+{
+    "id": 254,
+    "name": "Medal_FirebornGold"
+},
+{
+    "id": 255,
+    "name": "Medal_FirebornEliteGold"
+},
+{
+    "id": 256,
+    "name": "Medal_FirebornPlatinum"
+},
+{
+    "id": 257,
+    "name": "Medal_FirebornDiamond"
+},
+{
+    "id": 258,
+    "name": "Medal_SpaceVisionBronze"
+},
+{
+    "id": 259,
+    "name": "Medal_SpaceVisionSilver"
+},
+{
+    "id": 260,
+    "name": "Medal_SpaceVisionGold"
+},
+{
+    "id": 261,
+    "name": "Medal_SpaceVisionEliteGold"
+},
+{
+    "id": 262,
+    "name": "Medal_SpaceVisionPlatinum"
+},
+{
+    "id": 263,
+    "name": "Medal_SpaceVisionDiamond"
+},
+{
+    "id": 264,
+    "name": "Medal_SunstrikeBronze"
+},
+{
+    "id": 265,
+    "name": "Medal_SunstrikeSilver"
+},
+{
+    "id": 266,
+    "name": "Medal_SunstrikeGold"
+},
+{
+    "id": 267,
+    "name": "Medal_SunstrikeEliteGold"
+},
+{
+    "id": 268,
+    "name": "Medal_SunstrikePlatinum"
+},
+{
+    "id": 269,
+    "name": "Medal_SunstrikeDiamond"
+},
+{
+    "id": 270,
+    "name": "Medal_SubjectXBronze"
+},
+{
+    "id": 271,
+    "name": "Medal_SubjectXSilver"
+},
+{
+    "id": 272,
+    "name": "Medal_SubjectXGold"
+},
+{
+    "id": 273,
+    "name": "Medal_SubjectXEliteGold"
+},
+{
+    "id": 274,
+    "name": "Medal_SubjectXPlatinum"
+},
+{
+    "id": 275,
+    "name": "Medal_SubjectXDiamond"
+},
+{
+    "id": 276,
+    "name": "Medal_Veteran2024Bronze"
+},
+{
+    "id": 277,
+    "name": "Medal_Veteran2024Silver"
+},
+{
+    "id": 278,
+    "name": "Medal_Veteran2024Gold"
+},
+{
+    "id": 279,
+    "name": "Medal_Veteran2024EliteGold"
+},
+{
+    "id": 280,
+    "name": "Medal_Veteran2024Platinum"
+},
+{
+    "id": 281,
+    "name": "Medal_Veteran2024Diamond"
+},
+{
+    "id": 282,
+    "name": "Medal_FrostyChaosBronze"
+},
+{
+    "id": 283,
+    "name": "Medal_FrostyChaosSilver"
+},
+{
+    "id": 284,
+    "name": "Medal_FrostyChaosGold"
+},
+{
+    "id": 285,
+    "name": "Medal_FrostyChaosEliteGold"
+},
+{
+    "id": 286,
+    "name": "Medal_FrostyChaosPlatinum"
+},
+{
+    "id": 287,
+    "name": "Medal_FrostyChaosDiamond"
+},
+{
+    "id": 288,
+    "name": "Medal_OutcastBronze"
+},
+{
+    "id": 289,
+    "name": "Medal_OutcastSilver"
+},
+{
+    "id": 290,
+    "name": "Medal_OutcastGold"
+},
+{
+    "id": 291,
+    "name": "Medal_OutcastEliteGold"
+},
+{
+    "id": 292,
+    "name": "Medal_OutcastPlatinum"
+},
+{
+    "id": 293,
+    "name": "Medal_OutcastDiamond"
+},
+{
+    "id": 294,
+    "name": "Medal_FunAndSunBronze"
+},
+{
+    "id": 295,
+    "name": "Medal_FunAndSunSilver"
+},
+{
+    "id": 296,
+    "name": "Medal_FunAndSunGold"
+},
+{
+    "id": 297,
+    "name": "Medal_FunAndSunEliteGold"
+},
+{
+    "id": 298,
+    "name": "Medal_FunAndSunPlatinum"
+},
+{
+    "id": 299,
+    "name": "Medal_FunAndSunDiamond"
+},
+{
+    "id": 300,
+    "name": "Medal_ReforgedBronze"
+},
+{
+    "id": 301,
+    "name": "OriginCase"
+},
+{
+    "id": 302,
+    "name": "FuriousCase"
+},
+{
+    "id": 303,
+    "name": "RivalCase"
+},
+{
+    "id": 304,
+    "name": "FableCase"
+},
+{
+    "id": 305,
+    "name": "ScorpionCase"
+},
+{
+    "id": 306,
+    "name": "EmpireCase"
+},
+{
+    "id": 307,
+    "name": "SharpCase"
+},
+{
+    "id": 308,
+    "name": "Case_Revenge"
+},
+{
+    "id": 309,
+    "name": "Case_Chameleon"
+},
+{
+    "id": 310,
+    "name": "ArcaneCase_FunAndSun"
+},
+{
+    "id": 311,
+    "name": "Case_FunAndSun"
+},
+{
+    "id": 312,
+    "name": "Box_FunAndSun"
+},
+{
+    "id": 313,
+    "name": "Medal_ReforgedSilver"
+},
+{
+    "id": 314,
+    "name": "Medal_ReforgedGold"
+},
+{
+    "id": 315,
+    "name": "Medal_ReforgedEliteGold"
+},
+{
+    "id": 316,
+    "name": "Medal_ReforgedPlatinum"
+},
+{
+    "id": 317,
+    "name": "Medal_ReforgedDiamond"
+},
+{
+    "id": 318,
+    "name": "ArcaneCase_Reforged"
+},
+{
+    "id": 319,
+    "name": "Case_Reforged"
+},
+{
+    "id": 320,
+    "name": "Box_Reforged"
+},
+{
+    "id": 321,
+    "name": "ArcaneCase_Nightmare"
+},
+{
+    "id": 322,
+    "name": "Medal_NightmareBronze"
+},
+{
+    "id": 323,
+    "name": "Medal_NightmareSilver"
+},
+{
+    "id": 324,
+    "name": "Medal_NightmareGold"
+},
+{
+    "id": 325,
+    "name": "Medal_NightmareEliteGold"
+},
+{
+    "id": 326,
+    "name": "Medal_NightmarePlatinum"
+},
+{
+    "id": 327,
+    "name": "Medal_NightmareDiamond"
+},
+{
+    "id": 328,
+    "name": "Box_Nightmare"
+},
+{
+    "id": 329,
+    "name": "Case_Nightmare"
+},
+{
+    "id": 330,
+    "name": "BoomBall_Rare"
+},
+{
+    "id": 331,
+    "name": "BoomBall_Epic"
+},
+{
+    "id": 332,
+    "name": "BoomBall_Legendary"
+},
+{
+    "id": 333,
+    "name": "BoomBall_Arcane"
+},
+{
+    "id": 334,
+    "name": "Medal_Veteran2025Bronze"
+},
+{
+    "id": 335,
+    "name": "Medal_Veteran2025Silver"
+},
+{
+    "id": 336,
+    "name": "Medal_Veteran2025Gold"
+},
+{
+    "id": 337,
+    "name": "Medal_Veteran2025EliteGold"
+},
+{
+    "id": 338,
+    "name": "Medal_Veteran2025Platinum"
+},
+{
+    "id": 339,
+    "name": "Medal_Veteran2025Diamond"
+},
+{
+    "id": 340,
+    "name": "Medal_SnowJourney"
+},
+{
+    "id": 341,
+    "name": "Medal_KitsuneDreamsBronze"
+},
+{
+    "id": 342,
+    "name": "Medal_KitsuneDreamsSilver"
+},
+{
+    "id": 343,
+    "name": "Medal_KitsuneDreamsGold"
+},
+{
+    "id": 344,
+    "name": "Medal_KitsuneDreamsEliteGold"
+},
+{
+    "id": 345,
+    "name": "Medal_KitsuneDreamsPlatinum"
+},
+{
+    "id": 346,
+    "name": "Medal_KitsuneDreamsDiamond"
+},
+{
+    "id": 347,
+    "name": "KitsuneDreamsCase"
+},
+{
+    "id": 348,
+    "name": "KitsuneDreamsBox"
+},
+{
+    "id": 349,
+    "name": "KitsuneDreamsArcaneCase"
+},
+{
+    "id": 350,
+    "name": "Box_Prey"
+},
+{
+    "id": 351,
+    "name": "Case_Prey"
+},
+{
+    "id": 352,
+    "name": "Medal_PreyBronze"
+},
+{
+    "id": 353,
+    "name": "Medal_PreySilver"
+},
+{
+    "id": 354,
+    "name": "Medal_PreyGold"
+},
+{
+    "id": 355,
+    "name": "Medal_PreyEliteGold"
+},
+{
+    "id": 356,
+    "name": "Medal_PreyPlatinum"
+},
+{
+    "id": 357,
+    "name": "Medal_PreyDiamond"
+},
+{
+    "id": 358,
+    "name": "ArcaneCase_Prey"
+},
+{
+    "id": 359,
+    "name": "Case_Dynasty"
+},
+{
+    "id": 360,
+    "name": "GiftCase_Great"
+},
+{
+    "id": 361,
+    "name": "GiftCase_Prime"
+},
+{
+    "id": 362,
+    "name": "GiftCase_Ultimate"
+},
+{
+    "id": 363,
+    "name": "Case_Gambit"
+},
+{
+    "id": 364,
+    "name": "Box_Gambit"
+},
+{
+    "id": 365,
+    "name": "ArcaneCase_Gambit"
+},
+{
+    "id": 366,
+    "name": "Medal_GambitBronze"
+},
+{
+    "id": 367,
+    "name": "Medal_GambitSilver"
+},
+{
+    "id": 368,
+    "name": "Medal_GambitGold"
+},
+{
+    "id": 369,
+    "name": "Medal_GambitEliteGold"
+},
+{
+    "id": 370,
+    "name": "Medal_GambitPlatinum"
+},
+{
+    "id": 371,
+    "name": "Medal_GambitDiamond"
+},
+{
+    "id": 372,
+    "name": "Medal_SyndicateBronze"
+},
+{
+    "id": 373,
+    "name": "Medal_SyndicateSilver"
+},
+{
+    "id": 374,
+    "name": "Medal_SyndicateGold"
+},
+{
+    "id": 375,
+    "name": "Medal_SyndicateEliteGold"
+},
+{
+    "id": 376,
+    "name": "Medal_SyndicatePlatinum"
+},
+{
+    "id": 377,
+    "name": "Medal_SyndicateDiamond"
+},
+{
+    "id": 378,
+    "name": "ArcaneCase_Syndicate"
+},
+{
+    "id": 379,
+    "name": "Crate_Syndicate"
+},
+{
+    "id": 380,
+    "name": "Case_Syndicate"
+},
+{
+    "id": 381,
+    "name": "TacticalBox_Syndicate"
+},
+{
+    "id": 382,
+    "name": "EventCrate_Syndicate"
+},
+{
+    "id": 383,
+    "name": "EventBox_Syndicate"
+},
+{
+    "id": 384,
+    "name": "EventCase_Syndicate"
+},
+{
+    "id": 385,
+    "name": "Crate_DiaDeMuertos"
+},
+{
+    "id": 386,
+    "name": "Case_DiaDeMuertos"
+},
+{
+    "id": 387,
+    "name": "ArcaneCase_DiaDeMuertos"
+},
+{
+    "id": 388,
+    "name": "EventCase_DiaDeMuertos"
+},
+{
+    "id": 389,
+    "name": "TacticalBox_DiaDeMuertos"
+},
+{
+    "id": 390,
+    "name": "Case_WinterTale"
+},
+{
+    "id": 391,
+    "name": "Crate_WinterTale"
+},
+{
+    "id": 392,
+    "name": "Case_Valor"
+},
+{
+    "id": 393,
+    "name": "ArcaneCase_WinterTale"
+},
+{
+    "id": 394,
+    "name": "EventCrate_YearOfTheHorse"
+},
+{
+    "id": 395,
+    "name": "EventCase_YearOfTheHorse"
+},
+{
+    "id": 401,
+    "name": "OriginBox"
+},
+{
+    "id": 402,
+    "name": "FuriousBox"
+},
+{
+    "id": 403,
+    "name": "RivalBox"
+},
+{
+    "id": 404,
+    "name": "FableBox"
+},
+{
+    "id": 405,
+    "name": "ScorpionBox"
+},
+{
+    "id": 406,
+    "name": "EmpireBox"
+},
+{
+    "id": 407,
+    "name": "SharpBox"
+},
+{
+    "id": 408,
+    "name": "Box_Revenge"
+},
+{
+    "id": 409,
+    "name": "Box_Chameleon"
+},
+{
+    "id": 410,
+    "name": "Crate_Dynasty"
+},
+{
+    "id": 411,
+    "name": "Crate_Stream"
+},
+{
+    "id": 412,
+    "name": "Crate_PawPawStream"
+},
+{
+    "id": 413,
+    "name": "Crate_Valor"
+},
+{
+    "id": 501,
+    "name": "GiftNewYear2019"
+},
+{
+    "id": 502,
+    "name": "GiftBox_WinterTale"
+},
+{
+    "id": 601,
+    "name": "TwoYearsEventGoldPass"
+},
+{
+    "id": 602,
+    "name": "NewYearMadness2020GoldPass"
+},
+{
+    "id": 603,
+    "name": "ProjectZ9GoldPass"
+},
+{
+    "id": 604,
+    "name": "RevivalGoldPass"
+},
+{
+    "id": 605,
+    "name": "NewYear2021GoldPass"
+},
+{
+    "id": 606,
+    "name": "FourYearGoldPass"
+},
+{
+    "id": 607,
+    "name": "DragonRiseGoldPass"
+},
+{
+    "id": 608,
+    "name": "CursedSoulsGoldPass"
+},
+{
+    "id": 609,
+    "name": "WinterFun2022GoldPass"
+},
+{
+    "id": 610,
+    "name": "FiveYearGoldPass"
+},
+{
+    "id": 611,
+    "name": "LegendsGoldPass"
+},
+{
+    "id": 612,
+    "name": "PandoraGoldPass"
+},
+{
+    "id": 613,
+    "name": "GoldPass_HotWinterParty"
+},
+{
+    "id": 614,
+    "name": "GoldPass_Fireborn"
+},
+{
+    "id": 615,
+    "name": "GoldPass_SpaceVision"
+},
+{
+    "id": 616,
+    "name": "GoldPass_Sunstrike"
+},
+{
+    "id": 617,
+    "name": "GoldPass_SubjectX"
+},
+{
+    "id": 618,
+    "name": "GoldPass_FrostyChaos"
+},
+{
+    "id": 619,
+    "name": "GoldPass_Outcast"
+},
+{
+    "id": 620,
+    "name": "GoldPass_FunAndSun"
+},
+{
+    "id": 621,
+    "name": "GoldPass_Reforged"
+},
+{
+    "id": 622,
+    "name": "GoldPass_Nightmare"
+},
+{
+    "id": 624,
+    "name": "GoldPass_KitsuneDreams"
+},
+{
+    "id": 625,
+    "name": "GoldPass_Prey"
+},
+{
+    "id": 626,
+    "name": "GoldPass_Gambit"
+},
+{
+    "id": 627,
+    "name": "GoldPass_Syndicate"
+},
+{
+    "id": 628,
+    "name": "GoldPass_DiaDeMuertos"
+},
+{
+    "id": 629,
+    "name": "GoldPass_WinterTale"
+},
+{
+    "id": 701,
+    "name": "Halloween2019StickersPack"
+},
+{
+    "id": 702,
+    "name": "RainbowStickerPack"
+},
+{
+    "id": 703,
+    "name": "GraffitiPack_Splash"
+},
+{
+    "id": 704,
+    "name": "GraffitiPack_Flow"
+},
+{
+    "id": 705,
+    "name": "ShineStickerPack"
+},
+{
+    "id": 706,
+    "name": "GraffitiPack_FunAndSun"
+},
+{
+    "id": 707,
+    "name": "StickerPack_FunAndSun"
+},
+{
+    "id": 708,
+    "name": "CharmPack_FunAndSun"
+},
+{
+    "id": 709,
+    "name": "GraffitiPack_Vibe"
+},
+{
+    "id": 710,
+    "name": "CharmPack_Reforged"
+},
+{
+    "id": 711,
+    "name": "StickerPack_Reforged"
+},
+{
+    "id": 712,
+    "name": "GraffitiPack_Reforged"
+},
+{
+    "id": 713,
+    "name": "StickerPack_Nightmare"
+},
+{
+    "id": 714,
+    "name": "GraffitiPack_Nightmare"
+},
+{
+    "id": 715,
+    "name": "CharmPack_Nightmare"
+},
+{
+    "id": 716,
+    "name": "StickerPack_FORZEMajor2024"
+},
+{
+    "id": 717,
+    "name": "StickerPack_ALPHA7ESPORTSMajor2024"
+},
+{
+    "id": 718,
+    "name": "StickerPack_STREETEIGHTMajor2024"
+},
+{
+    "id": 719,
+    "name": "StickerPack_AMKALESPORTSMajor2024"
+},
+{
+    "id": 720,
+    "name": "CharmPack_KitsuneDreams"
+},
+{
+    "id": 721,
+    "name": "GraffitiPack_KitsuneDreams"
+},
+{
+    "id": 722,
+    "name": "StickerPack_KitsuneDreams"
+},
+{
+    "id": 723,
+    "name": "StickerPack_Joy"
+},
+{
+    "id": 724,
+    "name": "StickerPack_Prey"
+},
+{
+    "id": 725,
+    "name": "GraffitiPack_Prey"
+},
+{
+    "id": 726,
+    "name": "CharmPack_Prey"
+},
+{
+    "id": 727,
+    "name": "StickerPack_Gambit"
+},
+{
+    "id": 728,
+    "name": "CharmPack_Gambit"
+},
+{
+    "id": 729,
+    "name": "GraffitiPack_Gambit"
+},
+{
+    "id": 730,
+    "name": "CharmPack_Rewind"
+},
+{
+    "id": 731,
+    "name": "GraffitiPack_Syndicate"
+},
+{
+    "id": 732,
+    "name": "StickerPack_Syndicate"
+},
+{
+    "id": 733,
+    "name": "CharmPack_Syndicate"
+},
+{
+    "id": 734,
+    "name": "GraffitiPack_DiaDeMuertos"
+},
+{
+    "id": 735,
+    "name": "StickerPack_DiaDeMuertos"
+},
+{
+    "id": 736,
+    "name": "CharmPack_DiaDeMuertos"
+},
+{
+    "id": 737,
+    "name": "GraffitiPack_WinterTale"
+},
+{
+    "id": 738,
+    "name": "StickerPack_WinterTale"
+},
+{
+    "id": 739,
+    "name": "CharmPack_WinterTale"
+},
+{
+    "id": 801,
+    "name": "XP_500Xp"
+},
+{
+    "id": 802,
+    "name": "XP_1000Xp"
+},
+{
+    "id": 803,
+    "name": "EventHalloweenContract1"
+},
+{
+    "id": 804,
+    "name": "EventHalloweenContract2"
+},
+{
+    "id": 805,
+    "name": "EventHalloweenContract3_Rare1"
+},
+{
+    "id": 806,
+    "name": "EventHalloweenContract3_Rare2"
+},
+{
+    "id": 807,
+    "name": "EventHalloweenContract3_Rare3"
+},
+{
+    "id": 808,
+    "name": "EventHalloweenContract3_Epic1"
+},
+{
+    "id": 809,
+    "name": "EventHalloweenContract3_Epic2"
+},
+{
+    "id": 810,
+    "name": "EventHalloweenContract3_Legendary1"
+},
+{
+    "id": 811,
+    "name": "EventHalloweenContract3_Arcane1"
+},
+{
+    "id": 812,
+    "name": "EventHalloweenContract3_Arcane2"
+},
+{
+    "id": 813,
+    "name": "EventHalloweenContract4"
+},
+{
+    "id": 814,
+    "name": "BoardGameCell1"
+},
+{
+    "id": 815,
+    "name": "BoardGameCell2"
+},
+{
+    "id": 816,
+    "name": "BoardGameCell3"
+},
+{
+    "id": 817,
+    "name": "BoardGameCell4"
+},
+{
+    "id": 818,
+    "name": "BoardGameCell5"
+},
+{
+    "id": 819,
+    "name": "BoardGameCell6"
+},
+{
+    "id": 820,
+    "name": "BoardGameCell7"
+},
+{
+    "id": 821,
+    "name": "BoardGameCell8"
+},
+{
+    "id": 822,
+    "name": "BoardGameCell9"
+},
+{
+    "id": 823,
+    "name": "BoardGameCell10"
+},
+{
+    "id": 824,
+    "name": "BoardGameCell11"
+},
+{
+    "id": 825,
+    "name": "BoardGameCell12"
+},
+{
+    "id": 826,
+    "name": "BoardGameCell13"
+},
+{
+    "id": 827,
+    "name": "BoardGameCell14"
+},
+{
+    "id": 828,
+    "name": "BoardGameCell15"
+},
+{
+    "id": 829,
+    "name": "BoardGameCell16"
+},
+{
+    "id": 830,
+    "name": "BoardGameCell17"
+},
+{
+    "id": 831,
+    "name": "BoardGameCell18"
+},
+{
+    "id": 832,
+    "name": "BoardGameCell19"
+},
+{
+    "id": 833,
+    "name": "BoardGameCell20"
+},
+{
+    "id": 834,
+    "name": "BoardGameCell21"
+},
+{
+    "id": 835,
+    "name": "BoardGameCell22"
+},
+{
+    "id": 836,
+    "name": "BoardGameCell23"
+},
+{
+    "id": 837,
+    "name": "BoardGameCell24"
+},
+{
+    "id": 838,
+    "name": "NewYear2026DailyGiftUnlockItem"
+},
+{
+    "id": 839,
+    "name": "NewYear2026GiftBoxUnlockItem"
+},
+{
+    "id": 840,
+    "name": "NewYear2026GiftBoxBlockItem"
+},
+{
+    "id": 841,
+    "name": "NewYear2026EventShopProModeUnlockItem"
+},
+{
+    "id": 900,
+    "name": "FragmentBox"
+},
+{
+    "id": 901,
+    "name": "Halloween2020CharmsPack"
+},
+{
+    "id": 902,
+    "name": "UncommonFragment"
+},
+{
+    "id": 903,
+    "name": "RareFragment"
+},
+{
+    "id": 904,
+    "name": "EpicFragment"
+},
+{
+    "id": 905,
+    "name": "LegendaryFragment"
+},
+{
+    "id": 906,
+    "name": "ArcaneFragment"
+},
+{
+    "id": 907,
+    "name": "NamelessFragment"
+},
+{
+    "id": 1101,
+    "name": "GoldSkull"
+},
+{
+    "id": 1102,
+    "name": "Punisher"
+},
+{
+    "id": 1103,
+    "name": "MadBat"
+},
+{
+    "id": 1104,
+    "name": "InfernalSkull"
+},
+{
+    "id": 1105,
+    "name": "Ghoul"
+},
+{
+    "id": 1106,
+    "name": "Batrider"
+},
+{
+    "id": 1107,
+    "name": "GangstaPumpkin"
+},
+{
+    "id": 1108,
+    "name": "Snot"
+},
+{
+    "id": 1109,
+    "name": "Devilish"
+},
+{
+    "id": 1110,
+    "name": "HurryGhost"
+},
+{
+    "id": 1111,
+    "name": "Feed"
+},
+{
+    "id": 1112,
+    "name": "Anticamper"
+},
+{
+    "id": 1113,
+    "name": "S1001"
+},
+{
+    "id": 1114,
+    "name": "BloodyClown"
+},
+{
+    "id": 1115,
+    "name": "Ghosty"
+},
+{
+    "id": 1116,
+    "name": "Mummy"
+},
+{
+    "id": 1117,
+    "name": "Rush"
+},
+{
+    "id": 1118,
+    "name": "EvilPumpkin"
+},
+{
+    "id": 1119,
+    "name": "Zombie"
+},
+{
+    "id": 1120,
+    "name": "Dracula"
+},
+{
+    "id": 1121,
+    "name": "Sticker_New1"
+},
+{
+    "id": 1122,
+    "name": "Sticker_New2"
+},
+{
+    "id": 1123,
+    "name": "Sticker_New3"
+},
+{
+    "id": 1124,
+    "name": "Sticker_New4"
+},
+{
+    "id": 1125,
+    "name": "Sticker_New5"
+},
+{
+    "id": 1126,
+    "name": "Sticker_New6"
+},
+{
+    "id": 1127,
+    "name": "Sticker_New7"
+},
+{
+    "id": 1128,
+    "name": "Sticker_New8"
+},
+{
+    "id": 1129,
+    "name": "Sticker_New9"
+},
+{
+    "id": 1130,
+    "name": "Sticker_New10"
+},
+{
+    "id": 1131,
+    "name": "Sticker_New11"
+},
+{
+    "id": 1132,
+    "name": "Sticker_New12"
+},
+{
+    "id": 1133,
+    "name": "Sticker_Biohazard"
+},
+{
+    "id": 1134,
+    "name": "Sticker_Danger"
+},
+{
+    "id": 1135,
+    "name": "Sticker_DangerZone"
+},
+{
+    "id": 1136,
+    "name": "Sticker_DropTheBomb"
+},
+{
+    "id": 1137,
+    "name": "Sticker_GasMask"
+},
+{
+    "id": 1138,
+    "name": "Sticker_Z9Mask"
+},
+{
+    "id": 1139,
+    "name": "Sticker_Z9MaskColor"
+},
+{
+    "id": 1140,
+    "name": "Sticker_Murder"
+},
+{
+    "id": 1141,
+    "name": "Sticker_RadiateHeat"
+},
+{
+    "id": 1142,
+    "name": "Sticker_Radiation"
+},
+{
+    "id": 1143,
+    "name": "Sticker_SmokeGrenade"
+},
+{
+    "id": 1144,
+    "name": "Sticker_Toxic"
+},
+{
+    "id": 1145,
+    "name": "Sticker_ToxicColor"
+},
+{
+    "id": 1146,
+    "name": "Sticker_Z9Project"
+},
+{
+    "id": 1147,
+    "name": "Sticker_Z9ProjectGold"
+},
+{
+    "id": 1200,
+    "name": "Sticker_Minus28"
+},
+{
+    "id": 1201,
+    "name": "Sticker_AWPMaster"
+},
+{
+    "id": 1202,
+    "name": "Sticker_AWPMasterColor"
+},
+{
+    "id": 1203,
+    "name": "Sticker_Dragon"
+},
+{
+    "id": 1204,
+    "name": "Sticker_EntryKill"
+},
+{
+    "id": 1205,
+    "name": "Sticker_GrenadeWithLove"
+},
+{
+    "id": 1206,
+    "name": "Sticker_HeadshotZone"
+},
+{
+    "id": 1207,
+    "name": "Sticker_King"
+},
+{
+    "id": 1208,
+    "name": "Sticker_NiceSkill"
+},
+{
+    "id": 1209,
+    "name": "Sticker_NiceSkillColor"
+},
+{
+    "id": 1210,
+    "name": "Sticker_Pro"
+},
+{
+    "id": 1211,
+    "name": "Sticker_Samurai"
+},
+{
+    "id": 1212,
+    "name": "Sticker_SpareGold"
+},
+{
+    "id": 1213,
+    "name": "Sticker_StrikeColor"
+},
+{
+    "id": 1214,
+    "name": "Sticker_V2"
+},
+{
+    "id": 1215,
+    "name": "Sticker_V2Pro"
+},
+{
+    "id": 1216,
+    "name": "Sticker_DeagleMaster"
+},
+{
+    "id": 1217,
+    "name": "Sticker_DeagleMasterColor"
+},
+{
+    "id": 1218,
+    "name": "Sticker_LuckyStar"
+},
+{
+    "id": 1220,
+    "name": "StickerBigBoy"
+},
+{
+    "id": 1221,
+    "name": "StickerFireColor"
+},
+{
+    "id": 1222,
+    "name": "StickerHotGunColor"
+},
+{
+    "id": 1223,
+    "name": "StickerInfernalMachineColor"
+},
+{
+    "id": 1224,
+    "name": "StickerNeonColor"
+},
+{
+    "id": 1225,
+    "name": "StickerNotToday"
+},
+{
+    "id": 1226,
+    "name": "StickerPhoenixBlazonColor"
+},
+{
+    "id": 1227,
+    "name": "StickerPhoenixBlazonGold"
+},
+{
+    "id": 1228,
+    "name": "StickerPhoenixColor"
+},
+{
+    "id": 1229,
+    "name": "StickerRage"
+},
+{
+    "id": 1230,
+    "name": "StickerRebirthColor"
+},
+{
+    "id": 1231,
+    "name": "StickerShooter"
+},
+{
+    "id": 1232,
+    "name": "StickerPewnguin"
+},
+{
+    "id": 1233,
+    "name": "StickerGreenSinister"
+},
+{
+    "id": 1234,
+    "name": "StickerCandyCane"
+},
+{
+    "id": 1235,
+    "name": "StickerCandyCaneColor"
+},
+{
+    "id": 1236,
+    "name": "StickerFrostyStorm"
+},
+{
+    "id": 1237,
+    "name": "StickerFlake"
+},
+{
+    "id": 1238,
+    "name": "StickerFlakeHolo"
+},
+{
+    "id": 1239,
+    "name": "StickerPolarClarity"
+},
+{
+    "id": 1240,
+    "name": "StickerIronOx"
+},
+{
+    "id": 1241,
+    "name": "StickerGoldenOx"
+},
+{
+    "id": 1242,
+    "name": "StickerWinterFun"
+},
+{
+    "id": 1243,
+    "name": "StickerWinterFunColor"
+},
+{
+    "id": 1244,
+    "name": "Sticker_4Years"
+},
+{
+    "id": 1245,
+    "name": "Sticker_4YearsColor"
+},
+{
+    "id": 1246,
+    "name": "Sticker_4YearsMetallic"
+},
+{
+    "id": 1247,
+    "name": "Sticker_Brick"
+},
+{
+    "id": 1248,
+    "name": "Sticker_Carpet"
+},
+{
+    "id": 1249,
+    "name": "Sticker_Grapes"
+},
+{
+    "id": 1250,
+    "name": "Sticker_Humvee"
+},
+{
+    "id": 1251,
+    "name": "Sticker_Pizza"
+},
+{
+    "id": 1252,
+    "name": "Sticker_Province"
+},
+{
+    "id": 1253,
+    "name": "Sticker_ProvinceGold"
+},
+{
+    "id": 1254,
+    "name": "Sticker_Rust"
+},
+{
+    "id": 1255,
+    "name": "Sticker_RustMetallic"
+},
+{
+    "id": 1256,
+    "name": "Sticker_Sandstone"
+},
+{
+    "id": 1257,
+    "name": "Sticker_SandstoneGold"
+},
+{
+    "id": 1258,
+    "name": "Sticker_SectorB"
+},
+{
+    "id": 1259,
+    "name": "Sticker_Target"
+},
+{
+    "id": 1260,
+    "name": "Sticker_Zone9"
+},
+{
+    "id": 1261,
+    "name": "Sticker_Zone9Color"
+},
+{
+    "id": 1262,
+    "name": "Sticker_Ambush"
+},
+{
+    "id": 1263,
+    "name": "Sticker_Koi"
+},
+{
+    "id": 1264,
+    "name": "Sticker_KoiColor"
+},
+{
+    "id": 1265,
+    "name": "Sticker_Akuma"
+},
+{
+    "id": 1266,
+    "name": "Sticker_Kunoichi"
+},
+{
+    "id": 1267,
+    "name": "Sticker_Kitsune"
+},
+{
+    "id": 1268,
+    "name": "Sticker_NeonDragon"
+},
+{
+    "id": 1269,
+    "name": "Sticker_NeonDragonColor"
+},
+{
+    "id": 1270,
+    "name": "Sticker_FluffyAssassin"
+},
+{
+    "id": 1271,
+    "name": "Sticker_SunsetGold"
+},
+{
+    "id": 1272,
+    "name": "Sticker_EmperorsGuard"
+},
+{
+    "id": 1273,
+    "name": "Sticker_ZenChipColor"
+},
+{
+    "id": 1274,
+    "name": "Sticker_Sakura"
+},
+{
+    "id": 1275,
+    "name": "Sticker_SakuraColor"
+},
+{
+    "id": 1276,
+    "name": "Sticker_Endurance"
+},
+{
+    "id": 1277,
+    "name": "Sticker_Sushi"
+},
+{
+    "id": 1278,
+    "name": "Sticker_Bonsai"
+},
+{
+    "id": 1279,
+    "name": "Sticker_Luck"
+},
+{
+    "id": 1280,
+    "name": "Sticker_EnduranceColor"
+},
+{
+    "id": 1281,
+    "name": "Sticker_SushiColor"
+},
+{
+    "id": 1282,
+    "name": "Shield_RevivalBronze"
+},
+{
+    "id": 1283,
+    "name": "Shield_RevivalSilver"
+},
+{
+    "id": 1284,
+    "name": "Shield_RevivalGold"
+},
+{
+    "id": 1285,
+    "name": "Shield_RevivalEliteGold"
+},
+{
+    "id": 1286,
+    "name": "Shield_RevivalPlatinum"
+},
+{
+    "id": 1287,
+    "name": "Shield_RevivalDiamond"
+},
+{
+    "id": 1288,
+    "name": "Sticker_DemonFlame"
+},
+{
+    "id": 1289,
+    "name": "Sticker_DemonFlameColor"
+},
+{
+    "id": 1290,
+    "name": "Sticker_DemonicBeastColor"
+},
+{
+    "id": 1291,
+    "name": "Sticker_GhostLanternColor"
+},
+{
+    "id": 1292,
+    "name": "Sticker_Ogre"
+},
+{
+    "id": 1293,
+    "name": "Sticker_ShadowKitsune"
+},
+{
+    "id": 1294,
+    "name": "Sticker_ShadowKitsuneColor"
+},
+{
+    "id": 1295,
+    "name": "Sticker_SpiritHouseColor"
+},
+{
+    "id": 1296,
+    "name": "Sticker_VampirisushiColor"
+},
+{
+    "id": 1297,
+    "name": "Sticker_Becool"
+},
+{
+    "id": 1298,
+    "name": "Sticker_BecoolColor"
+},
+{
+    "id": 1299,
+    "name": "Sticker_ChristmasJoy"
+},
+{
+    "id": 1300,
+    "name": "Sticker_ChristmasJoyColor"
+},
+{
+    "id": 1301,
+    "name": "Sticker_NewYear2022"
+},
+{
+    "id": 1302,
+    "name": "Sticker_Rudolf"
+},
+{
+    "id": 1303,
+    "name": "Sticker_StripedZodiac"
+},
+{
+    "id": 1304,
+    "name": "Sticker_WinterFun"
+},
+{
+    "id": 1305,
+    "name": "Sticker_WinterFunColor"
+},
+{
+    "id": 1306,
+    "name": "Sticker_Jubilee5"
+},
+{
+    "id": 1307,
+    "name": "Sticker_Jubilee5Gold"
+},
+{
+    "id": 1308,
+    "name": "Sticker_JubileeColor"
+},
+{
+    "id": 1309,
+    "name": "Sticker_Bolt"
+},
+{
+    "id": 1310,
+    "name": "Sticker_Bolt_Gold"
+},
+{
+    "id": 1311,
+    "name": "Sticker_Cerberus"
+},
+{
+    "id": 1312,
+    "name": "Sticker_Cyclop"
+},
+{
+    "id": 1313,
+    "name": "Sticker_Gargona"
+},
+{
+    "id": 1314,
+    "name": "Sticker_Minotaur"
+},
+{
+    "id": 1315,
+    "name": "Sticker_Oblivion"
+},
+{
+    "id": 1316,
+    "name": "Sticker_Season4_Gold"
+},
+{
+    "id": 1317,
+    "name": "Sticker_Season4_Color"
+},
+{
+    "id": 1318,
+    "name": "Sticker_Victory"
+},
+{
+    "id": 1319,
+    "name": "Sticker_Zevs"
+},
+{
+    "id": 1320,
+    "name": "Sticker_Breeze"
+},
+{
+    "id": 1321,
+    "name": "Sticker_Cat"
+},
+{
+    "id": 1322,
+    "name": "Sticker_Helicopter_Color"
+},
+{
+    "id": 1323,
+    "name": "Sticker_Imserious"
+},
+{
+    "id": 1324,
+    "name": "Sticker_Imserious_Color"
+},
+{
+    "id": 1325,
+    "name": "Sticker_Lighthouse"
+},
+{
+    "id": 1326,
+    "name": "Sticker_Jellyfish"
+},
+{
+    "id": 1327,
+    "name": "Sticker_Jellyfish_Color"
+},
+{
+    "id": 1328,
+    "name": "Sticker_Pirate_Color"
+},
+{
+    "id": 1329,
+    "name": "Sticker_Squad"
+},
+{
+    "id": 1330,
+    "name": "Sticker_Cerberus_Color"
+},
+{
+    "id": 1331,
+    "name": "Shield_DragonRiseBronze"
+},
+{
+    "id": 1332,
+    "name": "Shield_DragonRiseSilver"
+},
+{
+    "id": 1333,
+    "name": "Shield_DragonRiseGold"
+},
+{
+    "id": 1334,
+    "name": "Shield_DragonRiseEliteGold"
+},
+{
+    "id": 1335,
+    "name": "Shield_DragonRisePlatinum"
+},
+{
+    "id": 1336,
+    "name": "Shield_DragonRiseDiamond"
+},
+{
+    "id": 1337,
+    "name": "Sticker_Infected"
+},
+{
+    "id": 1338,
+    "name": "Sticker_OopsColor"
+},
+{
+    "id": 1339,
+    "name": "Sticker_DrownedColor"
+},
+{
+    "id": 1340,
+    "name": "Sticker_SeaOfDeath"
+},
+{
+    "id": 1341,
+    "name": "Sticker_Hazard"
+},
+{
+    "id": 1342,
+    "name": "Sticker_Oops"
+},
+{
+    "id": 1343,
+    "name": "Sticker_HotWinterPartyGold"
+},
+{
+    "id": 1344,
+    "name": "Sticker_BoomBox"
+},
+{
+    "id": 1345,
+    "name": "Sticker_LetItSnow"
+},
+{
+    "id": 1346,
+    "name": "Sticker_HotWinterParty"
+},
+{
+    "id": 1347,
+    "name": "Sticker_IceHot"
+},
+{
+    "id": 1348,
+    "name": "Sticker_SnowMeteor"
+},
+{
+    "id": 1349,
+    "name": "Sticker_PartyRabbit"
+},
+{
+    "id": 1350,
+    "name": "Sticker_DiscoParty"
+},
+{
+    "id": 1351,
+    "name": "Shield_SO2_Silver"
+},
+{
+    "id": 1352,
+    "name": "Shield_SO2_Gold"
+},
+{
+    "id": 1353,
+    "name": "Shield_Veteran2023Bronze"
+},
+{
+    "id": 1354,
+    "name": "Shield_Veteran2023Silver"
+},
+{
+    "id": 1355,
+    "name": "Shield_Veteran2023Gold"
+},
+{
+    "id": 1356,
+    "name": "Shield_Veteran2023EliteGold"
+},
+{
+    "id": 1357,
+    "name": "Shield_Veteran2023Platinum"
+},
+{
+    "id": 1358,
+    "name": "Shield_Veteran2023Diamond"
+},
+{
+    "id": 1359,
+    "name": "Sticker_Berserker"
+},
+{
+    "id": 1360,
+    "name": "Sticker_Crest"
+},
+{
+    "id": 1361,
+    "name": "Sticker_Crown"
+},
+{
+    "id": 1362,
+    "name": "Sticker_FirebornDragon"
+},
+{
+    "id": 1363,
+    "name": "Sticker_FirebornDragonMetallic"
+},
+{
+    "id": 1364,
+    "name": "Sticker_FuryFireColor"
+},
+{
+    "id": 1365,
+    "name": "Sticker_LionLord"
+},
+{
+    "id": 1366,
+    "name": "Sticker_MadOrc"
+},
+{
+    "id": 1367,
+    "name": "Sticker_Paladin"
+},
+{
+    "id": 1368,
+    "name": "Sticker_Stealth"
+},
+{
+    "id": 1369,
+    "name": "Sticker_WyrmColor"
+},
+{
+    "id": 1370,
+    "name": "Sticker_WyrmHolographicColor"
+},
+{
+    "id": 1371,
+    "name": "Shield_LegendsBronze"
+},
+{
+    "id": 1372,
+    "name": "Shield_LegendsSilver"
+},
+{
+    "id": 1373,
+    "name": "Shield_LegendsGold"
+},
+{
+    "id": 1374,
+    "name": "Shield_LegendsEliteGold"
+},
+{
+    "id": 1375,
+    "name": "Shield_LegendsPlatinum"
+},
+{
+    "id": 1376,
+    "name": "Shield_LegendsDiamond"
+},
+{
+    "id": 1377,
+    "name": "Shield_6Years"
+},
+{
+    "id": 1378,
+    "name": "Shield_6YearsGold"
+},
+{
+    "id": 1379,
+    "name": "Sticker_BubblegumSpaceColor"
+},
+{
+    "id": 1380,
+    "name": "Sticker_VoidhoundColor"
+},
+{
+    "id": 1381,
+    "name": "Sticker_Voidhound"
+},
+{
+    "id": 1382,
+    "name": "Sticker_HardcoreColor"
+},
+{
+    "id": 1383,
+    "name": "Sticker_BolideColor"
+},
+{
+    "id": 1384,
+    "name": "Sticker_SpaceVision"
+},
+{
+    "id": 1385,
+    "name": "Shield_FirebornBronze"
+},
+{
+    "id": 1386,
+    "name": "Shield_FirebornSilver"
+},
+{
+    "id": 1387,
+    "name": "Shield_FirebornGold"
+},
+{
+    "id": 1388,
+    "name": "Shield_FirebornEliteGold"
+},
+{
+    "id": 1389,
+    "name": "Shield_FirebornPlatinum"
+},
+{
+    "id": 1390,
+    "name": "Shield_FirebornDiamond"
+},
+{
+    "id": 1391,
+    "name": "Sticker_BlackHoleColor"
+},
+{
+    "id": 1392,
+    "name": "Sticker_Label"
+},
+{
+    "id": 1393,
+    "name": "Sticker_CamelSign"
+},
+{
+    "id": 1394,
+    "name": "Sticker_ACColor"
+},
+{
+    "id": 1395,
+    "name": "Sticker_KebabJoint"
+},
+{
+    "id": 1396,
+    "name": "Sticker_FIDColor"
+},
+{
+    "id": 1397,
+    "name": "Sticker_DuneColor"
+},
+{
+    "id": 1398,
+    "name": "Sticker_Sunstrike"
+},
+{
+    "id": 1399,
+    "name": "Sticker_Venomtail"
+},
+{
+    "id": 1400,
+    "name": "Sticker_Sandman"
+},
+{
+    "id": 1401,
+    "name": "Sticker_Sultry"
+},
+{
+    "id": 1402,
+    "name": "Sticker_Marauder"
+},
+{
+    "id": 1403,
+    "name": "Sticker_MirageColor"
+},
+{
+    "id": 1404,
+    "name": "Sticker_SearingAssassin"
+},
+{
+    "id": 1405,
+    "name": "Sticker_SunstrikeGold"
+},
+{
+    "id": 1406,
+    "name": "Sticker_RunColor"
+},
+{
+    "id": 1407,
+    "name": "Sticker_TimeisoverColor"
+},
+{
+    "id": 1408,
+    "name": "Sticker_ExplorpionColor"
+},
+{
+    "id": 1409,
+    "name": "Sticker_DesertSnakeColor"
+},
+{
+    "id": 1410,
+    "name": "Sticker_UndeadGaze"
+},
+{
+    "id": 1411,
+    "name": "Sticker_SubjectX"
+},
+{
+    "id": 1412,
+    "name": "Sticker_CrazyDevilColor"
+},
+{
+    "id": 1413,
+    "name": "Sticker_CrimsonSkullColor"
+},
+{
+    "id": 1414,
+    "name": "Sticker_NightFlierColor"
+},
+{
+    "id": 1415,
+    "name": "Sticker_CleavermindedColor"
+},
+{
+    "id": 1416,
+    "name": "Sticker_MindControl"
+},
+{
+    "id": 1417,
+    "name": "Sticker_ShockedColor"
+},
+{
+    "id": 1418,
+    "name": "Sticker_ElusiveBeastColor"
+},
+{
+    "id": 1419,
+    "name": "Sticker_RabidColor"
+},
+{
+    "id": 1420,
+    "name": "Shield_Veteran2024Bronze"
+},
+{
+    "id": 1421,
+    "name": "Shield_Veteran2024Silver"
+},
+{
+    "id": 1422,
+    "name": "Shield_Veteran2024Gold"
+},
+{
+    "id": 1423,
+    "name": "Shield_Veteran2024EliteGold"
+},
+{
+    "id": 1424,
+    "name": "Shield_Veteran2024Platinum"
+},
+{
+    "id": 1425,
+    "name": "Shield_Veteran2024Diamond"
+},
+{
+    "id": 1426,
+    "name": "Sticker_BulletFlakeSwap"
+},
+{
+    "id": 1427,
+    "name": "Sticker_Loong"
+},
+{
+    "id": 1428,
+    "name": "Sticker_Frostbite"
+},
+{
+    "id": 1429,
+    "name": "Sticker_FrostyChaos"
+},
+{
+    "id": 1430,
+    "name": "Sticker_FrostbiteSwap"
+},
+{
+    "id": 1431,
+    "name": "Sticker_TalonStabColor"
+},
+{
+    "id": 1432,
+    "name": "Sticker_IceCoveredShine"
+},
+{
+    "id": 1433,
+    "name": "Sticker_YetiReflex"
+},
+{
+    "id": 1434,
+    "name": "Sticker_SnowDomeReflex"
+},
+{
+    "id": 1435,
+    "name": "Sticker_ChameleonStyle"
+},
+{
+    "id": 1436,
+    "name": "Sticker_PyreBreath"
+},
+{
+    "id": 1437,
+    "name": "Sticker_DreamTeam"
+},
+{
+    "id": 1438,
+    "name": "Sticker_Tornado"
+},
+{
+    "id": 1439,
+    "name": "Sticker_Bloodthirsty"
+},
+{
+    "id": 1440,
+    "name": "Sticker_DeagleTop"
+},
+{
+    "id": 1441,
+    "name": "Sticker_TryharderSwap"
+},
+{
+    "id": 1442,
+    "name": "Sticker_Bam"
+},
+{
+    "id": 1443,
+    "name": "Sticker_NewLegendColor"
+},
+{
+    "id": 1444,
+    "name": "Sticker_BulletproofSwap"
+},
+{
+    "id": 1445,
+    "name": "Sticker_InsightReflex"
+},
+{
+    "id": 1446,
+    "name": "Sticker_OldCamperSwap"
+},
+{
+    "id": 1447,
+    "name": "Sticker_BandaidShine"
+},
+{
+    "id": 1448,
+    "name": "Sticker_DetonationSwap"
+},
+{
+    "id": 1449,
+    "name": "Sticker_DiscoDanceSwap"
+},
+{
+    "id": 1450,
+    "name": "Sticker_9LivesSwap"
+},
+{
+    "id": 1451,
+    "name": "Sticker_SweetVictorySwap"
+},
+{
+    "id": 1452,
+    "name": "Sticker_Rrraptor"
+},
+{
+    "id": 1453,
+    "name": "Sticker_SteadyAimReflex"
+},
+{
+    "id": 1454,
+    "name": "Sticker_KawaiiShine"
+},
+{
+    "id": 1455,
+    "name": "Shield_SunstrikeBronze"
+},
+{
+    "id": 1456,
+    "name": "Shield_SunstrikeSilver"
+},
+{
+    "id": 1457,
+    "name": "Shield_SunstrikeGold"
+},
+{
+    "id": 1458,
+    "name": "Shield_SunstrikeEliteGold"
+},
+{
+    "id": 1459,
+    "name": "Shield_SunstrikePlatinum"
+},
+{
+    "id": 1460,
+    "name": "Shield_SunstrikeDiamond"
+},
+{
+    "id": 1461,
+    "name": "Sticker_Warning"
+},
+{
+    "id": 1462,
+    "name": "Sticker_Woof"
+},
+{
+    "id": 1463,
+    "name": "Sticker_SafetyFirst"
+},
+{
+    "id": 1464,
+    "name": "Sticker_OutcastSilver"
+},
+{
+    "id": 1465,
+    "name": "Sticker_AlertSwap"
+},
+{
+    "id": 1466,
+    "name": "Sticker_MiasmaSwap"
+},
+{
+    "id": 1467,
+    "name": "Sticker_CoyoteSwap"
+},
+{
+    "id": 1468,
+    "name": "Sticker_VenomizerColor"
+},
+{
+    "id": 1469,
+    "name": "Sticker_OutcastGold"
+},
+{
+    "id": 1470,
+    "name": "Sticker_SilentKillerShine"
+},
+{
+    "id": 1471,
+    "name": "Sticker_FumeWardReflex"
+},
+{
+    "id": 1472,
+    "name": "Sticker_ZoneSpatterReflex"
+},
+{
+    "id": 1473,
+    "name": "Sticker_RelaxSwap"
+},
+{
+    "id": 1474,
+    "name": "Sticker_FlamingoChill"
+},
+{
+    "id": 1475,
+    "name": "Sticker_FunAndSunGold"
+},
+{
+    "id": 1476,
+    "name": "Sticker_PartyDJShine"
+},
+{
+    "id": 1477,
+    "name": "Sticker_BubblegumSunColor"
+},
+{
+    "id": 1478,
+    "name": "Sticker_SnapshotReflex"
+},
+{
+    "id": 1479,
+    "name": "Shield_OutcastBronze"
+},
+{
+    "id": 1480,
+    "name": "Shield_OutcastSilver"
+},
+{
+    "id": 1481,
+    "name": "Shield_OutcastGold"
+},
+{
+    "id": 1482,
+    "name": "Shield_OutcastEliteGold"
+},
+{
+    "id": 1483,
+    "name": "Shield_OutcastPlatinum"
+},
+{
+    "id": 1484,
+    "name": "Shield_OutcastDiamond"
+},
+{
+    "id": 1485,
+    "name": "Sticker_ReforgedSilver"
+},
+{
+    "id": 1486,
+    "name": "Sticker_RustyGear"
+},
+{
+    "id": 1487,
+    "name": "Sticker_HardWork"
+},
+{
+    "id": 1488,
+    "name": "Sticker_IronForce"
+},
+{
+    "id": 1489,
+    "name": "Sticker_PigeonSwap"
+},
+{
+    "id": 1490,
+    "name": "Sticker_FuryGaugeSwap"
+},
+{
+    "id": 1491,
+    "name": "Sticker_Brutal"
+},
+{
+    "id": 1492,
+    "name": "Sticker_ReforgedGold"
+},
+{
+    "id": 1493,
+    "name": "Sticker_WeldingSwap"
+},
+{
+    "id": 1494,
+    "name": "Sticker_DestroyerShine"
+},
+{
+    "id": 1495,
+    "name": "Sticker_GunHeartSwap"
+},
+{
+    "id": 1496,
+    "name": "Sticker_FullMetalReflex"
+},
+{
+    "id": 1498,
+    "name": "Sticker_Arachnid"
+},
+{
+    "id": 1499,
+    "name": "Sticker_Nightmare"
+},
+{
+    "id": 1500,
+    "name": "Sticker_HypnosisColor"
+},
+{
+    "id": 1501,
+    "name": "Sticker_BewareTheBearSwap"
+},
+{
+    "id": 1502,
+    "name": "Sticker_SpectralMistShine"
+},
+{
+    "id": 1503,
+    "name": "Sticker_StalkedReflex"
+},
+{
+    "id": 1504,
+    "name": "Sticker_PlanetPlay"
+},
+{
+    "id": 1505,
+    "name": "Sticker_PerfectLeader"
+},
+{
+    "id": 1506,
+    "name": "Charm_PerfectLeader"
+},
+{
+    "id": 1507,
+    "name": "Sticker_fRONZESMajor2024"
+},
+{
+    "id": 1508,
+    "name": "Sticker_LightingMajor2024"
+},
+{
+    "id": 1509,
+    "name": "Sticker_chipaaMajor2024"
+},
+{
+    "id": 1510,
+    "name": "Sticker_w1nnerxMajor2024"
+},
+{
+    "id": 1511,
+    "name": "Sticker_qu1ns3Major2024"
+},
+{
+    "id": 1512,
+    "name": "Sticker_FORZEMajor2024Color"
+},
+{
+    "id": 1513,
+    "name": "Sticker_FORZEMajor2024Shine"
+},
+{
+    "id": 1514,
+    "name": "Sticker_MetalMajor2024"
+},
+{
+    "id": 1515,
+    "name": "Sticker_EcMMajor2024"
+},
+{
+    "id": 1516,
+    "name": "Sticker_BadDarkMajor2024"
+},
+{
+    "id": 1517,
+    "name": "Sticker_KoldzzaMajor2024"
+},
+{
+    "id": 1518,
+    "name": "Sticker_KytenMajor2024"
+},
+{
+    "id": 1519,
+    "name": "Sticker_ALPHA7ESPORTSMajor2024Color"
+},
+{
+    "id": 1520,
+    "name": "Sticker_ALPHA7ESPORTSMajor2024Shine"
+},
+{
+    "id": 1521,
+    "name": "Sticker_McQueenMajor2024"
+},
+{
+    "id": 1522,
+    "name": "Sticker_TooseMajor2024"
+},
+{
+    "id": 1523,
+    "name": "Sticker_pla1NtMajor2024"
+},
+{
+    "id": 1524,
+    "name": "Sticker_PingMajor2024"
+},
+{
+    "id": 1525,
+    "name": "Sticker_wyrdinMajor2024"
+},
+{
+    "id": 1526,
+    "name": "Sticker_STREETEIGHTMajor2024Color"
+},
+{
+    "id": 1527,
+    "name": "Sticker_STREETEIGHTMajor2024Shine"
+},
+{
+    "id": 1528,
+    "name": "Sticker_ReZzMajor2024"
+},
+{
+    "id": 1529,
+    "name": "Sticker_inviMajor2024"
+},
+{
+    "id": 1530,
+    "name": "Sticker_cxtletaMajor2024"
+},
+{
+    "id": 1531,
+    "name": "Sticker_1tappMajor2024"
+},
+{
+    "id": 1532,
+    "name": "Sticker_notbrokenMajor2024"
+},
+{
+    "id": 1533,
+    "name": "Sticker_AMKALESPORTSMajor2024Color"
+},
+{
+    "id": 1534,
+    "name": "Sticker_AMKALESPORTSMajor2024Shine"
+},
+{
+    "id": 1535,
+    "name": "Shield_Veteran2025Bronze"
+},
+{
+    "id": 1536,
+    "name": "Shield_Veteran2025Silver"
+},
+{
+    "id": 1537,
+    "name": "Shield_Veteran2025Gold"
+},
+{
+    "id": 1538,
+    "name": "Shield_Veteran2025EliteGold"
+},
+{
+    "id": 1539,
+    "name": "Shield_Veteran2025Platinum"
+},
+{
+    "id": 1540,
+    "name": "Shield_Veteran2025Diamond"
+},
+{
+    "id": 1541,
+    "name": "Sticker_SweetStarReflex"
+},
+{
+    "id": 1542,
+    "name": "Sticker_Ramen"
+},
+{
+    "id": 1543,
+    "name": "Sticker_Pengzilla"
+},
+{
+    "id": 1544,
+    "name": "Sticker_Starflare"
+},
+{
+    "id": 1545,
+    "name": "Sticker_KitsuneDreamsShine"
+},
+{
+    "id": 1546,
+    "name": "Sticker_VenomBlade"
+},
+{
+    "id": 1547,
+    "name": "Sticker_CandyCoreShine"
+},
+{
+    "id": 1548,
+    "name": "Sitcker_FoxwishReflex"
+},
+{
+    "id": 1549,
+    "name": "Sticker_OhNoColor"
+},
+{
+    "id": 1550,
+    "name": "Sticker_HaHaClassic"
+},
+{
+    "id": 1551,
+    "name": "Sticker_ThinkAboutIt"
+},
+{
+    "id": 1552,
+    "name": "Sticker_WaitWhat"
+},
+{
+    "id": 1553,
+    "name": "Sticker_PoolOfTears"
+},
+{
+    "id": 1554,
+    "name": "Sticker_ThatFeeling"
+},
+{
+    "id": 1555,
+    "name": "Sticker_Intriguing"
+},
+{
+    "id": 1556,
+    "name": "Sticker_SadCat"
+},
+{
+    "id": 1557,
+    "name": "Sticker_RushAorBSwap"
+},
+{
+    "id": 1558,
+    "name": "Sticker_WiseChoiceSwap"
+},
+{
+    "id": 1559,
+    "name": "Sticker_ThisIsFineSwap"
+},
+{
+    "id": 1560,
+    "name": "Sticker_GoodLootSwap"
+},
+{
+    "id": 1561,
+    "name": "Sticker_LovePawsColor"
+},
+{
+    "id": 1562,
+    "name": "Sticker_PopCTSwap"
+},
+{
+    "id": 1563,
+    "name": "Sticker_TriggeredSwap"
+},
+{
+    "id": 1564,
+    "name": "Sticker_YourFaultSwap"
+},
+{
+    "id": 1565,
+    "name": "Sticker_LikeABossShine"
+},
+{
+    "id": 1566,
+    "name": "Sticker_GigaSAUG"
+},
+{
+    "id": 1567,
+    "name": "Sticker_SigmaSwap"
+},
+{
+    "id": 1568,
+    "name": "Sticker_LonelyLookReflex"
+},
+{
+    "id": 1569,
+    "name": "Shield_ReforgedBronze"
+},
+{
+    "id": 1570,
+    "name": "Shield_ReforgedSilver"
+},
+{
+    "id": 1571,
+    "name": "Shield_ReforgedGold"
+},
+{
+    "id": 1572,
+    "name": "Shield_ReforgedEliteGold"
+},
+{
+    "id": 1573,
+    "name": "Shield_ReforgedPlatinum"
+},
+{
+    "id": 1574,
+    "name": "Shield_ReforgedDiamond"
+},
+{
+    "id": 1575,
+    "name": "Sticker_Prey"
+},
+{
+    "id": 1576,
+    "name": "Sticker_NoRush"
+},
+{
+    "id": 1577,
+    "name": "Sticker_Capybara"
+},
+{
+    "id": 1578,
+    "name": "Sticker_GunRun"
+},
+{
+    "id": 1579,
+    "name": "Sticker_DoubleTroubleColor"
+},
+{
+    "id": 1580,
+    "name": "Sticker_OmgSwap"
+},
+{
+    "id": 1581,
+    "name": "Sticker_GolazoShine"
+},
+{
+    "id": 1582,
+    "name": "Sticker_PreyColor"
+},
+{
+    "id": 1583,
+    "name": "Sticker_ProwlerReflex"
+},
+{
+    "id": 1584,
+    "name": "Sticker_ChirpSwap"
+},
+{
+    "id": 1585,
+    "name": "Sticker_BackfireReflex"
+},
+{
+    "id": 1586,
+    "name": "Sticker_TocoColor"
+},
+{
+    "id": 1587,
+    "name": "Shield_8Years"
+},
+{
+    "id": 1588,
+    "name": "Sticker_8Years"
+},
+{
+    "id": 1589,
+    "name": "Sticker_Gambit"
+},
+{
+    "id": 1590,
+    "name": "Sticker_Hothead"
+},
+{
+    "id": 1591,
+    "name": "Sticker_SecretIslandSwap"
+},
+{
+    "id": 1592,
+    "name": "Sticker_LaserGameShine"
+},
+{
+    "id": 1593,
+    "name": "Sticker_SigilSwap"
+},
+{
+    "id": 1594,
+    "name": "Sticker_LabyrinthReflex"
+},
+{
+    "id": 1595,
+    "name": "Shield_PreyBronze"
+},
+{
+    "id": 1596,
+    "name": "Shield_PreySilver"
+},
+{
+    "id": 1597,
+    "name": "Shield_PreyGold"
+},
+{
+    "id": 1598,
+    "name": "Shield_PreyEliteGold"
+},
+{
+    "id": 1599,
+    "name": "Shield_PreyPlatinum"
+},
+{
+    "id": 1600,
+    "name": "Shield_PreyDiamond"
+},
+{
+    "id": 1601,
+    "name": "Sticker_BladeDancerReflex"
+},
+{
+    "id": 1602,
+    "name": "Sticker_KoGasumi"
+},
+{
+    "id": 1603,
+    "name": "Sticker_OrchidShine"
+},
+{
+    "id": 1604,
+    "name": "Sticker_SyndicateGold"
+},
+{
+    "id": 1605,
+    "name": "Sticker_DriftKingSwap"
+},
+{
+    "id": 1606,
+    "name": "Sticker_RikishiColor"
+},
+{
+    "id": 1607,
+    "name": "Sticker_PufferfishSwap"
+},
+{
+    "id": 1608,
+    "name": "Sticker_Authority"
+},
+{
+    "id": 1609,
+    "name": "Sticker_SyndicateSilver"
+},
+{
+    "id": 1610,
+    "name": "Sticker_OniTattoo"
+},
+{
+    "id": 1611,
+    "name": "Sticker_KoiTattoo"
+},
+{
+    "id": 1612,
+    "name": "Sticker_KikuTattoo"
+},
+{
+    "id": 1613,
+    "name": "Sticker_SyndicateColor"
+},
+{
+    "id": 1614,
+    "name": "Sticker_Syndicate"
+},
+{
+    "id": 1615,
+    "name": "Sticker_FieryLook"
+},
+{
+    "id": 1616,
+    "name": "Sticker_OctoChefSwap"
+},
+{
+    "id": 1617,
+    "name": "Sticker_StreetBossShine"
+},
+{
+    "id": 1618,
+    "name": "Sticker_PhantomPackReflex"
+},
+{
+    "id": 1619,
+    "name": "Sticker_DeadlyDrawSwap"
+},
+{
+    "id": 1620,
+    "name": "Sticker_VivaLaVidaShine"
+},
+{
+    "id": 1621,
+    "name": "Sticker_ElLuchador"
+},
+{
+    "id": 1622,
+    "name": "Sticker_SpikyStrings"
+},
+{
+    "id": 1623,
+    "name": "Sticker_DiaDeMuertos"
+},
+{
+    "id": 1624,
+    "name": "Sticker_Spooky"
+},
+{
+    "id": 1625,
+    "name": "Sticker_ParanoiaReflex"
+},
+{
+    "id": 1626,
+    "name": "Sticker_VampiricBite"
+},
+{
+    "id": 1627,
+    "name": "Sticker_WinterTale"
+},
+{
+    "id": 1628,
+    "name": "Sticker_ToughPenguin"
+},
+{
+    "id": 1629,
+    "name": "Sticker_SnowAngelSwap"
+},
+{
+    "id": 1630,
+    "name": "Sticker_AngryTreeSwap"
+},
+{
+    "id": 1631,
+    "name": "Sticker_IceKillerShine"
+},
+{
+    "id": 1632,
+    "name": "Sticker_AtGunpointReflex"
+},
+{
+    "id": 1633,
+    "name": "Shield_Veteran2026Bronze"
+},
+{
+    "id": 1634,
+    "name": "Shield_Veteran2026Silver"
+},
+{
+    "id": 1635,
+    "name": "Shield_Veteran2026Gold"
+},
+{
+    "id": 1636,
+    "name": "Shield_Veteran2026EliteGold"
+},
+{
+    "id": 1637,
+    "name": "Shield_Veteran2026Platinum"
+},
+{
+    "id": 1638,
+    "name": "Shield_Veteran2026Diamond"
+},
+{
+    "id": 1645,
+    "name": "Sticker_YearOfTheHorseSilver"
+},
+{
+    "id": 1646,
+    "name": "Sticker_YearOfTheHorseDiamond"
+},
+{
+    "id": 3000,
+    "name": "GlovesPhoenix"
+},
+{
+    "id": 3001,
+    "name": "GlovesAutumn"
+},
+{
+    "id": 3002,
+    "name": "GlovesGeometric"
+},
+{
+    "id": 3003,
+    "name": "GlovesRetroWave"
+},
+{
+    "id": 3004,
+    "name": "GlovesLivingFlame"
+},
+{
+    "id": 3005,
+    "name": "GlovesNeuro"
+},
+{
+    "id": 3006,
+    "name": "GlovesBurningFists"
+},
+{
+    "id": 3007,
+    "name": "GlovesPun"
+},
+{
+    "id": 3008,
+    "name": "GlovesChampion"
+},
+{
+    "id": 3009,
+    "name": "GlovesSteamRider"
+},
+{
+    "id": 3010,
+    "name": "Gloves_YearOfTheTiger"
+},
+{
+    "id": 3011,
+    "name": "Gloves_Acid"
+},
+{
+    "id": 3012,
+    "name": "Gloves_Camo"
+},
+{
+    "id": 3013,
+    "name": "Gloves_Fossil"
+},
+{
+    "id": 3014,
+    "name": "Gloves_Handcraft"
+},
+{
+    "id": 3015,
+    "name": "Gloves_Raider"
+},
+{
+    "id": 3016,
+    "name": "Gloves_Thug"
+},
+{
+    "id": 3017,
+    "name": "Gloves_Fireborn1"
+},
+{
+    "id": 3018,
+    "name": "Gloves_Fireborn2"
+},
+{
+    "id": 3019,
+    "name": "Gloves_Fireborn3"
+},
+{
+    "id": 3020,
+    "name": "Gloves_Fireborn4"
+},
+{
+    "id": 3021,
+    "name": "Gloves_Fireborn5"
+},
+{
+    "id": 3022,
+    "name": "Gloves_Fireborn6"
+},
+{
+    "id": 3023,
+    "name": "Gloves_Flux"
+},
+{
+    "id": 3024,
+    "name": "Gloves_Shatter"
+},
+{
+    "id": 3025,
+    "name": "Gloves_Haunt"
+},
+{
+    "id": 3026,
+    "name": "Gloves_Plague"
+},
+{
+    "id": 3027,
+    "name": "Gloves_AcidVeil"
+},
+{
+    "id": 3028,
+    "name": "Gloves_Immolation"
+},
+{
+    "id": 3030,
+    "name": "Gloves_Stream"
+},
+{
+    "id": 3031,
+    "name": "Gloves_Artificer"
+},
+{
+    "id": 3032,
+    "name": "Gloves_DragonGlass"
+},
+{
+    "id": 3033,
+    "name": "Gloves_Mimicry"
+},
+{
+    "id": 3034,
+    "name": "Gloves_Rebellion"
+},
+{
+    "id": 3035,
+    "name": "Gloves_Utility"
+},
+{
+    "id": 3036,
+    "name": "Gloves_Ironclad"
+},
+{
+    "id": 3037,
+    "name": "Gloves_Spectral"
+},
+{
+    "id": 3038,
+    "name": "Gloves_Gangster"
+},
+{
+    "id": 3039,
+    "name": "Gloves_Polymer"
+},
+{
+    "id": 3040,
+    "name": "Gloves_Hanami"
+},
+{
+    "id": 3041,
+    "name": "Gloves_Feral"
+},
+{
+    "id": 3042,
+    "name": "Gloves_Marble"
+},
+{
+    "id": 3043,
+    "name": "Gloves_Slash"
+},
+{
+    "id": 3044,
+    "name": "Gloves_Frond"
+},
+{
+    "id": 3045,
+    "name": "Gloves_Spray"
+},
+{
+    "id": 3046,
+    "name": "Gloves_Flicker"
+},
+{
+    "id": 3047,
+    "name": "Gloves_Impulse"
+},
+{
+    "id": 3048,
+    "name": "Gloves_Ravage"
+},
+{
+    "id": 3049,
+    "name": "Gloves_Dread"
+},
+{
+    "id": 3050,
+    "name": "Gloves_Ritual"
+},
+{
+    "id": 3051,
+    "name": "Gloves_WhiteCammo"
+},
+{
+    "id": 3052,
+    "name": "Gloves_Gambit"
+},
+{
+    "id": 3053,
+    "name": "Gloves_Tessera"
+},
+{
+    "id": 3054,
+    "name": "Gloves_SkeletalHand"
+},
+{
+    "id": 4000,
+    "name": "Graffiti_High5_Packed"
+},
+{
+    "id": 4001,
+    "name": "Graffiti_High5"
+},
+{
+    "id": 4002,
+    "name": "Graffiti_High5Splash_Packed"
+},
+{
+    "id": 4003,
+    "name": "Graffiti_High5Splash"
+},
+{
+    "id": 4004,
+    "name": "Graffiti_AppleTarget"
+},
+{
+    "id": 4005,
+    "name": "Graffiti_AppleTarget_Packed"
+},
+{
+    "id": 4006,
+    "name": "Graffiti_ChibiKT"
+},
+{
+    "id": 4007,
+    "name": "Graffiti_ChibiKT_Packed"
+},
+{
+    "id": 4008,
+    "name": "Graffiti_ChibiT"
+},
+{
+    "id": 4009,
+    "name": "Graffiti_ChibiT_Packed"
+},
+{
+    "id": 4010,
+    "name": "Graffiti_Cupidon"
+},
+{
+    "id": 4011,
+    "name": "Graffiti_Cupidon_Packed"
+},
+{
+    "id": 4012,
+    "name": "Graffiti_EatThis"
+},
+{
+    "id": 4013,
+    "name": "Graffiti_EatThis_Packed"
+},
+{
+    "id": 4014,
+    "name": "Graffiti_HeadShot"
+},
+{
+    "id": 4015,
+    "name": "Graffiti_HeadShot_Packed"
+},
+{
+    "id": 4016,
+    "name": "Graffiti_Lighting"
+},
+{
+    "id": 4017,
+    "name": "Graffiti_Lighting_Packed"
+},
+{
+    "id": 4018,
+    "name": "Graffiti_Minotaur"
+},
+{
+    "id": 4019,
+    "name": "Graffiti_Minotaur_Packed"
+},
+{
+    "id": 4020,
+    "name": "Graffiti_Olive"
+},
+{
+    "id": 4021,
+    "name": "Graffiti_Olive_Packed"
+},
+{
+    "id": 4022,
+    "name": "Graffiti_Owl"
+},
+{
+    "id": 4023,
+    "name": "Graffiti_Owl_Packed"
+},
+{
+    "id": 4024,
+    "name": "Graffiti_Pegus"
+},
+{
+    "id": 4025,
+    "name": "Graffiti_Pegus_Packed"
+},
+{
+    "id": 4026,
+    "name": "Graffiti_VictoryBubble"
+},
+{
+    "id": 4027,
+    "name": "Graffiti_VictoryBubble_Packed"
+},
+{
+    "id": 4028,
+    "name": "Graffiti_KillerShark"
+},
+{
+    "id": 4029,
+    "name": "Graffiti_KillerShark_Packed"
+},
+{
+    "id": 4030,
+    "name": "Graffiti_Octopus"
+},
+{
+    "id": 4031,
+    "name": "Graffiti_Octopus_Packed"
+},
+{
+    "id": 4032,
+    "name": "Graffiti_GoldSkull"
+},
+{
+    "id": 4033,
+    "name": "Graffiti_GoldSkull_Packed"
+},
+{
+    "id": 4034,
+    "name": "Graffiti_ZombieAttack"
+},
+{
+    "id": 4035,
+    "name": "Graffiti_ZombieAttack_Packed"
+},
+{
+    "id": 4036,
+    "name": "Graffiti_YouInfected"
+},
+{
+    "id": 4037,
+    "name": "Graffiti_YouInfected_Packed"
+},
+{
+    "id": 4038,
+    "name": "Graffiti_Observer"
+},
+{
+    "id": 4039,
+    "name": "Graffiti_Observer_Packed"
+},
+{
+    "id": 4040,
+    "name": "Graffiti_ItsOK"
+},
+{
+    "id": 4041,
+    "name": "Graffiti_ItsOK_Packed"
+},
+{
+    "id": 4042,
+    "name": "Graffiti_Hazard"
+},
+{
+    "id": 4043,
+    "name": "Graffiti_Hazard_Packed"
+},
+{
+    "id": 4044,
+    "name": "Graffiti_BewareOfZombies"
+},
+{
+    "id": 4045,
+    "name": "Graffiti_BewareOfZombies_Packed"
+},
+{
+    "id": 4046,
+    "name": "Graffiti_Ochpochmak"
+},
+{
+    "id": 4047,
+    "name": "Graffiti_Ochpochmak_Packed"
+},
+{
+    "id": 4048,
+    "name": "Graffiti_LuckyNumber"
+},
+{
+    "id": 4049,
+    "name": "Graffiti_LuckyNumber_Packed"
+},
+{
+    "id": 4050,
+    "name": "Graffiti_Angel"
+},
+{
+    "id": 4051,
+    "name": "Graffiti_Angel_Packed"
+},
+{
+    "id": 4052,
+    "name": "Graffiti_Ban"
+},
+{
+    "id": 4053,
+    "name": "Graffiti_Ban_Packed"
+},
+{
+    "id": 4054,
+    "name": "Graffiti_Bull"
+},
+{
+    "id": 4055,
+    "name": "Graffiti_Bull_Packed"
+},
+{
+    "id": 4056,
+    "name": "Graffiti_Camper"
+},
+{
+    "id": 4057,
+    "name": "Graffiti_Camper_Packed"
+},
+{
+    "id": 4058,
+    "name": "Graffiti_Done"
+},
+{
+    "id": 4059,
+    "name": "Graffiti_Done_Packed"
+},
+{
+    "id": 4060,
+    "name": "Graffiti_Easy"
+},
+{
+    "id": 4061,
+    "name": "Graffiti_Easy_Packed"
+},
+{
+    "id": 4062,
+    "name": "Graffiti_ExplosionWarning"
+},
+{
+    "id": 4063,
+    "name": "Graffiti_ExplosionWarning_Packed"
+},
+{
+    "id": 4064,
+    "name": "Graffiti_GG"
+},
+{
+    "id": 4065,
+    "name": "Graffiti_GG_Packed"
+},
+{
+    "id": 4066,
+    "name": "Graffiti_GoldSkull2"
+},
+{
+    "id": 4067,
+    "name": "Graffiti_GoldSkull2_Packed"
+},
+{
+    "id": 4068,
+    "name": "Graffiti_HeadShot2"
+},
+{
+    "id": 4069,
+    "name": "Graffiti_HeadShot2_Packed"
+},
+{
+    "id": 4070,
+    "name": "Graffiti_Killer"
+},
+{
+    "id": 4071,
+    "name": "Graffiti_Killer_Packed"
+},
+{
+    "id": 4072,
+    "name": "Graffiti_KnifeKill"
+},
+{
+    "id": 4073,
+    "name": "Graffiti_KnifeKill_Packed"
+},
+{
+    "id": 4074,
+    "name": "Graffiti_Miss"
+},
+{
+    "id": 4075,
+    "name": "Graffiti_Miss_Packed"
+},
+{
+    "id": 4076,
+    "name": "Graffiti_NiceShot"
+},
+{
+    "id": 4077,
+    "name": "Graffiti_NiceShot_Packed"
+},
+{
+    "id": 4078,
+    "name": "Graffiti_Oldschool"
+},
+{
+    "id": 4079,
+    "name": "Graffiti_Oldschool_Packed"
+},
+{
+    "id": 4080,
+    "name": "Graffiti_Radio"
+},
+{
+    "id": 4081,
+    "name": "Graffiti_Radio_Packed"
+},
+{
+    "id": 4082,
+    "name": "Graffiti_ToughGuy"
+},
+{
+    "id": 4083,
+    "name": "Graffiti_ToughGuy_Packed"
+},
+{
+    "id": 4084,
+    "name": "Graffiti_Toxic"
+},
+{
+    "id": 4085,
+    "name": "Graffiti_Toxic_Packed"
+},
+{
+    "id": 4086,
+    "name": "Graffiti_ChillOut"
+},
+{
+    "id": 4087,
+    "name": "Graffiti_ChillOut_Packed"
+},
+{
+    "id": 4088,
+    "name": "Graffiti_Cooldown"
+},
+{
+    "id": 4089,
+    "name": "Graffiti_Cooldown_Packed"
+},
+{
+    "id": 4090,
+    "name": "Graffiti_HomingSnowman"
+},
+{
+    "id": 4091,
+    "name": "Graffiti_HomingSnowman_Packed"
+},
+{
+    "id": 4092,
+    "name": "Graffiti_Quack"
+},
+{
+    "id": 4093,
+    "name": "Graffiti_Quack_Packed"
+},
+{
+    "id": 4094,
+    "name": "Graffiti_MindBlowingGift"
+},
+{
+    "id": 4095,
+    "name": "Graffiti_MindBlowingGift_Packed"
+},
+{
+    "id": 4096,
+    "name": "Graffiti_PartyRabbi"
+},
+{
+    "id": 4097,
+    "name": "Graffiti_PartyRabbi_Packed"
+},
+{
+    "id": 4098,
+    "name": "Graffiti_WaterGun"
+},
+{
+    "id": 4099,
+    "name": "Graffiti_WaterGun_Packed"
+},
+{
+    "id": 4100,
+    "name": "Graffiti_HotWinterParty"
+},
+{
+    "id": 4101,
+    "name": "Graffiti_HotWinterParty_Packed"
+},
+{
+    "id": 4102,
+    "name": "Graffiti_SO2"
+},
+{
+    "id": 4103,
+    "name": "Graffiti_SO2King"
+},
+{
+    "id": 4104,
+    "name": "Graffiti_Veteran2023Bronze"
+},
+{
+    "id": 4105,
+    "name": "Graffiti_Veteran2023Silver"
+},
+{
+    "id": 4106,
+    "name": "Graffiti_Veteran2023Gold"
+},
+{
+    "id": 4107,
+    "name": "Graffiti_Veteran2023EliteGold"
+},
+{
+    "id": 4108,
+    "name": "Graffiti_Veteran2023Platinum"
+},
+{
+    "id": 4109,
+    "name": "Graffiti_Veteran2023Diamond"
+},
+{
+    "id": 4111,
+    "name": "Graffiti_Champion"
+},
+{
+    "id": 4112,
+    "name": "Graffiti_Champion_Packed"
+},
+{
+    "id": 4113,
+    "name": "Graffiti_Dislike"
+},
+{
+    "id": 4114,
+    "name": "Graffiti_Dislike_Packed"
+},
+{
+    "id": 4115,
+    "name": "Graffiti_DualDouble"
+},
+{
+    "id": 4116,
+    "name": "Graffiti_DualDouble_Packed"
+},
+{
+    "id": 4117,
+    "name": "Graffiti_Fireborn"
+},
+{
+    "id": 4118,
+    "name": "Graffiti_Fireborn_Packed"
+},
+{
+    "id": 4119,
+    "name": "Graffiti_Firestorm"
+},
+{
+    "id": 4120,
+    "name": "Graffiti_Firestorm_Packed"
+},
+{
+    "id": 4121,
+    "name": "Graffiti_KnivesOut"
+},
+{
+    "id": 4122,
+    "name": "Graffiti_KnivesOut_Packed"
+},
+{
+    "id": 4123,
+    "name": "Graffiti_LionLord"
+},
+{
+    "id": 4124,
+    "name": "Graffiti_LionLord_Packed"
+},
+{
+    "id": 4125,
+    "name": "Graffiti_MadOrc"
+},
+{
+    "id": 4126,
+    "name": "Graffiti_MadOrc_Packed"
+},
+{
+    "id": 4127,
+    "name": "Graffiti_MetalRock"
+},
+{
+    "id": 4128,
+    "name": "Graffiti_MetalRock_Packed"
+},
+{
+    "id": 4129,
+    "name": "Graffiti_MorningStar"
+},
+{
+    "id": 4130,
+    "name": "Graffiti_MorningStar_Packed"
+},
+{
+    "id": 4131,
+    "name": "Graffiti_Bullseye"
+},
+{
+    "id": 4132,
+    "name": "Graffiti_Bullseye_Packed"
+},
+{
+    "id": 4133,
+    "name": "Graffiti_OnFire"
+},
+{
+    "id": 4134,
+    "name": "Graffiti_OnFire_Packed"
+},
+{
+    "id": 4135,
+    "name": "Graffiti_6Years"
+},
+{
+    "id": 4137,
+    "name": "Graffiti_MoveFast"
+},
+{
+    "id": 4138,
+    "name": "Graffiti_MoveFast_Packed"
+},
+{
+    "id": 4139,
+    "name": "Graffiti_DeathMatch"
+},
+{
+    "id": 4140,
+    "name": "Graffiti_DeathMatch_Packed"
+},
+{
+    "id": 4141,
+    "name": "Graffiti_Blasted"
+},
+{
+    "id": 4142,
+    "name": "Graffiti_Blasted_Packed"
+},
+{
+    "id": 4143,
+    "name": "Graffiti_Stellarshot"
+},
+{
+    "id": 4144,
+    "name": "Graffiti_Stellarshot_Packed"
+},
+{
+    "id": 4145,
+    "name": "Graffiti_SpaceVision"
+},
+{
+    "id": 4146,
+    "name": "Graffiti_SpaceVision_Packed"
+},
+{
+    "id": 4147,
+    "name": "Graffiti_UFO"
+},
+{
+    "id": 4148,
+    "name": "Graffiti_UFO_Packed"
+},
+{
+    "id": 4149,
+    "name": "Graffiti_BlackHole"
+},
+{
+    "id": 4150,
+    "name": "Graffiti_BlackHole_Packed"
+},
+{
+    "id": 4151,
+    "name": "Graffiti_Crossroads"
+},
+{
+    "id": 4152,
+    "name": "Graffiti_Crossroads_Packed"
+},
+{
+    "id": 4153,
+    "name": "Graffiti_Cactus"
+},
+{
+    "id": 4154,
+    "name": "Graffiti_Cactus_Packed"
+},
+{
+    "id": 4155,
+    "name": "Graffiti_Firearm"
+},
+{
+    "id": 4156,
+    "name": "Graffiti_Firearm_Packed"
+},
+{
+    "id": 4157,
+    "name": "Graffiti_Sunstrike"
+},
+{
+    "id": 4158,
+    "name": "Graffiti_Sunstrike_Packed"
+},
+{
+    "id": 4159,
+    "name": "Graffiti_Scorcher"
+},
+{
+    "id": 4160,
+    "name": "Graffiti_Scorcher_Packed"
+},
+{
+    "id": 4161,
+    "name": "Graffiti_ChibiChill"
+},
+{
+    "id": 4162,
+    "name": "Graffiti_ChibiChill_Packed"
+},
+{
+    "id": 4163,
+    "name": "Graffiti_Sandman"
+},
+{
+    "id": 4164,
+    "name": "Graffiti_Sandman_Packed"
+},
+{
+    "id": 4165,
+    "name": "Graffiti_FortuneTeller"
+},
+{
+    "id": 4166,
+    "name": "Graffiti_FortuneTeller_Packed"
+},
+{
+    "id": 4167,
+    "name": "Graffiti_Oasis"
+},
+{
+    "id": 4168,
+    "name": "Graffiti_Oasis_Packed"
+},
+{
+    "id": 4169,
+    "name": "Graffiti_Bang"
+},
+{
+    "id": 4170,
+    "name": "Graffiti_Bang_Packed"
+},
+{
+    "id": 4171,
+    "name": "Graffiti_MeowgicalGenie"
+},
+{
+    "id": 4172,
+    "name": "Graffiti_MeowgicalGenie_Packed"
+},
+{
+    "id": 4173,
+    "name": "Graffiti_ToxicPlay"
+},
+{
+    "id": 4174,
+    "name": "Graffiti_ToxicPlay_Packed"
+},
+{
+    "id": 4175,
+    "name": "Graffiti_Vibes"
+},
+{
+    "id": 4176,
+    "name": "Graffiti_Vibes_Packed"
+},
+{
+    "id": 4177,
+    "name": "Graffiti_Crazy"
+},
+{
+    "id": 4178,
+    "name": "Graffiti_Crazy_Packed"
+},
+{
+    "id": 4179,
+    "name": "Graffiti_HeadHunter"
+},
+{
+    "id": 4180,
+    "name": "Graffiti_HeadHunter_Packed"
+},
+{
+    "id": 4181,
+    "name": "Graffiti_Stare"
+},
+{
+    "id": 4182,
+    "name": "Graffiti_Stare_Packed"
+},
+{
+    "id": 4183,
+    "name": "Graffiti_RIP"
+},
+{
+    "id": 4184,
+    "name": "Graffiti_RIP_Packed"
+},
+{
+    "id": 4185,
+    "name": "Graffiti_LowHP"
+},
+{
+    "id": 4186,
+    "name": "Graffiti_LowHP_Packed"
+},
+{
+    "id": 4187,
+    "name": "Graffiti_BlueFire"
+},
+{
+    "id": 4188,
+    "name": "Graffiti_BlueFire_Packed"
+},
+{
+    "id": 4189,
+    "name": "Graffiti_Molotov"
+},
+{
+    "id": 4190,
+    "name": "Graffiti_Molotov_Packed"
+},
+{
+    "id": 4191,
+    "name": "Graffiti_Sorry"
+},
+{
+    "id": 4192,
+    "name": "Graffiti_Sorry_Packed"
+},
+{
+    "id": 4193,
+    "name": "Graffiti_NotBad"
+},
+{
+    "id": 4194,
+    "name": "Graffiti_NotBad_Packed"
+},
+{
+    "id": 4195,
+    "name": "Graffiti_Quencher"
+},
+{
+    "id": 4196,
+    "name": "Graffiti_Quencher_Packed"
+},
+{
+    "id": 4197,
+    "name": "Graffiti_Gotcha"
+},
+{
+    "id": 4198,
+    "name": "Graffiti_Gotcha_Packed"
+},
+{
+    "id": 4199,
+    "name": "Graffiti_Ace"
+},
+{
+    "id": 4200,
+    "name": "Graffiti_Ace_Packed"
+},
+{
+    "id": 4201,
+    "name": "Graffiti_Save"
+},
+{
+    "id": 4202,
+    "name": "Graffiti_Save_Packed"
+},
+{
+    "id": 4203,
+    "name": "Graffiti_Trophy"
+},
+{
+    "id": 4204,
+    "name": "Graffiti_Trophy_Packed"
+},
+{
+    "id": 4205,
+    "name": "Graffiti_Clutch"
+},
+{
+    "id": 4206,
+    "name": "Graffiti_Clutch_Packed"
+},
+{
+    "id": 4207,
+    "name": "Graffiti_TouchDown"
+},
+{
+    "id": 4208,
+    "name": "Graffiti_TouchDown_Packed"
+},
+{
+    "id": 4209,
+    "name": "Graffiti_Slow"
+},
+{
+    "id": 4210,
+    "name": "Graffiti_Slow_Packed"
+},
+{
+    "id": 4211,
+    "name": "Graffiti_MadBullet"
+},
+{
+    "id": 4212,
+    "name": "Graffiti_MadBullet_Packed"
+},
+{
+    "id": 4213,
+    "name": "Graffiti_Fail"
+},
+{
+    "id": 4214,
+    "name": "Graffiti_Fail_Packed"
+},
+{
+    "id": 4215,
+    "name": "Graffiti_MadGene"
+},
+{
+    "id": 4216,
+    "name": "Graffiti_MadGene_Packed"
+},
+{
+    "id": 4217,
+    "name": "Graffiti_CantHide"
+},
+{
+    "id": 4218,
+    "name": "Graffiti_CantHide_Packed"
+},
+{
+    "id": 4219,
+    "name": "Graffiti_Omen"
+},
+{
+    "id": 4220,
+    "name": "Graffiti_Omen_Packed"
+},
+{
+    "id": 4221,
+    "name": "Graffiti_SubjectX"
+},
+{
+    "id": 4222,
+    "name": "Graffiti_SubjectX_Packed"
+},
+{
+    "id": 4223,
+    "name": "Graffiti_KeepOut"
+},
+{
+    "id": 4224,
+    "name": "Graffiti_KeepOut_Packed"
+},
+{
+    "id": 4225,
+    "name": "Graffiti_Empowered"
+},
+{
+    "id": 4226,
+    "name": "Graffiti_Empowered_Packed"
+},
+{
+    "id": 4227,
+    "name": "Graffiti_CrimsonSkull"
+},
+{
+    "id": 4228,
+    "name": "Graffiti_CrimsonSkull_Packed"
+},
+{
+    "id": 4229,
+    "name": "Graffiti_LabRat"
+},
+{
+    "id": 4230,
+    "name": "Graffiti_LabRat_Packed"
+},
+{
+    "id": 4231,
+    "name": "Graffiti_Bite"
+},
+{
+    "id": 4232,
+    "name": "Graffiti_Bite_Packed"
+},
+{
+    "id": 4233,
+    "name": "Graffiti_Veteran2024Bronze"
+},
+{
+    "id": 4234,
+    "name": "Graffiti_Veteran2024Silver"
+},
+{
+    "id": 4235,
+    "name": "Graffiti_Veteran2024Gold"
+},
+{
+    "id": 4236,
+    "name": "Graffiti_Veteran2024EliteGold"
+},
+{
+    "id": 4237,
+    "name": "Graffiti_Veteran2024Platinum"
+},
+{
+    "id": 4238,
+    "name": "Graffiti_Veteran2024Diamond"
+},
+{
+    "id": 4239,
+    "name": "Graffiti_Freeze"
+},
+{
+    "id": 4240,
+    "name": "Graffiti_Freeze_Packed"
+},
+{
+    "id": 4241,
+    "name": "Graffiti_FrostyChaos"
+},
+{
+    "id": 4242,
+    "name": "Graffiti_FrostyChaos_Packed"
+},
+{
+    "id": 4243,
+    "name": "Graffiti_SnowFlake"
+},
+{
+    "id": 4244,
+    "name": "Graffiti_SnowFlake_Packed"
+},
+{
+    "id": 4245,
+    "name": "Graffiti_AmmoStocking"
+},
+{
+    "id": 4246,
+    "name": "Graffiti_AmmoStocking_Packed"
+},
+{
+    "id": 4247,
+    "name": "Graffiti_CandyShiv"
+},
+{
+    "id": 4248,
+    "name": "Graffiti_CandyShiv_Packed"
+},
+{
+    "id": 4249,
+    "name": "Graffiti_HolidayFuss"
+},
+{
+    "id": 4250,
+    "name": "Graffiti_HolidayFuss_Packed"
+},
+{
+    "id": 4251,
+    "name": "Graffiti_Loong"
+},
+{
+    "id": 4252,
+    "name": "Graffiti_Loong_Packed"
+},
+{
+    "id": 4253,
+    "name": "Graffiti_Coyote"
+},
+{
+    "id": 4254,
+    "name": "Graffiti_Coyote_Packed"
+},
+{
+    "id": 4255,
+    "name": "Graffiti_WatchYourStep"
+},
+{
+    "id": 4256,
+    "name": "Graffiti_WatchYourStep_Packed"
+},
+{
+    "id": 4257,
+    "name": "Graffiti_Outcast"
+},
+{
+    "id": 4258,
+    "name": "Graffiti_Outcast_Packed"
+},
+{
+    "id": 4259,
+    "name": "Graffiti_Danger"
+},
+{
+    "id": 4260,
+    "name": "Graffiti_Danger_Packed"
+},
+{
+    "id": 4261,
+    "name": "Graffiti_Desinfection"
+},
+{
+    "id": 4262,
+    "name": "Graffiti_Desinfection_Packed"
+},
+{
+    "id": 4263,
+    "name": "Graffiti_KnockKnock"
+},
+{
+    "id": 4264,
+    "name": "Graffiti_KnockKnock_Packed"
+},
+{
+    "id": 4265,
+    "name": "Graffiti_Smile"
+},
+{
+    "id": 4266,
+    "name": "Graffiti_Smile_Packed"
+},
+{
+    "id": 4267,
+    "name": "Graffiti_AcidRain"
+},
+{
+    "id": 4268,
+    "name": "Graffiti_AcidRain_Packed"
+},
+{
+    "id": 4269,
+    "name": "Graffiti_CoolGame"
+},
+{
+    "id": 4270,
+    "name": "Graffiti_CoolGame_Packed"
+},
+{
+    "id": 4271,
+    "name": "Graffiti_Toxic2"
+},
+{
+    "id": 4272,
+    "name": "Graffiti_Toxic2_Packed"
+},
+{
+    "id": 4273,
+    "name": "Graffiti_Reactive"
+},
+{
+    "id": 4274,
+    "name": "Graffiti_Reactive_Packed"
+},
+{
+    "id": 4275,
+    "name": "Graffiti_RadiateHeat"
+},
+{
+    "id": 4276,
+    "name": "Graffiti_RadiateHeat_Packed"
+},
+{
+    "id": 4277,
+    "name": "Graffiti_7Years"
+},
+{
+    "id": 4278,
+    "name": "Shield_7Years"
+},
+{
+    "id": 4279,
+    "name": "Graffiti_FunAndSun"
+},
+{
+    "id": 4280,
+    "name": "Graffiti_FunAndSun_Packed"
+},
+{
+    "id": 4281,
+    "name": "Graffiti_Aloha"
+},
+{
+    "id": 4282,
+    "name": "Graffiti_Aloha_Packed"
+},
+{
+    "id": 4283,
+    "name": "Graffiti_Nice"
+},
+{
+    "id": 4284,
+    "name": "Graffiti_Nice_Packed"
+},
+{
+    "id": 4285,
+    "name": "Graffiti_HeatRage"
+},
+{
+    "id": 4286,
+    "name": "Graffiti_HeatRage_Packed"
+},
+{
+    "id": 4287,
+    "name": "Graffiti_RipAndRIP"
+},
+{
+    "id": 4288,
+    "name": "Graffiti_RipAndRIP_Packed"
+},
+{
+    "id": 4289,
+    "name": "Graffiti_WaterWar"
+},
+{
+    "id": 4290,
+    "name": "Graffiti_WaterWar_Packed"
+},
+{
+    "id": 4291,
+    "name": "Graffiti_LuckyClover"
+},
+{
+    "id": 4292,
+    "name": "Graffiti_LuckyClover_Packed"
+},
+{
+    "id": 4293,
+    "name": "Graffiti_Muted"
+},
+{
+    "id": 4294,
+    "name": "Graffiti_Muted_Packed"
+},
+{
+    "id": 4295,
+    "name": "Graffiti_TearsOfTheBattle"
+},
+{
+    "id": 4296,
+    "name": "Graffiti_TearsOfTheBattle_Packed"
+},
+{
+    "id": 4297,
+    "name": "Graffiti_PerfectShot"
+},
+{
+    "id": 4298,
+    "name": "Graffiti_PerfectShot_Packed"
+},
+{
+    "id": 4299,
+    "name": "Graffiti_WarningShotguns"
+},
+{
+    "id": 4300,
+    "name": "Graffiti_WarningShotguns_Packed"
+},
+{
+    "id": 4301,
+    "name": "Graffiti_Tilt"
+},
+{
+    "id": 4302,
+    "name": "Graffiti_Tilt_Packed"
+},
+{
+    "id": 4303,
+    "name": "Graffiti_Cool"
+},
+{
+    "id": 4304,
+    "name": "Graffiti_Cool_Packed"
+},
+{
+    "id": 4305,
+    "name": "Graffiti_Surrender"
+},
+{
+    "id": 4306,
+    "name": "Graffiti_Surrender_Packed"
+},
+{
+    "id": 4307,
+    "name": "Graffiti_MrGrenade"
+},
+{
+    "id": 4308,
+    "name": "Graffiti_MrGrenade_Packed"
+},
+{
+    "id": 4309,
+    "name": "Graffiti_Respect"
+},
+{
+    "id": 4310,
+    "name": "Graffiti_Respect_Packed"
+},
+{
+    "id": 4311,
+    "name": "Graffiti_RantMode"
+},
+{
+    "id": 4312,
+    "name": "Graffiti_RantMode_Packed"
+},
+{
+    "id": 4313,
+    "name": "Graffiti_ThisIsFine"
+},
+{
+    "id": 4314,
+    "name": "Graffiti_ThisIsFine_Packed"
+},
+{
+    "id": 4315,
+    "name": "Graffiti_Hide"
+},
+{
+    "id": 4316,
+    "name": "Graffiti_Hide_Packed"
+},
+{
+    "id": 4317,
+    "name": "Graffiti_Love"
+},
+{
+    "id": 4318,
+    "name": "Graffiti_Love_Packed"
+},
+{
+    "id": 4319,
+    "name": "Graffiti_Solo"
+},
+{
+    "id": 4320,
+    "name": "Graffiti_Solo_Packed"
+},
+{
+    "id": 4321,
+    "name": "Graffiti_DuckOfWar"
+},
+{
+    "id": 4322,
+    "name": "Graffiti_DuckOfWar_Packed"
+},
+{
+    "id": 4323,
+    "name": "Graffiti_Vandal"
+},
+{
+    "id": 4324,
+    "name": "Graffiti_Vandal_Packed"
+},
+{
+    "id": 4325,
+    "name": "Graffiti_Spiky"
+},
+{
+    "id": 4326,
+    "name": "Graffiti_Spiky_Packed"
+},
+{
+    "id": 4327,
+    "name": "Graffiti_KawaiiSpray"
+},
+{
+    "id": 4328,
+    "name": "Graffiti_KawaiiSpray_Packed"
+},
+{
+    "id": 4329,
+    "name": "Graffiti_CoinKitty"
+},
+{
+    "id": 4330,
+    "name": "Graffiti_CoinKitty_Packed"
+},
+{
+    "id": 4331,
+    "name": "Graffiti_Reforged"
+},
+{
+    "id": 4332,
+    "name": "Graffiti_Reforged_Packed"
+},
+{
+    "id": 4333,
+    "name": "Graffiti_SkullCap"
+},
+{
+    "id": 4334,
+    "name": "Graffiti_SkullCap_Packed"
+},
+{
+    "id": 4335,
+    "name": "Graffiti_SolidHeart"
+},
+{
+    "id": 4336,
+    "name": "Graffiti_SolidHeartPacked"
+},
+{
+    "id": 4337,
+    "name": "Graffiti_BrokenHeart"
+},
+{
+    "id": 4338,
+    "name": "Graffiti_BrokenHeartPacked"
+},
+{
+    "id": 4339,
+    "name": "Graffiti_YouAreNext"
+},
+{
+    "id": 4340,
+    "name": "Graffiti_YouAreNextPacked"
+},
+{
+    "id": 4341,
+    "name": "Graffiti_EcoRound"
+},
+{
+    "id": 4342,
+    "name": "Graffiti_EcoRoundPacked"
+},
+{
+    "id": 4343,
+    "name": "Graffiti_RustyGear"
+},
+{
+    "id": 4344,
+    "name": "Graffiti_RustyGearPacked"
+},
+{
+    "id": 4345,
+    "name": "Graffiti_ToolOfPower"
+},
+{
+    "id": 4346,
+    "name": "Graffiti_ToolOfPowerPacked"
+},
+{
+    "id": 4347,
+    "name": "Graffiti_InfernalMachine"
+},
+{
+    "id": 4348,
+    "name": "Graffiti_InfernalMachinePacked"
+},
+{
+    "id": 4349,
+    "name": "Graffiti_Pigeon"
+},
+{
+    "id": 4350,
+    "name": "Graffiti_PigeonPacked"
+},
+{
+    "id": 4351,
+    "name": "Graffiti_HeavyMetal"
+},
+{
+    "id": 4352,
+    "name": "Graffiti_HeavyMetalPacked"
+},
+{
+    "id": 4353,
+    "name": "Graffiti_Smoke"
+},
+{
+    "id": 4354,
+    "name": "Graffiti_SmokePacked"
+},
+{
+    "id": 4355,
+    "name": "Graffiti_Hypnosis"
+},
+{
+    "id": 4356,
+    "name": "Graffiti_Hypnosis_Packed"
+},
+{
+    "id": 4357,
+    "name": "Graffiti_Relentless"
+},
+{
+    "id": 4358,
+    "name": "Graffiti_Relentless_Packed"
+},
+{
+    "id": 4359,
+    "name": "Graffiti_NoSleep"
+},
+{
+    "id": 4360,
+    "name": "Graffiti_NoSleep_Packed"
+},
+{
+    "id": 4361,
+    "name": "Graffiti_Ragged"
+},
+{
+    "id": 4362,
+    "name": "Graffiti_Ragged_Packed"
+},
+{
+    "id": 4363,
+    "name": "Graffiti_WakeUp"
+},
+{
+    "id": 4364,
+    "name": "Graffiti_WakeUp_Packed"
+},
+{
+    "id": 4365,
+    "name": "Graffiti_Nightmare"
+},
+{
+    "id": 4366,
+    "name": "Graffiti_Nightmare_Packed"
+},
+{
+    "id": 4367,
+    "name": "Graffiti_PlanetPlay"
+},
+{
+    "id": 4368,
+    "name": "Graffiti_PlanetPlay_Packed"
+},
+{
+    "id": 4369,
+    "name": "Graffiti_PerfectLeader"
+},
+{
+    "id": 4370,
+    "name": "Graffiti_Veteran2025Bronze"
+},
+{
+    "id": 4371,
+    "name": "Graffiti_Veteran2025Silver"
+},
+{
+    "id": 4372,
+    "name": "Graffiti_Veteran2025Gold"
+},
+{
+    "id": 4373,
+    "name": "Graffiti_Veteran2025EliteGold"
+},
+{
+    "id": 4374,
+    "name": "Graffiti_Veteran2025Platinum"
+},
+{
+    "id": 4375,
+    "name": "Graffiti_Veteran2025Diamond"
+},
+{
+    "id": 4376,
+    "name": "Graffiti_Yummy"
+},
+{
+    "id": 4377,
+    "name": "Graffiti_Yummy_Packed"
+},
+{
+    "id": 4378,
+    "name": "Graffiti_MadMove"
+},
+{
+    "id": 4379,
+    "name": "Graffiti_MadMove_Packed"
+},
+{
+    "id": 4380,
+    "name": "Graffiti_SadMove"
+},
+{
+    "id": 4381,
+    "name": "Graffiti_SadMove_Packed"
+},
+{
+    "id": 4382,
+    "name": "Graffiti_KitsuneDreams"
+},
+{
+    "id": 4383,
+    "name": "Graffiti_KitsuneDreams_Packed"
+},
+{
+    "id": 4384,
+    "name": "Graffiti_CuteShoot"
+},
+{
+    "id": 4385,
+    "name": "Graffiti_CuteShoot_Packed"
+},
+{
+    "id": 4386,
+    "name": "Graffiti_Like"
+},
+{
+    "id": 4387,
+    "name": "Graffiti_Like_Packed"
+},
+{
+    "id": 4388,
+    "name": "Graffiti_IcySquad"
+},
+{
+    "id": 4389,
+    "name": "Graffiti_IcySquad_Packed"
+},
+{
+    "id": 4390,
+    "name": "Graffiti_Unchained"
+},
+{
+    "id": 4391,
+    "name": "Graffiti_Unchained_Packed"
+},
+{
+    "id": 4392,
+    "name": "Graffiti_Bladebrand"
+},
+{
+    "id": 4393,
+    "name": "Graffiti_Bladebrand_Packed"
+},
+{
+    "id": 4394,
+    "name": "Graffiti_Capybara"
+},
+{
+    "id": 4395,
+    "name": "Graffiti_Capybara_Packed"
+},
+{
+    "id": 4396,
+    "name": "Graffiti_Prey"
+},
+{
+    "id": 4397,
+    "name": "Graffiti_Prey_Packed"
+},
+{
+    "id": 4398,
+    "name": "Graffiti_AngryTeam"
+},
+{
+    "id": 4399,
+    "name": "Graffiti_AngryTeam_Packed"
+},
+{
+    "id": 4400,
+    "name": "Graffiti_Fizz"
+},
+{
+    "id": 4401,
+    "name": "Graffiti_Fizz_Packed"
+},
+{
+    "id": 4402,
+    "name": "Graffiti_Rampage"
+},
+{
+    "id": 4403,
+    "name": "Graffiti_Rampage_Packed"
+},
+{
+    "id": 4404,
+    "name": "Graffiti_Golazo"
+},
+{
+    "id": 4405,
+    "name": "Graffiti_Golazo_Packed"
+},
+{
+    "id": 4406,
+    "name": "Graffiti_Hunter"
+},
+{
+    "id": 4407,
+    "name": "Graffiti_Hunter_Packed"
+},
+{
+    "id": 4408,
+    "name": "Graffiti_Pelada"
+},
+{
+    "id": 4409,
+    "name": "Graffiti_Pelada_Packed"
+},
+{
+    "id": 4410,
+    "name": "Graffiti_JoyKiller"
+},
+{
+    "id": 4411,
+    "name": "Graffiti_JoyKiller_Packed"
+},
+{
+    "id": 4412,
+    "name": "Graffiti_Toco"
+},
+{
+    "id": 4413,
+    "name": "Graffiti_Toco_Packed"
+},
+{
+    "id": 4414,
+    "name": "Graffiti_MaskOfControl"
+},
+{
+    "id": 4415,
+    "name": "Graffiti_MaskOfControl_Packed"
+},
+{
+    "id": 4416,
+    "name": "Graffiti_Gambit"
+},
+{
+    "id": 4417,
+    "name": "Graffiti_Gambit_Packed"
+},
+{
+    "id": 4418,
+    "name": "Graffiti_DoNotStop"
+},
+{
+    "id": 4419,
+    "name": "Graffiti_DoNotStop_Packed"
+},
+{
+    "id": 4420,
+    "name": "Graffiti_TheWatchers"
+},
+{
+    "id": 4421,
+    "name": "Graffiti_TheWatchers_Packed"
+},
+{
+    "id": 4422,
+    "name": "Graffiti_Sigil"
+},
+{
+    "id": 4423,
+    "name": "Graffiti_Sigil_Packed"
+},
+{
+    "id": 4424,
+    "name": "Graffiti_Idol"
+},
+{
+    "id": 4425,
+    "name": "Graffiti_Idol_Packed"
+},
+{
+    "id": 4426,
+    "name": "Graffiti_Syndicate"
+},
+{
+    "id": 4427,
+    "name": "Graffiti_Syndicate_Packed"
+},
+{
+    "id": 4428,
+    "name": "Graffiti_CelestialTiger"
+},
+{
+    "id": 4429,
+    "name": "Graffiti_CelestialTiger_Packed"
+},
+{
+    "id": 4430,
+    "name": "Graffiti_Ninja"
+},
+{
+    "id": 4431,
+    "name": "Graffiti_Ninja_Packed"
+},
+{
+    "id": 4432,
+    "name": "Graffiti_CatAna"
+},
+{
+    "id": 4433,
+    "name": "Graffiti_CatAna_Packed"
+},
+{
+    "id": 4434,
+    "name": "Graffiti_Sensei"
+},
+{
+    "id": 4435,
+    "name": "Graffiti_Sensei_Packed"
+},
+{
+    "id": 4436,
+    "name": "Graffiti_Shuriken"
+},
+{
+    "id": 4437,
+    "name": "Graffiti_Shuriken_Packed"
+},
+{
+    "id": 4438,
+    "name": "Graffiti_Tatsu"
+},
+{
+    "id": 4439,
+    "name": "Graffiti_Tatsu_Packed"
+},
+{
+    "id": 4440,
+    "name": "Graffiti_Akki"
+},
+{
+    "id": 4441,
+    "name": "Graffiti_Akki_Packed"
+},
+{
+    "id": 4442,
+    "name": "Graffiti_Wanted"
+},
+{
+    "id": 4443,
+    "name": "Graffiti_Wanted_Packed"
+},
+{
+    "id": 4444,
+    "name": "Graffiti_TrainingTarget"
+},
+{
+    "id": 4445,
+    "name": "Graffiti_TrainingTarget_Packed"
+},
+{
+    "id": 4446,
+    "name": "Graffiti_Sakura"
+},
+{
+    "id": 4447,
+    "name": "Graffiti_Sakura_Packed"
+},
+{
+    "id": 4448,
+    "name": "Graffiti_XMark"
+},
+{
+    "id": 4449,
+    "name": "Graffiti_XMark_Packed"
+},
+{
+    "id": 4450,
+    "name": "Graffiti_ShibaInu"
+},
+{
+    "id": 4451,
+    "name": "Graffiti_ShibaInu_Packed"
+},
+{
+    "id": 4452,
+    "name": "Graffiti_Samurai"
+},
+{
+    "id": 4453,
+    "name": "Graffiti_Samurai_Packed"
+},
+{
+    "id": 4454,
+    "name": "Graffiti_PlayfulSpirit"
+},
+{
+    "id": 4455,
+    "name": "Graffiti_PlayfulSpirit_Packed"
+},
+{
+    "id": 4456,
+    "name": "Graffiti_KingOfTheRing"
+},
+{
+    "id": 4457,
+    "name": "Graffiti_KingOfTheRing_Packed"
+},
+{
+    "id": 4458,
+    "name": "Graffiti_DiaDeMuertos"
+},
+{
+    "id": 4459,
+    "name": "Graffiti_DiaDeMuertos_Packed"
+},
+{
+    "id": 4460,
+    "name": "Graffiti_VivaLaVida"
+},
+{
+    "id": 4461,
+    "name": "Graffiti_VivaLaVida_Packed"
+},
+{
+    "id": 4462,
+    "name": "Graffiti_Spicy"
+},
+{
+    "id": 4463,
+    "name": "Graffiti_Spicy_Packed"
+},
+{
+    "id": 4464,
+    "name": "Graffiti_HastaLaVista"
+},
+{
+    "id": 4465,
+    "name": "Graffiti_HastaLaVista_Packed"
+},
+{
+    "id": 4466,
+    "name": "Graffiti_GoodGame"
+},
+{
+    "id": 4467,
+    "name": "Graffiti_GoodGame_Packed"
+},
+{
+    "id": 4468,
+    "name": "Graffiti_WinterTale"
+},
+{
+    "id": 4469,
+    "name": "Graffiti_WinterTale_Packed"
+},
+{
+    "id": 4470,
+    "name": "Graffiti_SnowStone"
+},
+{
+    "id": 4471,
+    "name": "Graffiti_SnowStone_Packed"
+},
+{
+    "id": 4472,
+    "name": "Graffiti_LittleHelper"
+},
+{
+    "id": 4473,
+    "name": "Graffiti_LittleHelper_Packed"
+},
+{
+    "id": 4474,
+    "name": "Graffiti_HolidayBroadcast"
+},
+{
+    "id": 4475,
+    "name": "Graffiti_HolidayBroadcast_Packed"
+},
+{
+    "id": 4476,
+    "name": "Graffiti_GloomAgent"
+},
+{
+    "id": 4477,
+    "name": "Graffiti_GloomAgent_Packed"
+},
+{
+    "id": 4478,
+    "name": "Graffiti_FireHorse"
+},
+{
+    "id": 4479,
+    "name": "Graffiti_FireHorse_Packed"
+},
+{
+    "id": 4480,
+    "name": "Graffiti_Veteran2026Bronze"
+},
+{
+    "id": 4481,
+    "name": "Graffiti_Veteran2026Silver"
+},
+{
+    "id": 4482,
+    "name": "Graffiti_Veteran2026Gold"
+},
+{
+    "id": 4483,
+    "name": "Graffiti_Veteran2026EliteGold"
+},
+{
+    "id": 4484,
+    "name": "Graffiti_Veteran2026Platinum"
+},
+{
+    "id": 4485,
+    "name": "Graffiti_Veteran2026Diamond"
+},
+{
+    "id": 5000,
+    "name": "CharmProjectZ9Bronze"
+},
+{
+    "id": 5001,
+    "name": "CharmProjectZ9Silver"
+},
+{
+    "id": 5002,
+    "name": "CharmProjectZ9Gold"
+},
+{
+    "id": 5003,
+    "name": "CharmProjectZ9EliteGold"
+},
+{
+    "id": 5004,
+    "name": "CharmProjectZ9Platinum"
+},
+{
+    "id": 5005,
+    "name": "CharmProjectZ9Diamond"
+},
+{
+    "id": 5006,
+    "name": "CharmRevivalBronze"
+},
+{
+    "id": 5007,
+    "name": "CharmRevivalSilver"
+},
+{
+    "id": 5008,
+    "name": "CharmRevivalGold"
+},
+{
+    "id": 5009,
+    "name": "CharmRevivalEliteGold"
+},
+{
+    "id": 5010,
+    "name": "CharmRevivalPlatinum"
+},
+{
+    "id": 5011,
+    "name": "CharmRevivalDiamond"
+},
+{
+    "id": 5012,
+    "name": "ChibiPsychoCaptured"
+},
+{
+    "id": 5013,
+    "name": "CharmV2"
+},
+{
+    "id": 5014,
+    "name": "Charm3Deleted"
+},
+{
+    "id": 5015,
+    "name": "Charm4Deleted"
+},
+{
+    "id": 5016,
+    "name": "CharmCuttingPliers"
+},
+{
+    "id": 5017,
+    "name": "Charm6Deleted"
+},
+{
+    "id": 5018,
+    "name": "ChibiPsycho"
+},
+{
+    "id": 5019,
+    "name": "Charm8Deleted"
+},
+{
+    "id": 5020,
+    "name": "CharmOchpochmak"
+},
+{
+    "id": 5021,
+    "name": "CharmSamurai"
+},
+{
+    "id": 5022,
+    "name": "CharmKarambitGold"
+},
+{
+    "id": 5023,
+    "name": "ChibiDummy"
+},
+{
+    "id": 5024,
+    "name": "ChibiJoy"
+},
+{
+    "id": 5025,
+    "name": "CharmGrenade"
+},
+{
+    "id": 5026,
+    "name": "ChibiEsperto"
+},
+{
+    "id": 5027,
+    "name": "ChibiPhoenix"
+},
+{
+    "id": 5028,
+    "name": "Charm17Deleted"
+},
+{
+    "id": 5029,
+    "name": "CharmFeather"
+},
+{
+    "id": 5030,
+    "name": "CharmFlame"
+},
+{
+    "id": 5031,
+    "name": "CharmClaw"
+},
+{
+    "id": 5032,
+    "name": "CharmAmmunition"
+},
+{
+    "id": 5033,
+    "name": "CharmWing"
+},
+{
+    "id": 5040,
+    "name": "CharmHalloweenSpirit"
+},
+{
+    "id": 5041,
+    "name": "CharmVampireBat"
+},
+{
+    "id": 5042,
+    "name": "CharmReaperScythe"
+},
+{
+    "id": 5043,
+    "name": "CharmSpookyLantern"
+},
+{
+    "id": 5044,
+    "name": "CharmSuspiciousSpider"
+},
+{
+    "id": 5045,
+    "name": "CharmHorsemansHead"
+},
+{
+    "id": 5046,
+    "name": "CharmBrainless"
+},
+{
+    "id": 5047,
+    "name": "CharmFriendlySpecter"
+},
+{
+    "id": 5048,
+    "name": "CharmScarecrow"
+},
+{
+    "id": 5049,
+    "name": "CharmCrunch"
+},
+{
+    "id": 5050,
+    "name": "CharmMeteor"
+},
+{
+    "id": 5051,
+    "name": "CharmWitchcraft"
+},
+{
+    "id": 5052,
+    "name": "CharmCrookedBroom"
+},
+{
+    "id": 5053,
+    "name": "CharmSnowBear"
+},
+{
+    "id": 5054,
+    "name": "CharmYearOfOx"
+},
+{
+    "id": 5056,
+    "name": "CharmIceCrystalDeleted"
+},
+{
+    "id": 5057,
+    "name": "CharmCone"
+},
+{
+    "id": 5058,
+    "name": "CharmSnowflake"
+},
+{
+    "id": 5059,
+    "name": "CharmBabyPenguin"
+},
+{
+    "id": 5060,
+    "name": "CharmGingerbread"
+},
+{
+    "id": 5061,
+    "name": "CharmMrBowler"
+},
+{
+    "id": 5062,
+    "name": "CharmGiftCatcher"
+},
+{
+    "id": 5063,
+    "name": "CharmChristmasTree"
+},
+{
+    "id": 5064,
+    "name": "CharmSantaGlobe"
+},
+{
+    "id": 5065,
+    "name": "CharmSantaHelper"
+},
+{
+    "id": 5066,
+    "name": "CharmGiftThief"
+},
+{
+    "id": 5067,
+    "name": "Charm_4YearsSilver"
+},
+{
+    "id": 5068,
+    "name": "Charm_4YearsGold"
+},
+{
+    "id": 5069,
+    "name": "Charm_ImperialCoin"
+},
+{
+    "id": 5070,
+    "name": "Charm_Daruma"
+},
+{
+    "id": 5071,
+    "name": "Charm_SecretData"
+},
+{
+    "id": 5072,
+    "name": "Charm_GoldenDragon"
+},
+{
+    "id": 5073,
+    "name": "Charm_Katana"
+},
+{
+    "id": 5074,
+    "name": "Charm_Kitsune"
+},
+{
+    "id": 5075,
+    "name": "Charm_Chochin"
+},
+{
+    "id": 5076,
+    "name": "Charm_BallisticMask"
+},
+{
+    "id": 5077,
+    "name": "Charm_Shuriken"
+},
+{
+    "id": 5078,
+    "name": "Charm_Sale"
+},
+{
+    "id": 5079,
+    "name": "Charm_Shinobi"
+},
+{
+    "id": 5080,
+    "name": "Charm_Zen"
+},
+{
+    "id": 5081,
+    "name": "Charm_Byakko"
+},
+{
+    "id": 5082,
+    "name": "Charm_ChochinObake"
+},
+{
+    "id": 5083,
+    "name": "Charm_CountPaperakula"
+},
+{
+    "id": 5084,
+    "name": "Charm_Hannya"
+},
+{
+    "id": 5085,
+    "name": "Charm_Haradashi"
+},
+{
+    "id": 5086,
+    "name": "Charm_Inugami"
+},
+{
+    "id": 5087,
+    "name": "Charm_KisuneMask"
+},
+{
+    "id": 5088,
+    "name": "Charm_Mengu"
+},
+{
+    "id": 5089,
+    "name": "Charm_Oni"
+},
+{
+    "id": 5090,
+    "name": "Charm_Soul"
+},
+{
+    "id": 5091,
+    "name": "Charm_Spirit"
+},
+{
+    "id": 5092,
+    "name": "Charm_Yokai"
+},
+{
+    "id": 5093,
+    "name": "Charm_Zombiegiri"
+},
+{
+    "id": 5094,
+    "name": "Charm_Zombiemaki"
+},
+{
+    "id": 5095,
+    "name": "Charm_CandyCane"
+},
+{
+    "id": 5096,
+    "name": "Charm_CommanderClaus"
+},
+{
+    "id": 5097,
+    "name": "Charm_GingerbreadHouse"
+},
+{
+    "id": 5098,
+    "name": "Charm_ChristmasFireplace"
+},
+{
+    "id": 5099,
+    "name": "Charm_MindBlowingGift"
+},
+{
+    "id": 5100,
+    "name": "Charm_TraceOfTheNewYear"
+},
+{
+    "id": 5101,
+    "name": "Charm_GiftBox"
+},
+{
+    "id": 5102,
+    "name": "Charm_GrumpyTiger"
+},
+{
+    "id": 5103,
+    "name": "Charm_LongRun"
+},
+{
+    "id": 5104,
+    "name": "Charm_LongRunGold"
+},
+{
+    "id": 5105,
+    "name": "Charm_Spray5"
+},
+{
+    "id": 5106,
+    "name": "Charm_Spray5Gold"
+},
+{
+    "id": 5107,
+    "name": "Charm_Chibi_Helicopter"
+},
+{
+    "id": 5108,
+    "name": "Charm_Chibi_Pirate"
+},
+{
+    "id": 5109,
+    "name": "Charm_Compass"
+},
+{
+    "id": 5110,
+    "name": "Charm_Greek_Vase"
+},
+{
+    "id": 5111,
+    "name": "Charm_Harp"
+},
+{
+    "id": 5112,
+    "name": "Charm_Helmet"
+},
+{
+    "id": 5113,
+    "name": "Charm_Legends_Gold"
+},
+{
+    "id": 5114,
+    "name": "Charm_Legends_Silver"
+},
+{
+    "id": 5115,
+    "name": "Charm_Lightning"
+},
+{
+    "id": 5116,
+    "name": "Charm_Olive_Branch"
+},
+{
+    "id": 5117,
+    "name": "Charm_Owl"
+},
+{
+    "id": 5118,
+    "name": "Charm_Peripteros"
+},
+{
+    "id": 5119,
+    "name": "Charm_Talaria"
+},
+{
+    "id": 5120,
+    "name": "Charm_Trident"
+},
+{
+    "id": 5121,
+    "name": "Charm_Windmill"
+},
+{
+    "id": 5122,
+    "name": "Charm_DragonRise5v5Bronze"
+},
+{
+    "id": 5123,
+    "name": "Charm_DragonRise5v5Silver"
+},
+{
+    "id": 5124,
+    "name": "Charm_DragonRise5v5Gold"
+},
+{
+    "id": 5125,
+    "name": "Charm_DragonRise5v5EliteGold"
+},
+{
+    "id": 5126,
+    "name": "Charm_DragonRise5v5Platinum"
+},
+{
+    "id": 5127,
+    "name": "Charm_DragonRise5v5Diamond"
+},
+{
+    "id": 5128,
+    "name": "Charm_DragonRise2v2Bronze"
+},
+{
+    "id": 5129,
+    "name": "Charm_DragonRise2v2Silver"
+},
+{
+    "id": 5130,
+    "name": "Charm_DragonRise2v2Gold"
+},
+{
+    "id": 5131,
+    "name": "Charm_DragonRise2v2EliteGold"
+},
+{
+    "id": 5132,
+    "name": "Charm_DragonRise2v2Platinum"
+},
+{
+    "id": 5133,
+    "name": "Charm_DragonRise2v2Diamond"
+},
+{
+    "id": 5134,
+    "name": "Charm_Jugger"
+},
+{
+    "id": 5135,
+    "name": "Charm_Shark"
+},
+{
+    "id": 5136,
+    "name": "Charm_Barrel"
+},
+{
+    "id": 5137,
+    "name": "Charm_Biohazard"
+},
+{
+    "id": 5138,
+    "name": "Charm_Flask"
+},
+{
+    "id": 5139,
+    "name": "Charm_TopSecret"
+},
+{
+    "id": 5140,
+    "name": "Charm_BlackSpot"
+},
+{
+    "id": 5141,
+    "name": "Charm_EverGreen"
+},
+{
+    "id": 5142,
+    "name": "Charm_IceCreamVan"
+},
+{
+    "id": 5143,
+    "name": "Charm_WinterGames"
+},
+{
+    "id": 5144,
+    "name": "Charm_ChillChili"
+},
+{
+    "id": 5145,
+    "name": "Charm_ColdBathDuck"
+},
+{
+    "id": 5146,
+    "name": "Charm_HotWinterParty"
+},
+{
+    "id": 5147,
+    "name": "Charm_PartySnowman"
+},
+{
+    "id": 5148,
+    "name": "Charm_HotIceBalloon"
+},
+{
+    "id": 5149,
+    "name": "Charm_GiftBunny"
+},
+{
+    "id": 5150,
+    "name": "Charm_SO2"
+},
+{
+    "id": 5151,
+    "name": "Charm_SO2Gold"
+},
+{
+    "id": 5152,
+    "name": "Charm_ChibiDrakeling"
+},
+{
+    "id": 5153,
+    "name": "Charm_ChibiSIG4"
+},
+{
+    "id": 5154,
+    "name": "Charm_ChibiRedhound"
+},
+{
+    "id": 5155,
+    "name": "Charm_FirebornGold"
+},
+{
+    "id": 5156,
+    "name": "Charm_FirebornSilver"
+},
+{
+    "id": 5157,
+    "name": "Charm_Charger"
+},
+{
+    "id": 5158,
+    "name": "Charm_Paladin"
+},
+{
+    "id": 5159,
+    "name": "Charm_MorningStar"
+},
+{
+    "id": 5160,
+    "name": "Charm_DragonShield"
+},
+{
+    "id": 5161,
+    "name": "Charm_Molotov"
+},
+{
+    "id": 5162,
+    "name": "Charm_Tracery"
+},
+{
+    "id": 5163,
+    "name": "Charm_RookTower"
+},
+{
+    "id": 5164,
+    "name": "Charm_Legends5v5Bronze"
+},
+{
+    "id": 5165,
+    "name": "Charm_Legends5v5Silver"
+},
+{
+    "id": 5166,
+    "name": "Charm_Legends5v5Gold"
+},
+{
+    "id": 5167,
+    "name": "Charm_Legends5v5EliteGold"
+},
+{
+    "id": 5168,
+    "name": "Charm_Legends5v5Platinum"
+},
+{
+    "id": 5169,
+    "name": "Charm_Legends5v5Diamond"
+},
+{
+    "id": 5170,
+    "name": "Charm_Legends2v2Bronze"
+},
+{
+    "id": 5171,
+    "name": "Charm_Legends2v2Silver"
+},
+{
+    "id": 5172,
+    "name": "Charm_Legends2v2Gold"
+},
+{
+    "id": 5173,
+    "name": "Charm_Legends2v2EliteGold"
+},
+{
+    "id": 5174,
+    "name": "Charm_Legends2v2Platinum"
+},
+{
+    "id": 5175,
+    "name": "Charm_Legends2v2Diamond"
+},
+{
+    "id": 5176,
+    "name": "Charm_Cranium"
+},
+{
+    "id": 5177,
+    "name": "Charm_Vessel"
+},
+{
+    "id": 5178,
+    "name": "Charm_ChibiSpaceDude"
+},
+{
+    "id": 5179,
+    "name": "Charm_Gravitex"
+},
+{
+    "id": 5180,
+    "name": "Charm_Insectoid"
+},
+{
+    "id": 5181,
+    "name": "Charm_SpaceVision"
+},
+{
+    "id": 5182,
+    "name": "Charm_Fireborn5v5Bronze"
+},
+{
+    "id": 5183,
+    "name": "Charm_Fireborn5v5Silver"
+},
+{
+    "id": 5184,
+    "name": "Charm_Fireborn5v5Gold"
+},
+{
+    "id": 5185,
+    "name": "Charm_Fireborn5v5EliteGold"
+},
+{
+    "id": 5186,
+    "name": "Charm_Fireborn5v5Platinum"
+},
+{
+    "id": 5187,
+    "name": "Charm_Fireborn5v5Diamond"
+},
+{
+    "id": 5188,
+    "name": "Charm_Fireborn2v2Bronze"
+},
+{
+    "id": 5189,
+    "name": "Charm_Fireborn2v2Silver"
+},
+{
+    "id": 5190,
+    "name": "Charm_Fireborn2v2Gold"
+},
+{
+    "id": 5191,
+    "name": "Charm_Fireborn2v2EliteGold"
+},
+{
+    "id": 5192,
+    "name": "Charm_Fireborn2v2Platinum"
+},
+{
+    "id": 5193,
+    "name": "Charm_Fireborn2v2Diamond"
+},
+{
+    "id": 5194,
+    "name": "Charm_Fang"
+},
+{
+    "id": 5195,
+    "name": "Charm_CamelSign"
+},
+{
+    "id": 5196,
+    "name": "Charm_Canteen"
+},
+{
+    "id": 5197,
+    "name": "Charm_Sunstrike"
+},
+{
+    "id": 5198,
+    "name": "Charm_ChibiFID"
+},
+{
+    "id": 5199,
+    "name": "Charm_Radio"
+},
+{
+    "id": 5200,
+    "name": "Charm_Hourglass"
+},
+{
+    "id": 5201,
+    "name": "Charm_Lamp"
+},
+{
+    "id": 5202,
+    "name": "Charm_Stinger"
+},
+{
+    "id": 5203,
+    "name": "Charm_ChibiChill"
+},
+{
+    "id": 5204,
+    "name": "Charm_SunstrikeGold"
+},
+{
+    "id": 5205,
+    "name": "Charm_MeowgicalGenie"
+},
+{
+    "id": 5206,
+    "name": "Charm_SubjectX"
+},
+{
+    "id": 5207,
+    "name": "Charm_Cleaver"
+},
+{
+    "id": 5208,
+    "name": "Charm_Grasp"
+},
+{
+    "id": 5209,
+    "name": "Charm_GeneX"
+},
+{
+    "id": 5210,
+    "name": "Charm_PhantomScan"
+},
+{
+    "id": 5211,
+    "name": "Charm_Jawesome"
+},
+{
+    "id": 5212,
+    "name": "Charm_ChibiLabWhiz"
+},
+{
+    "id": 5213,
+    "name": "Charm_LabCrypt"
+},
+{
+    "id": 5214,
+    "name": "Charm_FrostyChaos"
+},
+{
+    "id": 5215,
+    "name": "Charm_Cookie"
+},
+{
+    "id": 5216,
+    "name": "Charm_XmasDrakeling"
+},
+{
+    "id": 5217,
+    "name": "Charm_CandleLantern"
+},
+{
+    "id": 5218,
+    "name": "Charm_SteamTrain"
+},
+{
+    "id": 5219,
+    "name": "Charm_ChibiNutcracker"
+},
+{
+    "id": 5220,
+    "name": "Charm_Yeti"
+},
+{
+    "id": 5221,
+    "name": "Charm_Sunstrike5v5Bronze"
+},
+{
+    "id": 5222,
+    "name": "Charm_Sunstrike5v5Silver"
+},
+{
+    "id": 5223,
+    "name": "Charm_Sunstrike5v5Gold"
+},
+{
+    "id": 5224,
+    "name": "Charm_Sunstrike5v5EliteGold"
+},
+{
+    "id": 5225,
+    "name": "Charm_Sunstrike5v5Platinum"
+},
+{
+    "id": 5226,
+    "name": "Charm_Sunstrike5v5Diamond"
+},
+{
+    "id": 5227,
+    "name": "Charm_Sunstrike2v2Bronze"
+},
+{
+    "id": 5228,
+    "name": "Charm_Sunstrike2v2Silver"
+},
+{
+    "id": 5229,
+    "name": "Charm_Sunstrike2v2Gold"
+},
+{
+    "id": 5230,
+    "name": "Charm_Sunstrike2v2EliteGold"
+},
+{
+    "id": 5231,
+    "name": "Charm_Sunstrike2v2Platinum"
+},
+{
+    "id": 5232,
+    "name": "Charm_Sunstrike2v2Diamond"
+},
+{
+    "id": 5233,
+    "name": "Charm_OutcastSilver"
+},
+{
+    "id": 5234,
+    "name": "Charm_Danger"
+},
+{
+    "id": 5235,
+    "name": "Charm_Z9Project"
+},
+{
+    "id": 5236,
+    "name": "Charm_Keychain"
+},
+{
+    "id": 5237,
+    "name": "Charm_Savage"
+},
+{
+    "id": 5238,
+    "name": "Charm_Reactor"
+},
+{
+    "id": 5239,
+    "name": "Charm_Computer"
+},
+{
+    "id": 5240,
+    "name": "Charm_ChibiAtomic"
+},
+{
+    "id": 5241,
+    "name": "Charm_GammaCounter"
+},
+{
+    "id": 5242,
+    "name": "Charm_Coyote"
+},
+{
+    "id": 5243,
+    "name": "Charm_OutcastGold"
+},
+{
+    "id": 5244,
+    "name": "Charm_ChibiOutcast"
+},
+{
+    "id": 5245,
+    "name": "Charm_FunAndSun"
+},
+{
+    "id": 5246,
+    "name": "Charm_Cocktail"
+},
+{
+    "id": 5247,
+    "name": "Charm_Ukulele"
+},
+{
+    "id": 5248,
+    "name": "Charm_PoolFloat"
+},
+{
+    "id": 5249,
+    "name": "Charm_Totem"
+},
+{
+    "id": 5250,
+    "name": "Charm_ChibiSurfer"
+},
+{
+    "id": 5251,
+    "name": "Charm_Outcast2v2Bronze"
+},
+{
+    "id": 5252,
+    "name": "Charm_Outcast2v2Silver"
+},
+{
+    "id": 5253,
+    "name": "Charm_Outcast2v2Gold"
+},
+{
+    "id": 5254,
+    "name": "Charm_Outcast2v2EliteGold"
+},
+{
+    "id": 5255,
+    "name": "Charm_Outcast2v2Platinum"
+},
+{
+    "id": 5256,
+    "name": "Charm_Outcast2v2Diamond"
+},
+{
+    "id": 5257,
+    "name": "Charm_Outcast5v5Bronze"
+},
+{
+    "id": 5258,
+    "name": "Charm_Outcast5v5Silver"
+},
+{
+    "id": 5259,
+    "name": "Charm_Outcast5v5Gold"
+},
+{
+    "id": 5260,
+    "name": "Charm_Outcast5v5EliteGold"
+},
+{
+    "id": 5261,
+    "name": "Charm_Outcast5v5Platinum"
+},
+{
+    "id": 5262,
+    "name": "Charm_Outcast5v5Diamond"
+},
+{
+    "id": 5263,
+    "name": "Charm_Screw"
+},
+{
+    "id": 5264,
+    "name": "Charm_Wrench"
+},
+{
+    "id": 5265,
+    "name": "Charm_Brick"
+},
+{
+    "id": 5266,
+    "name": "Charm_ReforgedSilver"
+},
+{
+    "id": 5267,
+    "name": "Charm_RingSaw"
+},
+{
+    "id": 5268,
+    "name": "Charm_Battery"
+},
+{
+    "id": 5269,
+    "name": "Charm_MetalTag"
+},
+{
+    "id": 5270,
+    "name": "Charm_Pigeon"
+},
+{
+    "id": 5271,
+    "name": "Charm_Forklift"
+},
+{
+    "id": 5272,
+    "name": "Charm_ChibiSmuggler"
+},
+{
+    "id": 5273,
+    "name": "Charm_ChibiFOG"
+},
+{
+    "id": 5274,
+    "name": "Charm_ReforgedGold"
+},
+{
+    "id": 5276,
+    "name": "Charm_Hexcatcher"
+},
+{
+    "id": 5277,
+    "name": "Charm_VoodooDoll"
+},
+{
+    "id": 5278,
+    "name": "Charm_GazingMirror"
+},
+{
+    "id": 5279,
+    "name": "Charm_Nightmare"
+},
+{
+    "id": 5280,
+    "name": "Charm_ChibiSleepwalker"
+},
+{
+    "id": 5281,
+    "name": "Charm_HypnoBeast"
+},
+{
+    "id": 5282,
+    "name": "Charm_Pingo"
+},
+{
+    "id": 5283,
+    "name": "Charm_FrostShuriken"
+},
+{
+    "id": 5284,
+    "name": "Charm_OrigamiSnake"
+},
+{
+    "id": 5285,
+    "name": "Charm_KitsuneDreams"
+},
+{
+    "id": 5286,
+    "name": "Charm_MechaKnight"
+},
+{
+    "id": 5287,
+    "name": "Charm_PurrfectLuck"
+},
+{
+    "id": 5288,
+    "name": "Charm_ChibiTwinkle"
+},
+{
+    "id": 5289,
+    "name": "Charm_HolidayTwist"
+},
+{
+    "id": 5290,
+    "name": "Charm_Reforged5v5Bronze"
+},
+{
+    "id": 5291,
+    "name": "Charm_Reforged5v5Silver"
+},
+{
+    "id": 5292,
+    "name": "Charm_Reforged5v5Gold"
+},
+{
+    "id": 5293,
+    "name": "Charm_Reforged5v5EliteGold"
+},
+{
+    "id": 5294,
+    "name": "Charm_Reforged5v5Platinum"
+},
+{
+    "id": 5295,
+    "name": "Charm_Reforged5v5Diamond"
+},
+{
+    "id": 5296,
+    "name": "Charm_Reforged2v2Bronze"
+},
+{
+    "id": 5297,
+    "name": "Charm_Reforged2v2Silver"
+},
+{
+    "id": 5298,
+    "name": "Charm_Reforged2v2Gold"
+},
+{
+    "id": 5299,
+    "name": "Charm_Reforged2v2EliteGold"
+},
+{
+    "id": 5300,
+    "name": "Charm_Reforged2v2Platinum"
+},
+{
+    "id": 5301,
+    "name": "Charm_Reforged2v2Diamond"
+},
+{
+    "id": 5302,
+    "name": "Charm_Reforged1v1Bronze"
+},
+{
+    "id": 5303,
+    "name": "Charm_Reforged1v1Silver"
+},
+{
+    "id": 5304,
+    "name": "Charm_Reforged1v1Gold"
+},
+{
+    "id": 5305,
+    "name": "Charm_Reforged1v1EliteGold"
+},
+{
+    "id": 5306,
+    "name": "Charm_Reforged1v1Platinum"
+},
+{
+    "id": 5307,
+    "name": "Charm_Reforged1v1Diamond"
+},
+{
+    "id": 5308,
+    "name": "Charm_Timbau"
+},
+{
+    "id": 5309,
+    "name": "Charm_TaggedHelmet"
+},
+{
+    "id": 5310,
+    "name": "Charm_Bladebrand"
+},
+{
+    "id": 5311,
+    "name": "Charm_PreySilver"
+},
+{
+    "id": 5312,
+    "name": "Charm_Capybara"
+},
+{
+    "id": 5313,
+    "name": "Charm_Stall"
+},
+{
+    "id": 5314,
+    "name": "Charm_GoldenBall"
+},
+{
+    "id": 5315,
+    "name": "Charm_PreyGold"
+},
+{
+    "id": 5316,
+    "name": "Charm_Transmitter"
+},
+{
+    "id": 5317,
+    "name": "Charm_ChibiGRT"
+},
+{
+    "id": 5318,
+    "name": "Charm_ChibiRIA"
+},
+{
+    "id": 5319,
+    "name": "Charm_Parrot"
+},
+{
+    "id": 5320,
+    "name": "Charm_8Years"
+},
+{
+    "id": 5321,
+    "name": "Charm_Gambit"
+},
+{
+    "id": 5322,
+    "name": "Charm_Watcher"
+},
+{
+    "id": 5323,
+    "name": "Charm_MaskOfControl"
+},
+{
+    "id": 5324,
+    "name": "Charm_Cresset"
+},
+{
+    "id": 5325,
+    "name": "Charm_ChibiTrial"
+},
+{
+    "id": 5326,
+    "name": "Charm_Sigil"
+},
+{
+    "id": 5327,
+    "name": "Charm_GoldSkull"
+},
+{
+    "id": 5328,
+    "name": "Charm_Lighter"
+},
+{
+    "id": 5329,
+    "name": "Charm_Bomb"
+},
+{
+    "id": 5330,
+    "name": "Charm_MetalRat"
+},
+{
+    "id": 5331,
+    "name": "Charm_PlushAdam"
+},
+{
+    "id": 5332,
+    "name": "Charm_LowHP"
+},
+{
+    "id": 5333,
+    "name": "Charm_MiniKit"
+},
+{
+    "id": 5334,
+    "name": "Charm_PRO"
+},
+{
+    "id": 5335,
+    "name": "Charm_GoldCoin"
+},
+{
+    "id": 5336,
+    "name": "Charm_Lucky"
+},
+{
+    "id": 5337,
+    "name": "Charm_OriginBox"
+},
+{
+    "id": 5338,
+    "name": "Charm_SO2Tag"
+},
+{
+    "id": 5339,
+    "name": "Charm_Prey1v1Bronze"
+},
+{
+    "id": 5340,
+    "name": "Charm_Prey1v1Silver"
+},
+{
+    "id": 5341,
+    "name": "Charm_Prey1v1Gold"
+},
+{
+    "id": 5342,
+    "name": "Charm_Prey1v1EliteGold"
+},
+{
+    "id": 5343,
+    "name": "Charm_Prey1v1Platinum"
+},
+{
+    "id": 5344,
+    "name": "Charm_Prey1v1Diamond"
+},
+{
+    "id": 5345,
+    "name": "Charm_Prey5v5Bronze"
+},
+{
+    "id": 5346,
+    "name": "Charm_Prey5v5Silver"
+},
+{
+    "id": 5347,
+    "name": "Charm_Prey5v5Gold"
+},
+{
+    "id": 5348,
+    "name": "Charm_Prey5v5EliteGold"
+},
+{
+    "id": 5349,
+    "name": "Charm_Prey5v5Platinum"
+},
+{
+    "id": 5350,
+    "name": "Charm_Prey5v5Diamond"
+},
+{
+    "id": 5351,
+    "name": "Charm_Prey2v2Bronze"
+},
+{
+    "id": 5352,
+    "name": "Charm_Prey2v2Silver"
+},
+{
+    "id": 5353,
+    "name": "Charm_Prey2v2Gold"
+},
+{
+    "id": 5354,
+    "name": "Charm_Prey2v2EliteGold"
+},
+{
+    "id": 5355,
+    "name": "Charm_Prey2v2Platinum"
+},
+{
+    "id": 5356,
+    "name": "Charm_Prey2v2Diamond"
+},
+{
+    "id": 5357,
+    "name": "Charm_DriftKing"
+},
+{
+    "id": 5358,
+    "name": "Charm_ChibiDaizen"
+},
+{
+    "id": 5359,
+    "name": "Charm_streetBoss"
+},
+{
+    "id": 5360,
+    "name": "Charm_ArcadeGame"
+},
+{
+    "id": 5361,
+    "name": "Charm_SyndicateGold"
+},
+{
+    "id": 5362,
+    "name": "Charm_NoodleFriend"
+},
+{
+    "id": 5363,
+    "name": "Charm_Sakura"
+},
+{
+    "id": 5364,
+    "name": "Charm_OctoChef"
+},
+{
+    "id": 5365,
+    "name": "Charm_Kokeshi"
+},
+{
+    "id": 5366,
+    "name": "Charm_Temple"
+},
+{
+    "id": 5367,
+    "name": "Charm_Sai"
+},
+{
+    "id": 5368,
+    "name": "Charm_SyndicateSilver"
+},
+{
+    "id": 5369,
+    "name": "Charm_Syndicate"
+},
+{
+    "id": 5370,
+    "name": "Charm_ChibiReaper"
+},
+{
+    "id": 5371,
+    "name": "Charm_Pinata"
+},
+{
+    "id": 5372,
+    "name": "Charm_Calavera"
+},
+{
+    "id": 5373,
+    "name": "Charm_Mariachi"
+},
+{
+    "id": 5374,
+    "name": "Charm_DeadlyDraw"
+},
+{
+    "id": 5375,
+    "name": "Charm_DiaDeMuertosSilver"
+},
+{
+    "id": 5376,
+    "name": "Charm_DiaDeMuertosGold"
+},
+{
+    "id": 5377,
+    "name": "Charm_Tesoro"
+},
+{
+    "id": 5378,
+    "name": "Charm_Metamorph"
+},
+{
+    "id": 5379,
+    "name": "Charm_WinterTale"
+},
+{
+    "id": 5380,
+    "name": "Charm_SneakyBox"
+},
+{
+    "id": 5381,
+    "name": "Charm_PixelGlass"
+},
+{
+    "id": 5382,
+    "name": "Charm_CandyHorse"
+},
+{
+    "id": 5383,
+    "name": "Charm_IcedLatte"
+},
+{
+    "id": 5384,
+    "name": "Charm_ToughPenguin"
+},
+{
+    "id": 5385,
+    "name": "Charm_IceSkater"
+},
+{
+    "id": 7001,
+    "name": "AvatarFrame_Tier1Bronze"
+},
+{
+    "id": 7002,
+    "name": "AvatarFrame_Tier2Bronze"
+},
+{
+    "id": 7003,
+    "name": "AvatarFrame_Tier3Bronze"
+},
+{
+    "id": 7004,
+    "name": "AvatarFrame_Tier4Bronze"
+},
+{
+    "id": 7005,
+    "name": "AvatarFrame_Tier5Bronze"
+},
+{
+    "id": 7006,
+    "name": "AvatarFrame_Tier1Silver"
+},
+{
+    "id": 7007,
+    "name": "AvatarFrame_Tier2Silver"
+},
+{
+    "id": 7008,
+    "name": "AvatarFrame_Tier3Silver"
+},
+{
+    "id": 7009,
+    "name": "AvatarFrame_Tier4Silver"
+},
+{
+    "id": 7010,
+    "name": "AvatarFrame_Tier5Silver"
+},
+{
+    "id": 7011,
+    "name": "AvatarFrame_Tier1Gold"
+},
+{
+    "id": 7012,
+    "name": "AvatarFrame_Tier2Gold"
+},
+{
+    "id": 7013,
+    "name": "AvatarFrame_Tier3Gold"
+},
+{
+    "id": 7014,
+    "name": "AvatarFrame_Tier4Gold"
+},
+{
+    "id": 7015,
+    "name": "AvatarFrame_Tier5Gold"
+},
+{
+    "id": 7016,
+    "name": "AvatarFrame_Tier1GoldElite"
+},
+{
+    "id": 7017,
+    "name": "AvatarFrame_Tier2GoldElite"
+},
+{
+    "id": 7018,
+    "name": "AvatarFrame_Tier3GoldElite"
+},
+{
+    "id": 7019,
+    "name": "AvatarFrame_Tier4GoldElite"
+},
+{
+    "id": 7020,
+    "name": "AvatarFrame_Tier5GoldElite"
+},
+{
+    "id": 7021,
+    "name": "AvatarFrame_Tier1Platinum"
+},
+{
+    "id": 7022,
+    "name": "AvatarFrame_Tier2Platinum"
+},
+{
+    "id": 7023,
+    "name": "AvatarFrame_Tier3Platinum"
+},
+{
+    "id": 7024,
+    "name": "AvatarFrame_Tier4Platinum"
+},
+{
+    "id": 7025,
+    "name": "AvatarFrame_Tier5Platinum"
+},
+{
+    "id": 7026,
+    "name": "AvatarFrame_Tier1Diamond"
+},
+{
+    "id": 7027,
+    "name": "AvatarFrame_Tier2Diamond"
+},
+{
+    "id": 7028,
+    "name": "AvatarFrame_Tier3Diamond"
+},
+{
+    "id": 7029,
+    "name": "AvatarFrame_Tier4Diamond"
+},
+{
+    "id": 7030,
+    "name": "AvatarFrame_Tier5Diamond"
+},
+{
+    "id": 7031,
+    "name": "AvatarFrame_Portal"
+},
+{
+    "id": 7032,
+    "name": "AvatarFrame_CommanderTier1"
+},
+{
+    "id": 7033,
+    "name": "AvatarFrame_CommanderTier2"
+},
+{
+    "id": 7034,
+    "name": "AvatarFrame_CommanderTier3"
+},
+{
+    "id": 7035,
+    "name": "AvatarFrame_CommanderTier3CT"
+},
+{
+    "id": 7036,
+    "name": "AvatarFrame_KitsuneDreamsRare"
+},
+{
+    "id": 7037,
+    "name": "AvatarFrame_KitsuneDreamsEpic"
+},
+{
+    "id": 7038,
+    "name": "AvatarFrame_KitsuneDreamsLegendary"
+},
+{
+    "id": 7039,
+    "name": "AvatarFrame_KitsuneDreamsArcane"
+},
+{
+    "id": 7040,
+    "name": "AvatarFrame_DiaDeMuertos"
+},
+{
+    "id": 7041,
+    "name": "AvatarFrame_Hologram"
+},
+{
+    "id": 8000,
+    "name": "Medal_DiaDeMuertosBronze"
+},
+{
+    "id": 8001,
+    "name": "Medal_DiaDeMuertosSilver"
+},
+{
+    "id": 8002,
+    "name": "Medal_DiaDeMuertosGold"
+},
+{
+    "id": 8003,
+    "name": "Medal_DiaDeMuertosEliteGold"
+},
+{
+    "id": 8004,
+    "name": "Medal_DiaDeMuertosPlatinum"
+},
+{
+    "id": 8005,
+    "name": "Medal_DiaDeMuertosDiamond"
+},
+{
+    "id": 8006,
+    "name": "Medal_WinterTaleBronze"
+},
+{
+    "id": 8007,
+    "name": "Medal_WinterTaleSilver"
+},
+{
+    "id": 8008,
+    "name": "Medal_WinterTaleGold"
+},
+{
+    "id": 8009,
+    "name": "Medal_WinterTaleEliteGold"
+},
+{
+    "id": 8010,
+    "name": "Medal_WinterTalePlatinum"
+},
+{
+    "id": 8011,
+    "name": "Medal_WinterTaleDiamond"
+},
+{
+    "id": 8012,
+    "name": "Medal_Veteran2026Bronze"
+},
+{
+    "id": 8013,
+    "name": "Medal_Veteran2026Silver"
+},
+{
+    "id": 8014,
+    "name": "Medal_Veteran2026Gold"
+},
+{
+    "id": 8015,
+    "name": "Medal_Veteran2026EliteGold"
+},
+{
+    "id": 8016,
+    "name": "Medal_Veteran2026Platinum"
+},
+{
+    "id": 8017,
+    "name": "Medal_Veteran2026Diamond"
+},
+{
+    "id": 8018,
+    "name": "Medal_YearOfTheHorse_Quartz"
+},
+{
+    "id": 8019,
+    "name": "Medal_YearOfTheHorse_Topaz"
+},
+{
+    "id": 8020,
+    "name": "Medal_YearOfTheHorse_Ruby"
+},
+{
+    "id": 11001,
+    "name": "G22PixelCamouflage"
+},
+{
+    "id": 11002,
+    "name": "G22Nest"
+},
+{
+    "id": 11005,
+    "name": "G22Pattern"
+},
+{
+    "id": 11006,
+    "name": "G22Inferno"
+},
+{
+    "id": 11008,
+    "name": "G22FrostWyrm"
+},
+{
+    "id": 12001,
+    "name": "USPGenesis"
+},
+{
+    "id": 12002,
+    "name": "USP_2Years"
+},
+{
+    "id": 12003,
+    "name": "USP_2YearsRed"
+},
+{
+    "id": 13001,
+    "name": "P350Cyber"
+},
+{
+    "id": 13002,
+    "name": "P350Savannah"
+},
+{
+    "id": 13003,
+    "name": "P350ForestSpirit"
+},
+{
+    "id": 13004,
+    "name": "P350Rally"
+},
+{
+    "id": 13005,
+    "name": "P350Skull"
+},
+{
+    "id": 15001,
+    "name": "DeagleCaptainMorgan"
+},
+{
+    "id": 15002,
+    "name": "DeagleBlood"
+},
+{
+    "id": 15003,
+    "name": "DeaglePredator"
+},
+{
+    "id": 15004,
+    "name": "DeagleRedDragon"
+},
+{
+    "id": 15005,
+    "name": "DeagleWinner"
+},
+{
+    "id": 15006,
+    "name": "DeagleDragonGlass"
+},
+{
+    "id": 15007,
+    "name": "DeagleThunder"
+},
+{
+    "id": 32001,
+    "name": "UMP45Cyberpunk"
+},
+{
+    "id": 32002,
+    "name": "UMP45Pixel"
+},
+{
+    "id": 32003,
+    "name": "UMP45Shark"
+},
+{
+    "id": 32004,
+    "name": "UMP45Winged"
+},
+{
+    "id": 32005,
+    "name": "UMP45Beast"
+},
+{
+    "id": 32006,
+    "name": "UMP45Iron"
+},
+{
+    "id": 34001,
+    "name": "MP7Offroad"
+},
+{
+    "id": 34002,
+    "name": "MP7Arcade"
+},
+{
+    "id": 34003,
+    "name": "MP7_2Years"
+},
+{
+    "id": 34004,
+    "name": "MP7_2YearsRed"
+},
+{
+    "id": 35001,
+    "name": "P90Radiation"
+},
+{
+    "id": 35002,
+    "name": "P90Ghoul"
+},
+{
+    "id": 35003,
+    "name": "P90Fury"
+},
+{
+    "id": 35004,
+    "name": "P90Pilot"
+},
+{
+    "id": 41101,
+    "name": "G22_Relic"
+},
+{
+    "id": 41102,
+    "name": "G22_Starfall"
+},
+{
+    "id": 41201,
+    "name": "USP_Fiend"
+},
+{
+    "id": 41212,
+    "name": "USP_Pisces"
+},
+{
+    "id": 41502,
+    "name": "Deagle_Ace"
+},
+{
+    "id": 41601,
+    "name": "Tec9_Aurora"
+},
+{
+    "id": 41605,
+    "name": "Tec9_Fable"
+},
+{
+    "id": 41701,
+    "name": "FiveSeven_Venom"
+},
+{
+    "id": 41703,
+    "name": "FiveSeven_Tactical"
+},
+{
+    "id": 43201,
+    "name": "UMP45_PixelV2"
+},
+{
+    "id": 43202,
+    "name": "UMP45_Cerberus"
+},
+{
+    "id": 43401,
+    "name": "MP7_Thorn"
+},
+{
+    "id": 43402,
+    "name": "MP7_Lich"
+},
+{
+    "id": 43502,
+    "name": "P90_Jungle"
+},
+{
+    "id": 44002,
+    "name": "AKRTreasureHunter"
+},
+{
+    "id": 44003,
+    "name": "AKRTiger"
+},
+{
+    "id": 44004,
+    "name": "AKRSport"
+},
+{
+    "id": 44005,
+    "name": "AKRNecromancer"
+},
+{
+    "id": 44006,
+    "name": "AKRCarbon"
+},
+{
+    "id": 44007,
+    "name": "AKR_2Years"
+},
+{
+    "id": 44401,
+    "name": "AKR_Worm"
+},
+{
+    "id": 44601,
+    "name": "M4_Lizard"
+},
+{
+    "id": 44603,
+    "name": "M4_Samurai"
+},
+{
+    "id": 44901,
+    "name": "FnFAL_Leather"
+},
+{
+    "id": 44902,
+    "name": "FnFAL_AcidCarbon"
+},
+{
+    "id": 44903,
+    "name": "FnFAL_Tactical"
+},
+{
+    "id": 45001,
+    "name": "AKR12Railgun"
+},
+{
+    "id": 45002,
+    "name": "AKR12PixelCamouflage"
+},
+{
+    "id": 45003,
+    "name": "AKR12Mechanic"
+},
+{
+    "id": 45004,
+    "name": "AKR12Aurora"
+},
+{
+    "id": 45301,
+    "name": "M110_Cyber"
+},
+{
+    "id": 45302,
+    "name": "SM1014_Blaster"
+},
+{
+    "id": 46001,
+    "name": "M4Predator"
+},
+{
+    "id": 46002,
+    "name": "M4Necromancer"
+},
+{
+    "id": 46003,
+    "name": "M4Tiger"
+},
+{
+    "id": 46006,
+    "name": "M4Pro"
+},
+{
+    "id": 46007,
+    "name": "M4GrandPrix"
+},
+{
+    "id": 47001,
+    "name": "M16Camouflage"
+},
+{
+    "id": 47002,
+    "name": "M16Winged"
+},
+{
+    "id": 47003,
+    "name": "M16Facet"
+},
+{
+    "id": 47502,
+    "name": "Butterfly_Gold"
+},
+{
+    "id": 47503,
+    "name": "Butterfly_DragonGlass"
+},
+{
+    "id": 47504,
+    "name": "Butterfly_Red"
+},
+{
+    "id": 47505,
+    "name": "Butterfly_Starfall"
+},
+{
+    "id": 48001,
+    "name": "FamasBeagle"
+},
+{
+    "id": 48002,
+    "name": "FamasFury"
+},
+{
+    "id": 48003,
+    "name": "FamasHull"
+},
+{
+    "id": 51001,
+    "name": "AWMSport"
+},
+{
+    "id": 51002,
+    "name": "AWMPhoenix"
+},
+{
+    "id": 51003,
+    "name": "AWMGear"
+},
+{
+    "id": 51004,
+    "name": "AWMScratch"
+},
+{
+    "id": 51006,
+    "name": "AWMSportV2"
+},
+{
+    "id": 51007,
+    "name": "AWMGenesis"
+},
+{
+    "id": 51008,
+    "name": "AWM_2YearsRed"
+},
+{
+    "id": 51601,
+    "name": "Tec9_New3"
+},
+{
+    "id": 51701,
+    "name": "FiveSeven_New2"
+},
+{
+    "id": 52001,
+    "name": "M40Quake"
+},
+{
+    "id": 52002,
+    "name": "M40Pro"
+},
+{
+    "id": 52003,
+    "name": "M40Beagle"
+},
+{
+    "id": 54401,
+    "name": "AKR_New2"
+},
+{
+    "id": 54601,
+    "name": "M4_New2"
+},
+{
+    "id": 57501,
+    "name": "Butterfly_New1"
+},
+{
+    "id": 61101,
+    "name": "G22_New1"
+},
+{
+    "id": 61201,
+    "name": "USP_New1"
+},
+{
+    "id": 61601,
+    "name": "Tec9_New1"
+},
+{
+    "id": 62001,
+    "name": "SM1014Facet"
+},
+{
+    "id": 62002,
+    "name": "SM1014Pathfinder"
+},
+{
+    "id": 62003,
+    "name": "SM1014Necromancer"
+},
+{
+    "id": 62004,
+    "name": "SM1014NorthernCamouflage"
+},
+{
+    "id": 62005,
+    "name": "SM1014Quake"
+},
+{
+    "id": 62006,
+    "name": "SM1014Branches"
+},
+{
+    "id": 63401,
+    "name": "MP7_New1"
+},
+{
+    "id": 65101,
+    "name": "AMW_New1"
+},
+{
+    "id": 65201,
+    "name": "M40_New1"
+},
+{
+    "id": 65202,
+    "name": "M40_New2"
+},
+{
+    "id": 66201,
+    "name": "SM1014_New1"
+},
+{
+    "id": 67701,
+    "name": "FlipKnife_New1"
+},
+{
+    "id": 67702,
+    "name": "FlipKnife_New2"
+},
+{
+    "id": 67703,
+    "name": "FlipKnife_New3"
+},
+{
+    "id": 67704,
+    "name": "FlipKnife_New4"
+},
+{
+    "id": 67705,
+    "name": "FlipKnife_New5"
+},
+{
+    "id": 71001,
+    "name": "M9BayonetBlueBlood"
+},
+{
+    "id": 71002,
+    "name": "M9BayonetAncient"
+},
+{
+    "id": 71003,
+    "name": "M9BayonetScratch"
+},
+{
+    "id": 71004,
+    "name": "M9BayonetUniverse"
+},
+{
+    "id": 71005,
+    "name": "M9ByonetDragonGlass"
+},
+{
+    "id": 71103,
+    "name": "G22_Monster"
+},
+{
+    "id": 71104,
+    "name": "G22_WhiteCarbon"
+},
+{
+    "id": 71306,
+    "name": "P350_Poison"
+},
+{
+    "id": 71607,
+    "name": "Tec9_Reactor"
+},
+{
+    "id": 71701,
+    "name": "FiveSeven_Poison"
+},
+{
+    "id": 71702,
+    "name": "FiveSeven_Zone"
+},
+{
+    "id": 72002,
+    "name": "KarambitClaw"
+},
+{
+    "id": 72003,
+    "name": "KarambitGold"
+},
+{
+    "id": 72004,
+    "name": "KarambitIceDragon"
+},
+{
+    "id": 72006,
+    "name": "KarambitScratch"
+},
+{
+    "id": 72007,
+    "name": "KarambitUniverse"
+},
+{
+    "id": 73002,
+    "name": "jKommandoAncient"
+},
+{
+    "id": 73003,
+    "name": "jKommandoReaper"
+},
+{
+    "id": 73004,
+    "name": "jKommandoFloral"
+},
+{
+    "id": 73006,
+    "name": "jKommandoLuxury"
+},
+{
+    "id": 73208,
+    "name": "UMP45_Gas"
+},
+{
+    "id": 73209,
+    "name": "UMP45_WhiteCarbon"
+},
+{
+    "id": 73610,
+    "name": "MP5_ProjectZ9"
+},
+{
+    "id": 73611,
+    "name": "MP5_Reactor"
+},
+{
+    "id": 73612,
+    "name": "MP5_Zone"
+},
+{
+    "id": 74800,
+    "name": "FAMAS_Monster"
+},
+{
+    "id": 75205,
+    "name": "M40_Monster"
+},
+{
+    "id": 76218,
+    "name": "FabM_Reactor"
+},
+{
+    "id": 77813,
+    "name": "Kunai_Bone"
+},
+{
+    "id": 77814,
+    "name": "Kunai_Luxury"
+},
+{
+    "id": 77815,
+    "name": "Kunai_Poison"
+},
+{
+    "id": 77816,
+    "name": "Kunai_Radiation"
+},
+{
+    "id": 77817,
+    "name": "Kunai_Reaper"
+},
+{
+    "id": 81107,
+    "name": "G22_Carbon"
+},
+{
+    "id": 81108,
+    "name": "G22_YellowLine"
+},
+{
+    "id": 81200,
+    "name": "USP_Geometric"
+},
+{
+    "id": 81214,
+    "name": "USP_Line"
+},
+{
+    "id": 81215,
+    "name": "USP_Yellow"
+},
+{
+    "id": 81300,
+    "name": "P350_Autumn"
+},
+{
+    "id": 81323,
+    "name": "P350_Nano"
+},
+{
+    "id": 81505,
+    "name": "Deagle_Pro"
+},
+{
+    "id": 81613,
+    "name": "Tec9_Spot"
+},
+{
+    "id": 81700,
+    "name": "FiveSeven_Rush"
+},
+{
+    "id": 81725,
+    "name": "FiveSeven_SightRed"
+},
+{
+    "id": 81726,
+    "name": "FiveSeven_SightGrey"
+},
+{
+    "id": 83200,
+    "name": "UMP45_Geometric"
+},
+{
+    "id": 83201,
+    "name": "UMP45_Spirit"
+},
+{
+    "id": 83400,
+    "name": "MP7_Revival"
+},
+{
+    "id": 83409,
+    "name": "MP7_Girl"
+},
+{
+    "id": 83410,
+    "name": "MP7_Graffity"
+},
+{
+    "id": 83411,
+    "name": "MP7_Monkey"
+},
+{
+    "id": 83512,
+    "name": "P90_Samurai"
+},
+{
+    "id": 84400,
+    "name": "AKR12_Geometric"
+},
+{
+    "id": 84402,
+    "name": "AKR_Dragon"
+},
+{
+    "id": 84403,
+    "name": "AKR_Nano"
+},
+{
+    "id": 84500,
+    "name": "AKR12_Carbon"
+},
+{
+    "id": 84501,
+    "name": "AKR12_Spring"
+},
+{
+    "id": 84600,
+    "name": "M4_Revival"
+},
+{
+    "id": 84624,
+    "name": "M4_Wolf"
+},
+{
+    "id": 84800,
+    "name": "Famas_Autumn"
+},
+{
+    "id": 84900,
+    "name": "FnFal_Phoenix"
+},
+{
+    "id": 84906,
+    "name": "FnFal_Green"
+},
+{
+    "id": 85104,
+    "name": "AWM_TreasureHunter"
+},
+{
+    "id": 85127,
+    "name": "AWM_Dragon"
+},
+{
+    "id": 85300,
+    "name": "M110_Transition"
+},
+{
+    "id": 86216,
+    "name": "SM1014_Shark"
+},
+{
+    "id": 86300,
+    "name": "FabM_Flight"
+},
+{
+    "id": 86317,
+    "name": "FabM_Green"
+},
+{
+    "id": 86318,
+    "name": "FabM_Parrot"
+},
+{
+    "id": 87919,
+    "name": "Scorpion_Camouflage"
+},
+{
+    "id": 87920,
+    "name": "Scorpion_Green"
+},
+{
+    "id": 87921,
+    "name": "Scorpion_Scratch"
+},
+{
+    "id": 87922,
+    "name": "Scorpion_Sky"
+},
+{
+    "id": 91300,
+    "name": "P350_Blizzard"
+},
+{
+    "id": 93400,
+    "name": "MP7_Blizzard"
+},
+{
+    "id": 93500,
+    "name": "P90_IronWill"
+},
+{
+    "id": 93600,
+    "name": "MP5_NorthernFury"
+},
+{
+    "id": 94400,
+    "name": "AKA12_Flow"
+},
+{
+    "id": 94700,
+    "name": "M16_IronWill"
+},
+{
+    "id": 95100,
+    "name": "AWM_PolarNight"
+},
+{
+    "id": 95300,
+    "name": "M110_Flow"
+},
+{
+    "id": 97100,
+    "name": "KnifeBayonet_Frozen"
+},
+{
+    "id": 97200,
+    "name": "KnifeKarambit_ColdFlame"
+},
+{
+    "id": 97201,
+    "name": "KnifeKarambit_Frozen"
+},
+{
+    "id": 97203,
+    "name": "KnifeKarambit_SnowCamo"
+},
+{
+    "id": 97300,
+    "name": "jKommando_Frozen"
+},
+{
+    "id": 97500,
+    "name": "KnifeButterfly_ColdFlam"
+},
+{
+    "id": 97700,
+    "name": "FlipKnife_SnowCamo"
+},
+{
+    "id": 97800,
+    "name": "KunaiKnife_ColdFlame"
+},
+{
+    "id": 97801,
+    "name": "KunaiKnife_SnowCamo"
+},
+{
+    "id": 97900,
+    "name": "ScorpionKnife_ColdFlame"
+},
+{
+    "id": 101300,
+    "name": "P350_4Years"
+},
+{
+    "id": 103200,
+    "name": "UMP45_4Years"
+},
+{
+    "id": 103500,
+    "name": "MP5_4Years"
+},
+{
+    "id": 104400,
+    "name": "AKR12_4Years"
+},
+{
+    "id": 104700,
+    "name": "M16_4Years"
+},
+{
+    "id": 121100,
+    "name": "G22_Scale"
+},
+{
+    "id": 121200,
+    "name": "USP_Chameleon"
+},
+{
+    "id": 121300,
+    "name": "P350_Oni"
+},
+{
+    "id": 121500,
+    "name": "Deagle_Orochi"
+},
+{
+    "id": 121600,
+    "name": "Tec9_Tropic"
+},
+{
+    "id": 123200,
+    "name": "UMP45_PeacefulDream"
+},
+{
+    "id": 123400,
+    "name": "MP7_Empire"
+},
+{
+    "id": 124300,
+    "name": "M4A1_Bubblegum"
+},
+{
+    "id": 124301,
+    "name": "M4A1_Kitsune"
+},
+{
+    "id": 124400,
+    "name": "AKR_Scale"
+},
+{
+    "id": 124500,
+    "name": "AKR12_Roar"
+},
+{
+    "id": 124600,
+    "name": "M4_Demon"
+},
+{
+    "id": 124800,
+    "name": "Famas_Anger"
+},
+{
+    "id": 125100,
+    "name": "AWM_BOOM"
+},
+{
+    "id": 125101,
+    "name": "AWM_Elevation"
+},
+{
+    "id": 125200,
+    "name": "M40_CursedFire"
+},
+{
+    "id": 126201,
+    "name": "SM1014_Tropic"
+},
+{
+    "id": 126300,
+    "name": "FabM_CursedFire"
+},
+{
+    "id": 126400,
+    "name": "M60_Grunge"
+},
+{
+    "id": 126401,
+    "name": "M60_SteamBeast"
+},
+{
+    "id": 131500,
+    "name": "Deagle_Mafia"
+},
+{
+    "id": 131700,
+    "name": "FiveSeven_Enforcer"
+},
+{
+    "id": 133500,
+    "name": "P90_RONINmk9"
+},
+{
+    "id": 133501,
+    "name": "P90_Z50FUJIN"
+},
+{
+    "id": 134300,
+    "name": "M4A1_KINGv703"
+},
+{
+    "id": 134500,
+    "name": "AKR12_Armored"
+},
+{
+    "id": 134501,
+    "name": "AKR12_Transistor"
+},
+{
+    "id": 134600,
+    "name": "M4_RONINmk56"
+},
+{
+    "id": 134700,
+    "name": "M16_Triumphant"
+},
+{
+    "id": 135300,
+    "name": "M110_Z07MARKSMAN"
+},
+{
+    "id": 136400,
+    "name": "M60_Mecha"
+},
+{
+    "id": 136401,
+    "name": "M60_Y20RAIJIN"
+},
+{
+    "id": 138000,
+    "name": "KnifeTanto_Dojo"
+},
+{
+    "id": 138001,
+    "name": "KnifeTanto_Mafia"
+},
+{
+    "id": 138002,
+    "name": "KnifeTanto_Malachite"
+},
+{
+    "id": 138003,
+    "name": "KnifeTanto_PearlAbyss"
+},
+{
+    "id": 138004,
+    "name": "KnifeTanto_Transistor"
+},
+{
+    "id": 138005,
+    "name": "KnifeTanto_Flow"
+},
+{
+    "id": 141600,
+    "name": "Tec9_Restless"
+},
+{
+    "id": 141700,
+    "name": "FiveSeven_DemonicFog"
+},
+{
+    "id": 144300,
+    "name": "M4A1_Noname"
+},
+{
+    "id": 144400,
+    "name": "AKR_Noname"
+},
+{
+    "id": 145300,
+    "name": "M110_CelestialBeast"
+},
+{
+    "id": 146300,
+    "name": "FabM_DeathHerald"
+},
+{
+    "id": 146400,
+    "name": "M60_DemonicFog"
+},
+{
+    "id": 148000,
+    "name": "KnifeTanto_Restless"
+},
+{
+    "id": 151600,
+    "name": "Tec9_HolidayFrost"
+},
+{
+    "id": 151700,
+    "name": "FiveSeven_HolidayFrost"
+},
+{
+    "id": 154300,
+    "name": "M4A1_YearOfTheTiger"
+},
+{
+    "id": 154800,
+    "name": "Famas_ChristmasSymbol"
+},
+{
+    "id": 154900,
+    "name": "FnFal_ChristmasSymbol"
+},
+{
+    "id": 155200,
+    "name": "M40_ThiefOfTheChristmas"
+},
+{
+    "id": 155300,
+    "name": "M110_YearOfTheTiger"
+},
+{
+    "id": 156300,
+    "name": "FabM_ThiefOfTheChristmas"
+},
+{
+    "id": 157100,
+    "name": "KnifeBayonet_Kumo"
+},
+{
+    "id": 157200,
+    "name": "KnifeKarambit_YearOfTheTiger"
+},
+{
+    "id": 157300,
+    "name": "jKommando_Augustite"
+},
+{
+    "id": 157500,
+    "name": "KnifeButterfly_Kumo"
+},
+{
+    "id": 157700,
+    "name": "FlipKnife_HolidayFrost"
+},
+{
+    "id": 157800,
+    "name": "KunaiKnife_Augustite"
+},
+{
+    "id": 157900,
+    "name": "ScorpionKnife_HolidayFrost"
+},
+{
+    "id": 158000,
+    "name": "KnifeTanto_YearOfTheTiger"
+},
+{
+    "id": 161200,
+    "name": "USP_Stickerbomb"
+},
+{
+    "id": 161600,
+    "name": "Tec9_Stickerbomb"
+},
+{
+    "id": 163400,
+    "name": "MP7_Stickerbomb"
+},
+{
+    "id": 165100,
+    "name": "AWM_Stickerbomb"
+},
+{
+    "id": 165200,
+    "name": "M40_Stickerbomb"
+},
+{
+    "id": 165300,
+    "name": "M110_Stickerbomb"
+},
+{
+    "id": 170001,
+    "name": "AKR_TagKing"
+},
+{
+    "id": 170002,
+    "name": "AKR12_Steampunk"
+},
+{
+    "id": 170003,
+    "name": "Deagle_Piranha"
+},
+{
+    "id": 170004,
+    "name": "Deagle_Glory"
+},
+{
+    "id": 170005,
+    "name": "FabM_BOOM"
+},
+{
+    "id": 170006,
+    "name": "Famas_Gunsmoke"
+},
+{
+    "id": 170007,
+    "name": "FiveSeven_Zap"
+},
+{
+    "id": 170008,
+    "name": "G22_Casual"
+},
+{
+    "id": 170009,
+    "name": "M4A1_Sour"
+},
+{
+    "id": 170010,
+    "name": "M16_Needl"
+},
+{
+    "id": 170011,
+    "name": "M40_Grip"
+},
+{
+    "id": 170012,
+    "name": "M60_Turret"
+},
+{
+    "id": 170013,
+    "name": "M110_Pursuit"
+},
+{
+    "id": 170014,
+    "name": "SM1014_Bolt"
+},
+{
+    "id": 170015,
+    "name": "MP5_Dusk"
+},
+{
+    "id": 170016,
+    "name": "MP7_Dawn"
+},
+{
+    "id": 170017,
+    "name": "P90_Oops"
+},
+{
+    "id": 170018,
+    "name": "P350_TagKing"
+},
+{
+    "id": 170019,
+    "name": "Tec9_Needle"
+},
+{
+    "id": 170020,
+    "name": "USP_PurpleCamo"
+},
+{
+    "id": 170021,
+    "name": "DaggerKnife_Acid"
+},
+{
+    "id": 170022,
+    "name": "DaggerKnife_DemonicSteel"
+},
+{
+    "id": 170023,
+    "name": "DaggerKnife_Grunge"
+},
+{
+    "id": 170024,
+    "name": "DaggerKnife_Molten"
+},
+{
+    "id": 180000,
+    "name": "DaggerKnife_Harmony"
+},
+{
+    "id": 180001,
+    "name": "AKR_Scylla"
+},
+{
+    "id": 180002,
+    "name": "AWM_Poseidon"
+},
+{
+    "id": 180003,
+    "name": "FABM_Hercules"
+},
+{
+    "id": 180004,
+    "name": "M4_Minotaur"
+},
+{
+    "id": 180005,
+    "name": "M40_Constellations"
+},
+{
+    "id": 180006,
+    "name": "M60_Ares"
+},
+{
+    "id": 180007,
+    "name": "M110_Themis"
+},
+{
+    "id": 180008,
+    "name": "MAC10_Argo"
+},
+{
+    "id": 180009,
+    "name": "MAC10_Constellations"
+},
+{
+    "id": 180010,
+    "name": "MP5_Gorgon"
+},
+{
+    "id": 180011,
+    "name": "SPAS_Griffin"
+},
+{
+    "id": 180012,
+    "name": "SPAS_Zeus"
+},
+{
+    "id": 180013,
+    "name": "FiveSeven_Octopus"
+},
+{
+    "id": 180014,
+    "name": "SM1014_Shark2"
+},
+{
+    "id": 180015,
+    "name": "Tec9_Splash"
+},
+{
+    "id": 180016,
+    "name": "AKR12_Carving"
+},
+{
+    "id": 180017,
+    "name": "FnFal_Basilisk"
+},
+{
+    "id": 180018,
+    "name": "M4A1_Mermaid"
+},
+{
+    "id": 180019,
+    "name": "M16_Muraena"
+},
+{
+    "id": 180020,
+    "name": "MAC10_Shark"
+},
+{
+    "id": 180021,
+    "name": "SPAS_Octopus"
+},
+{
+    "id": 180022,
+    "name": "Kukri_Ares"
+},
+{
+    "id": 180023,
+    "name": "Kukri_Eagle"
+},
+{
+    "id": 180024,
+    "name": "Kukri_Gold"
+},
+{
+    "id": 180025,
+    "name": "Kukri_Silver"
+},
+{
+    "id": 180026,
+    "name": "Kukri_Stars"
+},
+{
+    "id": 180027,
+    "name": "Kukri_Stone"
+},
+{
+    "id": 180028,
+    "name": "DaggerKnife_Jaws"
+},
+{
+    "id": 190001,
+    "name": "AKR12_Riot"
+},
+{
+    "id": 190002,
+    "name": "Deagle_Infection"
+},
+{
+    "id": 190003,
+    "name": "Famas_Handcraft"
+},
+{
+    "id": 190004,
+    "name": "Mac10_MeltAway"
+},
+{
+    "id": 190005,
+    "name": "P350_Raider"
+},
+{
+    "id": 190006,
+    "name": "SPAS_Raider"
+},
+{
+    "id": 200001,
+    "name": "M4_Sunset"
+},
+{
+    "id": 200002,
+    "name": "UMP45_Luminous"
+},
+{
+    "id": 200003,
+    "name": "SPAS_Vibe"
+},
+{
+    "id": 200004,
+    "name": "MP7_SpaceBlaster"
+},
+{
+    "id": 200005,
+    "name": "MP5_SpaceBlaster"
+},
+{
+    "id": 200006,
+    "name": "P90_PurpleMist"
+},
+{
+    "id": 200007,
+    "name": "M16_RetroArcade"
+},
+{
+    "id": 200008,
+    "name": "MAC10_PurpleMist"
+},
+{
+    "id": 200009,
+    "name": "AKR_DigitalBurst"
+},
+{
+    "id": 200010,
+    "name": "USP_DigitalBurst"
+},
+{
+    "id": 200011,
+    "name": "KnifeKarambit_PurpleCamo"
+},
+{
+    "id": 200012,
+    "name": "KnifeBayonet_DigitalBurst"
+},
+{
+    "id": 200013,
+    "name": "KnifeKukri_DigitalBurst"
+},
+{
+    "id": 200014,
+    "name": "KunaiKnife_Prism"
+},
+{
+    "id": 200015,
+    "name": "jKommando_Prism"
+},
+{
+    "id": 200016,
+    "name": "KnifeTanto_RetroArcade"
+},
+{
+    "id": 200017,
+    "name": "DaggerKnife_RetroArcade"
+},
+{
+    "id": 210001,
+    "name": "Deagle_Hunter"
+},
+{
+    "id": 210002,
+    "name": "M16_Sharpshooter"
+},
+{
+    "id": 210003,
+    "name": "AWM_ColdBlooded"
+},
+{
+    "id": 210004,
+    "name": "AKR_SteelGrip"
+},
+{
+    "id": 210005,
+    "name": "G22_SteelGrip"
+},
+{
+    "id": 210006,
+    "name": "USP_Hunter02"
+},
+{
+    "id": 220001,
+    "name": "MAC10_Noxious"
+},
+{
+    "id": 220002,
+    "name": "MP5_Vector"
+},
+{
+    "id": 220003,
+    "name": "M40_Impale"
+},
+{
+    "id": 220004,
+    "name": "M110_TechShard"
+},
+{
+    "id": 220005,
+    "name": "SPAS_VesperHaze"
+},
+{
+    "id": 220006,
+    "name": "FnFal_RedHot"
+},
+{
+    "id": 220007,
+    "name": "P350_Rhino"
+},
+{
+    "id": 220008,
+    "name": "M4_Powergame"
+},
+{
+    "id": 220009,
+    "name": "USP_Ignite"
+},
+{
+    "id": 220010,
+    "name": "MP7_Presicion"
+},
+{
+    "id": 220011,
+    "name": "AKR_Evolution"
+},
+{
+    "id": 220012,
+    "name": "AWM_Kings"
+},
+{
+    "id": 220013,
+    "name": "Tec9_TieDye"
+},
+{
+    "id": 220014,
+    "name": "MAC10_ShogunStripes"
+},
+{
+    "id": 220015,
+    "name": "Berettas_SoulDevourer"
+},
+{
+    "id": 220016,
+    "name": "Berettas_Damascus"
+},
+{
+    "id": 220017,
+    "name": "P90_Clash"
+},
+{
+    "id": 220018,
+    "name": "SPAS_Taint"
+},
+{
+    "id": 220019,
+    "name": "M16_ShogunStripes"
+},
+{
+    "id": 220020,
+    "name": "Deagle_Venator"
+},
+{
+    "id": 220021,
+    "name": "KnifeStilet_SoulDevourer"
+},
+{
+    "id": 220022,
+    "name": "KnifeStilet_Viper"
+},
+{
+    "id": 220023,
+    "name": "KnifeStilet_TieDye"
+},
+{
+    "id": 220024,
+    "name": "KnifeStilet_Damascus"
+},
+{
+    "id": 230001,
+    "name": "AKR12_Ashbringer"
+},
+{
+    "id": 230002,
+    "name": "FiveSeven_Ophidian"
+},
+{
+    "id": 230003,
+    "name": "G22_LionLord"
+},
+{
+    "id": 230004,
+    "name": "M4A1_Paladin"
+},
+{
+    "id": 230005,
+    "name": "M40_Wyvern"
+},
+{
+    "id": 230006,
+    "name": "MAC10_WildRage"
+},
+{
+    "id": 230007,
+    "name": "P90_DragonFlame"
+},
+{
+    "id": 230008,
+    "name": "SPAS_Unicorn"
+},
+{
+    "id": 230009,
+    "name": "UMP45_Warchief"
+},
+{
+    "id": 230010,
+    "name": "USP_Griffin"
+},
+{
+    "id": 230011,
+    "name": "Berettas_BlazingMaw"
+},
+{
+    "id": 230012,
+    "name": "Berettas_RoyalRose"
+},
+{
+    "id": 240001,
+    "name": "Tec9_Glitch"
+},
+{
+    "id": 240002,
+    "name": "FABM_Cranium"
+},
+{
+    "id": 240003,
+    "name": "M60_Spaceware"
+},
+{
+    "id": 240004,
+    "name": "Berettas_Hexagon"
+},
+{
+    "id": 240005,
+    "name": "Famas_StellarBlitz"
+},
+{
+    "id": 240006,
+    "name": "AWM_Xenoguard"
+},
+{
+    "id": 240007,
+    "name": "KnifeButterfly_Glitch"
+},
+{
+    "id": 240008,
+    "name": "KunaiKnife_Glitch"
+},
+{
+    "id": 240009,
+    "name": "KnifeTanto_Glitch"
+},
+{
+    "id": 240010,
+    "name": "ScorpionKnife_Magnalium"
+},
+{
+    "id": 240011,
+    "name": "FlipKnife_Magnalium"
+},
+{
+    "id": 240012,
+    "name": "KnifeStiletto_Flux"
+},
+{
+    "id": 240013,
+    "name": "AWM_Nebula"
+},
+{
+    "id": 240014,
+    "name": "KnifeKarambit_Nebula"
+},
+{
+    "id": 240015,
+    "name": "P90_Nebula"
+},
+{
+    "id": 240016,
+    "name": "MP7_Ridge"
+},
+{
+    "id": 240017,
+    "name": "FnFal_Scaleskitter"
+},
+{
+    "id": 240018,
+    "name": "UMP45_Arid"
+},
+{
+    "id": 240019,
+    "name": "MAC10_Arid"
+},
+{
+    "id": 240020,
+    "name": "P350_Sandspirit"
+},
+{
+    "id": 240021,
+    "name": "SM1014_Serpent"
+},
+{
+    "id": 240022,
+    "name": "M4A1_Serpent"
+},
+{
+    "id": 240023,
+    "name": "M110_Harbinger"
+},
+{
+    "id": 240024,
+    "name": "Deagle_DustDevil"
+},
+{
+    "id": 240025,
+    "name": "USP_MirageMenace"
+},
+{
+    "id": 240026,
+    "name": "M16_DustDevil"
+},
+{
+    "id": 240027,
+    "name": "AKR_MirageMenace"
+},
+{
+    "id": 240028,
+    "name": "Deagle_Aureate"
+},
+{
+    "id": 240029,
+    "name": "KnifeFang_Flare"
+},
+{
+    "id": 240030,
+    "name": "KnifeFang_Serpent"
+},
+{
+    "id": 240031,
+    "name": "KnifeFang_Obsidian"
+},
+{
+    "id": 240032,
+    "name": "KnifeFang_Relic"
+},
+{
+    "id": 240033,
+    "name": "KnifeFang_Aureate"
+},
+{
+    "id": 240034,
+    "name": "KnifeFang_Damascus"
+},
+{
+    "id": 240035,
+    "name": "MP5_Insanity"
+},
+{
+    "id": 240036,
+    "name": "M60_Quantum"
+},
+{
+    "id": 240037,
+    "name": "Berettas_Hybrid"
+},
+{
+    "id": 240038,
+    "name": "FabM_Tindalos"
+},
+{
+    "id": 240039,
+    "name": "G22_Haunt"
+},
+{
+    "id": 240040,
+    "name": "M40_VenomShade"
+},
+{
+    "id": 240041,
+    "name": "FiveSeven_Hellspawn"
+},
+{
+    "id": 240042,
+    "name": "P90_Revenant"
+},
+{
+    "id": 240043,
+    "name": "AKR12_Haunt"
+},
+{
+    "id": 240044,
+    "name": "M4_NKai"
+},
+{
+    "id": 240045,
+    "name": "KnifeFang_Haunt"
+},
+{
+    "id": 240046,
+    "name": "Tec9_Verglas"
+},
+{
+    "id": 240047,
+    "name": "FnFal_Verglas"
+},
+{
+    "id": 240048,
+    "name": "FAMAS_SnowStorm"
+},
+{
+    "id": 240049,
+    "name": "Berettas_LumosShard"
+},
+{
+    "id": 240050,
+    "name": "M16_Bigfoot"
+},
+{
+    "id": 240051,
+    "name": "AKR_Icewing"
+},
+{
+    "id": 240052,
+    "name": "MP7_FestalWrap"
+},
+{
+    "id": 240053,
+    "name": "AWM_FestalWrap"
+},
+{
+    "id": 240054,
+    "name": "P350_FestalWrap"
+},
+{
+    "id": 240055,
+    "name": "SM1014_FreezingGasp"
+},
+{
+    "id": 240056,
+    "name": "jKommando_Shatter"
+},
+{
+    "id": 240058,
+    "name": "KnifeFang_Saphira"
+},
+{
+    "id": 240059,
+    "name": "KnifeButterfly_Saphira"
+},
+{
+    "id": 240060,
+    "name": "DaggerKnife_FrostNova"
+},
+{
+    "id": 240061,
+    "name": "KnifeTanto_FrostNova"
+},
+{
+    "id": 240062,
+    "name": "KnifeStilet_DarkShiver"
+},
+{
+    "id": 240063,
+    "name": "KnifeBayonet_DarkShiver"
+},
+{
+    "id": 240064,
+    "name": "KnifeSting_Mimicry"
+},
+{
+    "id": 240065,
+    "name": "KnifeSting_Meld"
+},
+{
+    "id": 240066,
+    "name": "KnifeSting_Corrode"
+},
+{
+    "id": 240067,
+    "name": "KnifeSting_Fleck"
+},
+{
+    "id": 240068,
+    "name": "KnifeSting_Shroud"
+},
+{
+    "id": 240069,
+    "name": "KnifeSting_OilSheen"
+},
+{
+    "id": 240070,
+    "name": "KnifeSting_TemperShades"
+},
+{
+    "id": 240071,
+    "name": "MAC10_Corrode"
+},
+{
+    "id": 240072,
+    "name": "USP_Corrode"
+},
+{
+    "id": 240073,
+    "name": "M110_ReachKeeper"
+},
+{
+    "id": 240074,
+    "name": "VAL_Forge"
+},
+{
+    "id": 240075,
+    "name": "FiveSeven_Toxic"
+},
+{
+    "id": 240076,
+    "name": "UMP45_Industrial"
+},
+{
+    "id": 240077,
+    "name": "M60_Fatal"
+},
+{
+    "id": 240078,
+    "name": "SPAS_Dangerous"
+},
+{
+    "id": 240079,
+    "name": "P90_FusionCore"
+},
+{
+    "id": 240080,
+    "name": "VAL_OilSheen"
+},
+{
+    "id": 240081,
+    "name": "Deagle_FusionCore"
+},
+{
+    "id": 240082,
+    "name": "M4A1_Ferocity"
+},
+{
+    "id": 240083,
+    "name": "FabM_Vein"
+},
+{
+    "id": 240084,
+    "name": "P350_Vitrum"
+},
+{
+    "id": 240085,
+    "name": "FAMAS_BattleSteel"
+},
+{
+    "id": 240086,
+    "name": "Berettas_Artifacts"
+},
+{
+    "id": 240087,
+    "name": "UMP45_VHS"
+},
+{
+    "id": 240088,
+    "name": "P90_ColdLead"
+},
+{
+    "id": 240089,
+    "name": "MP5_SilverPlated"
+},
+{
+    "id": 240090,
+    "name": "FiveSeven_Corrosion"
+},
+{
+    "id": 240091,
+    "name": "M4_Flock"
+},
+{
+    "id": 240092,
+    "name": "Deagle_VioletFlame"
+},
+{
+    "id": 240093,
+    "name": "M4A1_Stainless"
+},
+{
+    "id": 240094,
+    "name": "VAL_Joker"
+},
+{
+    "id": 240095,
+    "name": "USP_Ghosts"
+},
+{
+    "id": 240096,
+    "name": "M40_Disguise"
+},
+{
+    "id": 240097,
+    "name": "G22_Flock"
+},
+{
+    "id": 240098,
+    "name": "TEC9_Disguise"
+},
+{
+    "id": 240099,
+    "name": "MP7_Fright"
+},
+{
+    "id": 240100,
+    "name": "AKR12_Mimicry"
+},
+{
+    "id": 240101,
+    "name": "VAL_GildedGale"
+},
+{
+    "id": 240102,
+    "name": "AWM_HoheiTaisho"
+},
+{
+    "id": 240103,
+    "name": "M40_Daybreak"
+},
+{
+    "id": 240104,
+    "name": "SM1014_Triton"
+},
+{
+    "id": 240105,
+    "name": "MP5_WaterGun"
+},
+{
+    "id": 240106,
+    "name": "FnFal_DuskTide"
+},
+{
+    "id": 240107,
+    "name": "VAL_Solstice"
+},
+{
+    "id": 240108,
+    "name": "M16_SeaGlint"
+},
+{
+    "id": 240109,
+    "name": "DaggerKnife_Tiki"
+},
+{
+    "id": 240110,
+    "name": "KnifeKukri_SeaGlint"
+},
+{
+    "id": 240111,
+    "name": "KnifeKarambit_Pelagia"
+},
+{
+    "id": 240112,
+    "name": "ScorpionKnife_Ahau"
+},
+{
+    "id": 240113,
+    "name": "KnifeSting_Pelagia"
+},
+{
+    "id": 240114,
+    "name": "KnifeTanto_Solstice"
+},
+{
+    "id": 240115,
+    "name": "MAC10_RubyShadow"
+},
+{
+    "id": 240116,
+    "name": "FiveSeven_Polymer"
+},
+{
+    "id": 240117,
+    "name": "Berettas_ConstructionSector"
+},
+{
+    "id": 240118,
+    "name": "Famas_Oxide"
+},
+{
+    "id": 240119,
+    "name": "MP7_Rebellion"
+},
+{
+    "id": 240120,
+    "name": "P350_Gearshift"
+},
+{
+    "id": 240121,
+    "name": "M40_Skyfall"
+},
+{
+    "id": 240122,
+    "name": "Val_CityNight"
+},
+{
+    "id": 240123,
+    "name": "TEC9_Gangster"
+},
+{
+    "id": 240124,
+    "name": "M4_Ironclad"
+},
+{
+    "id": 240125,
+    "name": "FabM_Gangster"
+},
+{
+    "id": 240126,
+    "name": "AWM_Spectral"
+},
+{
+    "id": 240127,
+    "name": "AKR12_Emberbird"
+},
+{
+    "id": 240128,
+    "name": "KnifeKukri_Decay"
+},
+{
+    "id": 240129,
+    "name": "DaggerKnife_Contagion"
+},
+{
+    "id": 240130,
+    "name": "KnifeButterfly_Ripple"
+},
+{
+    "id": 240131,
+    "name": "KnifeKarambit_WidowsWeave"
+},
+{
+    "id": 240132,
+    "name": "jKommando_Plasma"
+},
+{
+    "id": 240133,
+    "name": "KnifeSting_ArcaneSurge"
+},
+{
+    "id": 240134,
+    "name": "M110_DarkPact"
+},
+{
+    "id": 240135,
+    "name": "USP_Suture"
+},
+{
+    "id": 240136,
+    "name": "M16_Wraithwood"
+},
+{
+    "id": 240137,
+    "name": "MAC10_ArcaneSurge"
+},
+{
+    "id": 240138,
+    "name": "FNFAL_AstralRift"
+},
+{
+    "id": 240139,
+    "name": "VAL_WidowsWeave"
+},
+{
+    "id": 240140,
+    "name": "AKR12_ColdHearted"
+},
+{
+    "id": 240141,
+    "name": "M4_FuriousSharpshooter"
+},
+{
+    "id": 240144,
+    "name": "Flash_Solar"
+},
+{
+    "id": 240145,
+    "name": "P90_Unstoppable"
+},
+{
+    "id": 240146,
+    "name": "M4_Kachi"
+},
+{
+    "id": 240147,
+    "name": "Tec9_NightSlayer"
+},
+{
+    "id": 240148,
+    "name": "FiveSeven_PinkShot"
+},
+{
+    "id": 240149,
+    "name": "M40_NorthernLights"
+},
+{
+    "id": 240150,
+    "name": "AKR12_Hanami"
+},
+{
+    "id": 240151,
+    "name": "KnifeTanto_Hanami"
+},
+{
+    "id": 240152,
+    "name": "ScorpionKnife_NekoJoy"
+},
+{
+    "id": 240153,
+    "name": "KnifeStilet_Voidroot"
+},
+{
+    "id": 240154,
+    "name": "KnifeBayonet_AmberKoi"
+},
+{
+    "id": 240155,
+    "name": "KnifeFang_Wavesong"
+},
+{
+    "id": 240156,
+    "name": "KunaiKnife_Wavesong"
+},
+{
+    "id": 240157,
+    "name": "SPAS_Tensai"
+},
+{
+    "id": 240158,
+    "name": "VAL_Ronin"
+},
+{
+    "id": 240159,
+    "name": "M4A1_SparklingGaze"
+},
+{
+    "id": 240160,
+    "name": "Smoke_Kiri"
+},
+{
+    "id": 240161,
+    "name": "HE_Hanami"
+},
+{
+    "id": 240162,
+    "name": "AKR_Vermilion"
+},
+{
+    "id": 240163,
+    "name": "Deagle_Vermilion"
+},
+{
+    "id": 240164,
+    "name": "KnifeKarambit_Vermilion"
+},
+{
+    "id": 240165,
+    "name": "Test"
+},
+{
+    "id": 240166,
+    "name": "P350_InkSpree"
+},
+{
+    "id": 240167,
+    "name": "UMP45_Heatwave"
+},
+{
+    "id": 240168,
+    "name": "FNFAL_CharredWood"
+},
+{
+    "id": 240169,
+    "name": "M60_Warp"
+},
+{
+    "id": 240170,
+    "name": "M110_Grid"
+},
+{
+    "id": 240171,
+    "name": "MP5_Tiles"
+},
+{
+    "id": 240172,
+    "name": "AkimboUzi_Spray"
+},
+{
+    "id": 240173,
+    "name": "USP_Rainforest"
+},
+{
+    "id": 240174,
+    "name": "FAMAS_Feral"
+},
+{
+    "id": 240175,
+    "name": "AkimboUzi_Toco"
+},
+{
+    "id": 240176,
+    "name": "SPAS_Glide"
+},
+{
+    "id": 240177,
+    "name": "M16_Raiva"
+},
+{
+    "id": 240178,
+    "name": "M40_Smolder"
+},
+{
+    "id": 240179,
+    "name": "MAC10_PixelCamouflage"
+},
+{
+    "id": 240180,
+    "name": "MP5_Iron"
+},
+{
+    "id": 240181,
+    "name": "FiveSeven_Aquamarine"
+},
+{
+    "id": 240182,
+    "name": "Fabm_Mayhem"
+},
+{
+    "id": 240183,
+    "name": "Tec9_Ultimatum"
+},
+{
+    "id": 240184,
+    "name": "Berettas_Verdict"
+},
+{
+    "id": 240185,
+    "name": "M60_Copper"
+},
+{
+    "id": 240186,
+    "name": "M16_Mayhem"
+},
+{
+    "id": 240187,
+    "name": "AkimboUzi_Skull"
+},
+{
+    "id": 240188,
+    "name": "FnFal_Pro"
+},
+{
+    "id": 240189,
+    "name": "SM1014_Wasp"
+},
+{
+    "id": 240190,
+    "name": "AWM_Sylvan"
+},
+{
+    "id": 240191,
+    "name": "P350_Ooze"
+},
+{
+    "id": 240192,
+    "name": "P90_Noir"
+},
+{
+    "id": 240193,
+    "name": "M4A1_Overdrive"
+},
+{
+    "id": 240194,
+    "name": "Deagle_Eclipse"
+},
+{
+    "id": 240195,
+    "name": "G22_Briar"
+},
+{
+    "id": 240196,
+    "name": "AkimboUzi_OverdriveRed"
+},
+{
+    "id": 240197,
+    "name": "AKR_Genesis"
+},
+{
+    "id": 240198,
+    "name": "KnifeMantis_Eclipse"
+},
+{
+    "id": 240199,
+    "name": "KnifeMantis_Citrine"
+},
+{
+    "id": 240200,
+    "name": "KnifeMantis_Nest"
+},
+{
+    "id": 240201,
+    "name": "KnifeMantis_Genesis"
+},
+{
+    "id": 240202,
+    "name": "AkimboUzi_Streak"
+},
+{
+    "id": 240203,
+    "name": "FabM_Streak"
+},
+{
+    "id": 240204,
+    "name": "M4_Flex"
+},
+{
+    "id": 240205,
+    "name": "M60_Flex"
+},
+{
+    "id": 240206,
+    "name": "MP5_Blueprint"
+},
+{
+    "id": 240207,
+    "name": "G22_Impulse"
+},
+{
+    "id": 240208,
+    "name": "Molotov_Drive"
+},
+{
+    "id": 240209,
+    "name": "P350_Impact"
+},
+{
+    "id": 240210,
+    "name": "M4A1_Impact"
+},
+{
+    "id": 240211,
+    "name": "KnifeMantis_Impact"
+},
+{
+    "id": 240212,
+    "name": "AKR12_Shark"
+},
+{
+    "id": 240213,
+    "name": "P90_Oracle"
+},
+{
+    "id": 240214,
+    "name": "DesertEagle_Gambit"
+},
+{
+    "id": 240215,
+    "name": "SM1014_Piranha"
+},
+{
+    "id": 240216,
+    "name": "FAMAS_Ritual"
+},
+{
+    "id": 240217,
+    "name": "AkimboUzi_Ravage"
+},
+{
+    "id": 240218,
+    "name": "VAL_Orbit"
+},
+{
+    "id": 240219,
+    "name": "AWM_Ravage"
+},
+{
+    "id": 240220,
+    "name": "UMP45_Smelter"
+},
+{
+    "id": 240221,
+    "name": "FiveSeven_Vines"
+},
+{
+    "id": 240222,
+    "name": "Tec9_Iris"
+},
+{
+    "id": 240223,
+    "name": "M16_Challenger"
+},
+{
+    "id": 240224,
+    "name": "FnFal_Splash"
+},
+{
+    "id": 240225,
+    "name": "Butterfly_Gambit"
+},
+{
+    "id": 240226,
+    "name": "KnifeTanto_CelestialTiger"
+},
+{
+    "id": 240227,
+    "name": "KnifeKukri_Cascade"
+},
+{
+    "id": 240228,
+    "name": "KnifeM9Bayonet_Moonstone"
+},
+{
+    "id": 240229,
+    "name": "KnifeMantis_Yokai"
+},
+{
+    "id": 240230,
+    "name": "KnifeStilleto_Ascend"
+},
+{
+    "id": 240231,
+    "name": "KnifeKunai_Diffusion"
+},
+{
+    "id": 240232,
+    "name": "MP7_R1NA"
+},
+{
+    "id": 240233,
+    "name": "AKR_Orchid"
+},
+{
+    "id": 240234,
+    "name": "AkimboUzi_Yokai"
+},
+{
+    "id": 240235,
+    "name": "Tec9_Blossom"
+},
+{
+    "id": 240236,
+    "name": "Mallard_Ascend"
+},
+{
+    "id": 240237,
+    "name": "P350_SilverWing"
+},
+{
+    "id": 240238,
+    "name": "USP_CelestialTiger"
+},
+{
+    "id": 240239,
+    "name": "FabM_Undertow"
+},
+{
+    "id": 240240,
+    "name": "Berettas_Cascade"
+},
+{
+    "id": 240241,
+    "name": "MP5_Clouds"
+},
+{
+    "id": 240242,
+    "name": "M4A1_Tempest"
+},
+{
+    "id": 240243,
+    "name": "Mallard_FallingLeaves"
+},
+{
+    "id": 240244,
+    "name": "AWM_Moonstone"
+},
+{
+    "id": 240245,
+    "name": "P90_Foxfire"
+},
+{
+    "id": 240246,
+    "name": "SM1014_FallingLeaves"
+},
+{
+    "id": 240247,
+    "name": "MAC10_Tempest"
+},
+{
+    "id": 240248,
+    "name": "M40_WhiteAsh"
+},
+{
+    "id": 240249,
+    "name": "DesertEagle_Blossom"
+},
+{
+    "id": 240250,
+    "name": "AKR12_Kensei"
+},
+{
+    "id": 240251,
+    "name": "KnifeTanto_Blossom"
+},
+{
+    "id": 240252,
+    "name": "Mallard_PhantomPack"
+},
+{
+    "id": 240253,
+    "name": "G22_FlorDeMuertos"
+},
+{
+    "id": 240254,
+    "name": "M4_BulletsAndRoses"
+},
+{
+    "id": 240255,
+    "name": "AkimboUzi_HowlingGhost"
+},
+{
+    "id": 240256,
+    "name": "VAL_RosaMortal"
+},
+{
+    "id": 240257,
+    "name": "SPAS_EternalFlow"
+},
+{
+    "id": 240258,
+    "name": "M60_Horror"
+},
+{
+    "id": 240259,
+    "name": "FAMAS_Raider"
+},
+{
+    "id": 240260,
+    "name": "AWM_Vampire"
+},
+{
+    "id": 240261,
+    "name": "M16_Basilisk"
+},
+{
+    "id": 240262,
+    "name": "MP5_ArcaneSurge"
+},
+{
+    "id": 240263,
+    "name": "USP_Horror"
+},
+{
+    "id": 240264,
+    "name": "UMP45_Leviathan"
+},
+{
+    "id": 240265,
+    "name": "M110_Centipede"
+},
+{
+    "id": 240266,
+    "name": "FabM_Fiend"
+},
+{
+    "id": 240267,
+    "name": "VAL_PhantomPack"
+},
+{
+    "id": 240268,
+    "name": "Thermite_ScorchedEarth"
+},
+{
+    "id": 240269,
+    "name": "Butterfly_ArcaneSurge"
+},
+{
+    "id": 240270,
+    "name": "KnifeDagger_FlordeMuertos"
+},
+{
+    "id": 240271,
+    "name": "KnifeJKommando_Engraving"
+},
+{
+    "id": 240272,
+    "name": "KnifeMantis_Poison"
+},
+{
+    "id": 240273,
+    "name": "KnifeSting_CarmineThorns"
+},
+{
+    "id": 240274,
+    "name": "KnifeScorpion_HowlingGhost"
+},
+{
+    "id": 240275,
+    "name": "KnifeKarambit_WhiteRose"
+},
+{
+    "id": 240276,
+    "name": "Mallard_PROgold"
+},
+{
+    "id": 240277,
+    "name": "M4A1_PawPaw"
+},
+{
+    "id": 240278,
+    "name": "AKR_LaReina"
+},
+{
+    "id": 240279,
+    "name": "M40_AuricBloom"
+},
+{
+    "id": 240280,
+    "name": "FnFal_Empyrean"
+},
+{
+    "id": 240281,
+    "name": "AKR12_IceStorm"
+},
+{
+    "id": 240282,
+    "name": "Mallard_WildWest"
+},
+{
+    "id": 240283,
+    "name": "DesertEagle_WildFlower"
+},
+{
+    "id": 240284,
+    "name": "Berettas_ArcticCamo"
+},
+{
+    "id": 240285,
+    "name": "M4A1_PixelFlakes"
+},
+{
+    "id": 240286,
+    "name": "G22_ReindeerSweater"
+},
+{
+    "id": 240287,
+    "name": "TEC9_GiftWrap"
+},
+{
+    "id": 240288,
+    "name": "SM1014_PenguinPatrol"
+},
+{
+    "id": 240289,
+    "name": "AkimboUzi_FireHorse"
+},
+{
+    "id": 240290,
+    "name": "Karambit_Hologram"
+},
+{
+    "id": 240291,
+    "name": "P90_Hologram"
+},
+{
+    "id": 240292,
+    "name": "USP_Hologram"
+},
+{
+    "id": 240293,
+    "name": "M9Bayonet_Sketch"
+},
+{
+    "id": 240294,
+    "name": "M9Bayonet_Citrine"
+},
+{
+    "id": 240295,
+    "name": "M9Bayonet_Poison"
+},
+{
+    "id": 240296,
+    "name": "M9Bayonet_Twilight"
+},
+{
+    "id": 240297,
+    "name": "AWM_DarkCamo"
+},
+{
+    "id": 240298,
+    "name": "Tec9_SmolderingCoal"
+},
+{
+    "id": 240299,
+    "name": "M16_Bastion"
+},
+{
+    "id": 240300,
+    "name": "SPAS_Umbra"
+},
+{
+    "id": 240301,
+    "name": "FNFAL_Suppressor"
+},
+{
+    "id": 240302,
+    "name": "MAC10_Cardboard"
+},
+{
+    "id": 240303,
+    "name": "Mallard_PaintScrawl"
+},
+{
+    "id": 240304,
+    "name": "MP5_Outrider"
+},
+{
+    "id": 240305,
+    "name": "FiveSeven_FlashingFlame"
+},
+{
+    "id": 240306,
+    "name": "VAL_Vertex"
+},
+{
+    "id": 240307,
+    "name": "MP7_MagmaTrail"
+},
+{
+    "id": 240308,
+    "name": "P90_Horizon"
+},
+{
+    "id": 240309,
+    "name": "M4_RetroFilm"
+},
+{
+    "id": 240310,
+    "name": "M16_Accuracy"
+},
+{
+    "id": 240311,
+    "name": "AkimboUzi_Zenith"
+},
+{
+    "id": 240312,
+    "name": "P350_Emberbird"
+},
+{
+    "id": 240313,
+    "name": "AKR_Sketch"
+},
+{
+    "id": 240314,
+    "name": "Mallard_SnakeScales"
+},
+{
+    "id": 240315,
+    "name": "M4A1_TreasureHunter"
+},
+{
+    "id": 240316,
+    "name": "G22_Twilight"
+},
+{
+    "id": 240317,
+    "name": "Mantis_Glacier"
+},
+{
+    "id": 240318,
+    "name": "Kunai_FireHorse"
+},
+{
+    "id": 240319,
+    "name": "Butterfly_WildWest"
+},
+{
+    "id": 240320,
+    "name": "Kukri_PixelGlass"
+},
+{
+    "id": 240321,
+    "name": "Fang_IceStorm"
+},
+{
+    "id": 240322,
+    "name": "Stiletto_Empyrean"
+},
+{
+    "id": 240328,
+    "name": "AWM_JadeStone"
+},
+{
+    "id": 240329,
+    "name": "DesertEagle_JadeStone"
+},
+{
+    "id": 240330,
+    "name": "M4A1_JadeStone"
+},
+{
+    "id": 240331,
+    "name": "Butterfly_JadeStone"
+},
+{
+    "id": 1011002,
+    "name": "G22NestStatTrack"
+},
+{
+    "id": 1011008,
+    "name": "G22FrostWyrmStatTrack"
+},
+{
+    "id": 1013001,
+    "name": "P350CyberStatTrack"
+},
+{
+    "id": 1013003,
+    "name": "P350ForestSpiritStatTrack"
+},
+{
+    "id": 1013004,
+    "name": "P350RallyStatTrack"
+},
+{
+    "id": 1015003,
+    "name": "DeaglePredatorStatTrack"
+},
+{
+    "id": 1015004,
+    "name": "DeagleRedDragonStatTrack"
+},
+{
+    "id": 1015006,
+    "name": "DeagleDragonGlassStatTrack"
+},
+{
+    "id": 1032001,
+    "name": "UMP45CyberpunkStatTrack"
+},
+{
+    "id": 1032003,
+    "name": "UMP45SharkStatTrack"
+},
+{
+    "id": 1032004,
+    "name": "UMP45WingedStatTrack"
+},
+{
+    "id": 1032005,
+    "name": "UMP45BeastStatTrack"
+},
+{
+    "id": 1034001,
+    "name": "MP7OffroadStatTrack"
+},
+{
+    "id": 1034002,
+    "name": "MP7ArcadeStatTrack"
+},
+{
+    "id": 1035002,
+    "name": "P90GhoulStatTrack"
+},
+{
+    "id": 1041102,
+    "name": "G22_Starfall_StatTrack"
+},
+{
+    "id": 1041212,
+    "name": "USP_Pisces_StatTrack"
+},
+{
+    "id": 1041502,
+    "name": "Deagle_Ace_StatTrack"
+},
+{
+    "id": 1041605,
+    "name": "Tec9_Fable_StatTrack"
+},
+{
+    "id": 1041701,
+    "name": "FiveSeven_Venom_StatTrack"
+},
+{
+    "id": 1041703,
+    "name": "FiveSeven_Tactical_StatTrack"
+},
+{
+    "id": 1043202,
+    "name": "UMP45_Cerberus_StatTrack"
+},
+{
+    "id": 1043402,
+    "name": "MP7_Lich_StatTrack"
+},
+{
+    "id": 1044002,
+    "name": "AKRTreasureHunterStatTrack"
+},
+{
+    "id": 1044004,
+    "name": "AKRSportStatTrack"
+},
+{
+    "id": 1044005,
+    "name": "AKRNecromancerStatTrack"
+},
+{
+    "id": 1044006,
+    "name": "AKRCarbonStatTrack"
+},
+{
+    "id": 1044601,
+    "name": "M4_Lizard_StatTrack"
+},
+{
+    "id": 1044603,
+    "name": "M4_Samurai_StatTrack"
+},
+{
+    "id": 1044903,
+    "name": "FnFAL_Tactical_StatTrack"
+},
+{
+    "id": 1045001,
+    "name": "AKR12RailgunStatTrack"
+},
+{
+    "id": 1045002,
+    "name": "AKR12PixelCamouflageStatTrack"
+},
+{
+    "id": 1045301,
+    "name": "M110_Cyber_StatTrack"
+},
+{
+    "id": 1046002,
+    "name": "M4NecromancerStatTrack"
+},
+{
+    "id": 1046006,
+    "name": "M4ProStatTrack"
+},
+{
+    "id": 1046007,
+    "name": "M4GrandPrixStatTrack"
+},
+{
+    "id": 1047002,
+    "name": "M16WingedStatTrack"
+},
+{
+    "id": 1048001,
+    "name": "FamasBeagleStatTrack"
+},
+{
+    "id": 1048002,
+    "name": "FamasFuryStatTrack"
+},
+{
+    "id": 1048003,
+    "name": "FamasHullStatTrack"
+},
+{
+    "id": 1051002,
+    "name": "AWMPhoenixStatTrack"
+},
+{
+    "id": 1051003,
+    "name": "AWMGearStatTrack"
+},
+{
+    "id": 1051004,
+    "name": "AWMScratchStatTrack"
+},
+{
+    "id": 1051007,
+    "name": "AWMGenesisStatTrack"
+},
+{
+    "id": 1052001,
+    "name": "M40QuakeStatTrack"
+},
+{
+    "id": 1052003,
+    "name": "M40BeagleStatTrack"
+},
+{
+    "id": 1061101,
+    "name": "G22_New1_StatTrack"
+},
+{
+    "id": 1061201,
+    "name": "USP_New1_StatTrack"
+},
+{
+    "id": 1061601,
+    "name": "Tec9_New1_StatTrack"
+},
+{
+    "id": 1062002,
+    "name": "SM1014PathfinderStatTrack"
+},
+{
+    "id": 1062003,
+    "name": "SM1014NecromancerStatTrack"
+},
+{
+    "id": 1063401,
+    "name": "MP7_New1_StatTrack"
+},
+{
+    "id": 1065101,
+    "name": "AMW_New1_StatTrack"
+},
+{
+    "id": 1065201,
+    "name": "M40_New1_StatTrack"
+},
+{
+    "id": 1065202,
+    "name": "M40_New2_StatTrack"
+},
+{
+    "id": 1066201,
+    "name": "SM1014_New1_StatTrack"
+},
+{
+    "id": 1071103,
+    "name": "G22_Monster_StatTrack"
+},
+{
+    "id": 1071104,
+    "name": "G22_WhiteCarbon_StatTrack"
+},
+{
+    "id": 1071306,
+    "name": "P350_Poison_StatTrack"
+},
+{
+    "id": 1071607,
+    "name": "Tec9_Reactor_StatTrack"
+},
+{
+    "id": 1071701,
+    "name": "FiveSeven_Poison_StatTrack"
+},
+{
+    "id": 1071702,
+    "name": "FiveSeven_Zone_StatTrack"
+},
+{
+    "id": 1073208,
+    "name": "UMP45_Gas_StatTrack"
+},
+{
+    "id": 1073209,
+    "name": "UMP45_WhiteCarbon_StatTrack"
+},
+{
+    "id": 1073610,
+    "name": "MP5_ProjectZ9_StatTrack"
+},
+{
+    "id": 1073611,
+    "name": "MP5_Reactor_StatTrack"
+},
+{
+    "id": 1073612,
+    "name": "MP5_Zone_StatTrack"
+},
+{
+    "id": 1074800,
+    "name": "FAMAS_Monster_StatTrack"
+},
+{
+    "id": 1075205,
+    "name": "M40_Monster_StatTrack"
+},
+{
+    "id": 1076218,
+    "name": "FabM_Reactor_StatTrack"
+},
+{
+    "id": 1081107,
+    "name": "G22_Carbon_StatTrack"
+},
+{
+    "id": 1081200,
+    "name": "USP_Geometric_StatTrack"
+},
+{
+    "id": 1081300,
+    "name": "P350_Autumn_StatTrack"
+},
+{
+    "id": 1081700,
+    "name": "FiveSeven_Rush_StatTrack"
+},
+{
+    "id": 1081726,
+    "name": "FiveSeven_SightGrey_StatTrack"
+},
+{
+    "id": 1083200,
+    "name": "UMP45_Geometric_StatTrack"
+},
+{
+    "id": 1083201,
+    "name": "UMP45_Spirit_StatTrack"
+},
+{
+    "id": 1083400,
+    "name": "MP7_Revival_StatTrack"
+},
+{
+    "id": 1083410,
+    "name": "MP7_Graffity_StatTrack"
+},
+{
+    "id": 1083411,
+    "name": "MP7_Monkey_StatTrack"
+},
+{
+    "id": 1083512,
+    "name": "P90_Samurai_StatTrack"
+},
+{
+    "id": 1084400,
+    "name": "AKR12_Geometric_StatTrack"
+},
+{
+    "id": 1084402,
+    "name": "AKR_Dragon_StatTrack"
+},
+{
+    "id": 1084403,
+    "name": "AKR_Nano_StatTrack"
+},
+{
+    "id": 1084500,
+    "name": "AKR12_Carbon_StatTrack"
+},
+{
+    "id": 1084600,
+    "name": "M4_Revival_StatTrack"
+},
+{
+    "id": 1084624,
+    "name": "M4_Wolf_StatTrack"
+},
+{
+    "id": 1084800,
+    "name": "Famas_Autumn_StatTrack"
+},
+{
+    "id": 1084900,
+    "name": "FnFal_Phoenix_StatTrack"
+},
+{
+    "id": 1085127,
+    "name": "AWM_Dragon_StatTrack"
+},
+{
+    "id": 1085300,
+    "name": "M110_Transition_StatTrack"
+},
+{
+    "id": 1086216,
+    "name": "SM1014_Shark_StatTrack"
+},
+{
+    "id": 1086300,
+    "name": "FabM_Flight_StatTrack"
+},
+{
+    "id": 1086318,
+    "name": "FabM_Parrot_StatTrack"
+},
+{
+    "id": 1091300,
+    "name": "P350_Blizzard_StatTrack"
+},
+{
+    "id": 1093400,
+    "name": "MP7_Blizzard_StatTrack"
+},
+{
+    "id": 1093500,
+    "name": "P90_IronWill_StatTrack"
+},
+{
+    "id": 1093600,
+    "name": "MP5_NorthernFury_StatTrack"
+},
+{
+    "id": 1094400,
+    "name": "AKA12_Flow_StatTrack"
+},
+{
+    "id": 1094700,
+    "name": "M16_IronWill_StatTrack"
+},
+{
+    "id": 1095100,
+    "name": "AWM_PolarNight_StatTrack"
+},
+{
+    "id": 1095300,
+    "name": "M110_Flow_StatTrack"
+},
+{
+    "id": 1121200,
+    "name": "USP_Chameleon_StatTrack"
+},
+{
+    "id": 1121300,
+    "name": "P350_Oni_StatTrack"
+},
+{
+    "id": 1121500,
+    "name": "Deagle_Orochi_StatTrack"
+},
+{
+    "id": 1121600,
+    "name": "Tec9_Tropic_StatTrack"
+},
+{
+    "id": 1123400,
+    "name": "MP7_Empire_StatTrack"
+},
+{
+    "id": 1124300,
+    "name": "M4A1_Bubblegum_StatTrack"
+},
+{
+    "id": 1124301,
+    "name": "M4A1_Kitsune_StatTrack"
+},
+{
+    "id": 1124600,
+    "name": "M4_Demon_StatTrack"
+},
+{
+    "id": 1124800,
+    "name": "Famas_Anger_StatTrack"
+},
+{
+    "id": 1125100,
+    "name": "AWM_BOOM_StatTrack"
+},
+{
+    "id": 1126400,
+    "name": "M60_Grunge_StatTrack"
+},
+{
+    "id": 1126401,
+    "name": "M60_SteamBeast_StatTrack"
+},
+{
+    "id": 1131500,
+    "name": "Deagle_Mafia_StatTrack"
+},
+{
+    "id": 1131700,
+    "name": "FiveSeven_Enforcer_StatTrack"
+},
+{
+    "id": 1133500,
+    "name": "P90_RONINmk9_StatTrack"
+},
+{
+    "id": 1133501,
+    "name": "P90_Z50FUJIN_StatTrack"
+},
+{
+    "id": 1134300,
+    "name": "M4A1_KINGv703_StatTrack"
+},
+{
+    "id": 1134500,
+    "name": "AKR12_Armored_StatTrack"
+},
+{
+    "id": 1134501,
+    "name": "AKR12_Transistor_StatTrack"
+},
+{
+    "id": 1134600,
+    "name": "M4_RONINmk56_StatTrack"
+},
+{
+    "id": 1134700,
+    "name": "M16_Triumphant_StatTrack"
+},
+{
+    "id": 1135300,
+    "name": "M110_Z07MARKSMAN_StatTrack"
+},
+{
+    "id": 1136400,
+    "name": "M60_Mecha_StatTrack"
+},
+{
+    "id": 1136401,
+    "name": "M60_Y20RAIJIN_StatTrack"
+},
+{
+    "id": 1141600,
+    "name": "Tec9_Restless_StatTrack"
+},
+{
+    "id": 1141700,
+    "name": "FiveSeven_DemonicFog_StatTrack"
+},
+{
+    "id": 1144300,
+    "name": "M4A1_Noname_StatTrack"
+},
+{
+    "id": 1144400,
+    "name": "AKR_Noname_StatTrack"
+},
+{
+    "id": 1145300,
+    "name": "M110_CelestialBeast_StatTrack"
+},
+{
+    "id": 1146300,
+    "name": "FabM_DeathHerald_StatTrack"
+},
+{
+    "id": 1146400,
+    "name": "M60_DemonicFog_StatTrack"
+},
+{
+    "id": 1151600,
+    "name": "Tec9_HolidayFrost_StatTrack"
+},
+{
+    "id": 1151700,
+    "name": "FiveSeven_HolidayFrost_StatTrack"
+},
+{
+    "id": 1154300,
+    "name": "M4A1_YearOfTheTiger_StatTrack"
+},
+{
+    "id": 1154800,
+    "name": "Famas_ChristmasSymbol_StatTrack"
+},
+{
+    "id": 1154900,
+    "name": "FnFal_ChristmasSymbol_StatTrack"
+},
+{
+    "id": 1155200,
+    "name": "M40_ThiefOfTheChristmas_StatTrack"
+},
+{
+    "id": 1155300,
+    "name": "M110_YearOfTheTiger_StatTrack"
+},
+{
+    "id": 1156300,
+    "name": "FabM_ThiefOfTheChristmas_StatTrack"
+},
+{
+    "id": 1170001,
+    "name": "AKR_TagKing_StatTrack"
+},
+{
+    "id": 1170002,
+    "name": "AKR12_Steampunk_StatTrack"
+},
+{
+    "id": 1170003,
+    "name": "Deagle_Piranha_StatTrack"
+},
+{
+    "id": 1170005,
+    "name": "FabM_BOOM_StatTrack"
+},
+{
+    "id": 1170008,
+    "name": "G22_Casual_StatTrack"
+},
+{
+    "id": 1170009,
+    "name": "M4A1_Sour_StatTrack"
+},
+{
+    "id": 1170010,
+    "name": "M16_Needl_StatTrack"
+},
+{
+    "id": 1170011,
+    "name": "M40_Grip_StatTrack"
+},
+{
+    "id": 1170017,
+    "name": "P90_Oops_StatTrack"
+},
+{
+    "id": 1170018,
+    "name": "P350_TagKing_StatTrack"
+},
+{
+    "id": 1170019,
+    "name": "Tec9_Needle_StatTrack"
+},
+{
+    "id": 1170020,
+    "name": "USP_PurpleCamo_StatTrack"
+},
+{
+    "id": 1180001,
+    "name": "AKR_Scylla_StatTrack"
+},
+{
+    "id": 1180002,
+    "name": "AWM_Poseidon_StatTrack"
+},
+{
+    "id": 1180003,
+    "name": "FABM_Hercules_StatTrack"
+},
+{
+    "id": 1180004,
+    "name": "M4_Minotaur_StatTrack"
+},
+{
+    "id": 1180005,
+    "name": "M40_Constellations_StatTrack"
+},
+{
+    "id": 1180006,
+    "name": "M60_Ares_StatTrack"
+},
+{
+    "id": 1180007,
+    "name": "M110_Themis_StatTrack"
+},
+{
+    "id": 1180008,
+    "name": "MAC10_Argo_StatTrack"
+},
+{
+    "id": 1180009,
+    "name": "MAC10_Constellations_StatTrack"
+},
+{
+    "id": 1180010,
+    "name": "MP5_Gorgon_StatTrack"
+},
+{
+    "id": 1180011,
+    "name": "SPAS_Griffin_StatTrack"
+},
+{
+    "id": 1180012,
+    "name": "SPAS_Zeus_StatTrack"
+},
+{
+    "id": 1180013,
+    "name": "FiveSeven_Octopus_StatTrack"
+},
+{
+    "id": 1180014,
+    "name": "SM1014_Shark2_StatTrack"
+},
+{
+    "id": 1180015,
+    "name": "Tec9_Splash_StatTrack"
+},
+{
+    "id": 1180016,
+    "name": "AKR12_Carving_StatTrack"
+},
+{
+    "id": 1180017,
+    "name": "FnFal_Basilisk_StatTrack"
+},
+{
+    "id": 1180018,
+    "name": "M4A1_Mermaid_StatTrack"
+},
+{
+    "id": 1180019,
+    "name": "M16_Muraena_StatTrack"
+},
+{
+    "id": 1180020,
+    "name": "MAC10_Shark_StatTrack"
+},
+{
+    "id": 1180021,
+    "name": "SPAS_Octopus_StatTrack"
+},
+{
+    "id": 1190001,
+    "name": "AKR12_Riot_StatTrack"
+},
+{
+    "id": 1190002,
+    "name": "Deagle_Infection_StatTrack"
+},
+{
+    "id": 1190003,
+    "name": "Famas_Handcraft_StatTrack"
+},
+{
+    "id": 1190004,
+    "name": "Mac10_MeltAway_StatTrack"
+},
+{
+    "id": 1190005,
+    "name": "P350_Raider_StatTrack"
+},
+{
+    "id": 1190006,
+    "name": "SPAS_Raider_StatTrack"
+},
+{
+    "id": 1200001,
+    "name": "M4_Sunset_StatTrack"
+},
+{
+    "id": 1200002,
+    "name": "UMP45_Luminous_StatTrack"
+},
+{
+    "id": 1200003,
+    "name": "SPAS_Vibe_StatTrack"
+},
+{
+    "id": 1200004,
+    "name": "MP7_SpaceBlaster_StatTrack"
+},
+{
+    "id": 1200005,
+    "name": "MP5_SpaceBlaster_StatTrack"
+},
+{
+    "id": 1200006,
+    "name": "P90_PurpleMist_StatTrack"
+},
+{
+    "id": 1200007,
+    "name": "M16_RetroArcade_StatTrack"
+},
+{
+    "id": 1200008,
+    "name": "MAC10_PurpleMist_StatTrack"
+},
+{
+    "id": 1200009,
+    "name": "AKR_DigitalBurst_StatTrack"
+},
+{
+    "id": 1200010,
+    "name": "USP_DigitalBurst_StatTrack"
+},
+{
+    "id": 1220001,
+    "name": "MAC10_Noxious_StatTrack"
+},
+{
+    "id": 1220009,
+    "name": "USP_Ignite_StatTrack"
+},
+{
+    "id": 1220011,
+    "name": "AKR_Evolution_StatTrack"
+},
+{
+    "id": 1220012,
+    "name": "AWM_Kings_StatTrack"
+},
+{
+    "id": 1220013,
+    "name": "Tec9_TieDye_StatTrack"
+},
+{
+    "id": 1220014,
+    "name": "MAC10_ShogunStripes_StatTrack"
+},
+{
+    "id": 1220015,
+    "name": "Berettas_SoulDevourer_StatTrack"
+},
+{
+    "id": 1220016,
+    "name": "Berettas_Damascus_StatTrack"
+},
+{
+    "id": 1220017,
+    "name": "P90_Clash_StatTrack"
+},
+{
+    "id": 1220018,
+    "name": "SPAS_Taint_StatTrack"
+},
+{
+    "id": 1220019,
+    "name": "M16_ShogunStripes_StatTrack"
+},
+{
+    "id": 1220020,
+    "name": "Deagle_Venator_StatTrack"
+},
+{
+    "id": 1230001,
+    "name": "AKR12_Ashbringer_StatTrack"
+},
+{
+    "id": 1230002,
+    "name": "FiveSeven_Ophidian_StatTrack"
+},
+{
+    "id": 1230003,
+    "name": "G22_LionLord_StatTrack"
+},
+{
+    "id": 1230004,
+    "name": "M4A1_Paladin_StatTrack"
+},
+{
+    "id": 1230005,
+    "name": "M40_Wyvern_StatTrack"
+},
+{
+    "id": 1230006,
+    "name": "MAC10_WildRage_StatTrack"
+},
+{
+    "id": 1230007,
+    "name": "P90_DragonFlame_StatTrack"
+},
+{
+    "id": 1230008,
+    "name": "SPAS_Unicorn_StatTrack"
+},
+{
+    "id": 1230009,
+    "name": "UMP45_Warchief_StatTrack"
+},
+{
+    "id": 1230010,
+    "name": "USP_Griffin_StatTrack"
+},
+{
+    "id": 1230011,
+    "name": "Berettas_BlazingMaw_StatTrack"
+},
+{
+    "id": 1230012,
+    "name": "Berettas_RoyalRose_StatTrack"
+},
+{
+    "id": 1240001,
+    "name": "Tec9_Glitch_StatTrack"
+},
+{
+    "id": 1240002,
+    "name": "FABM_Cranium_StatTrack"
+},
+{
+    "id": 1240003,
+    "name": "M60_Spaceware_StatTrack"
+},
+{
+    "id": 1240004,
+    "name": "Berettas_Hexagon_StatTrack"
+},
+{
+    "id": 1240005,
+    "name": "Famas_StellarBlitz_StatTrack"
+},
+{
+    "id": 1240006,
+    "name": "AWM_Xenoguard_StatTrack"
+},
+{
+    "id": 1240016,
+    "name": "MP7_Ridge_StatTrack"
+},
+{
+    "id": 1240017,
+    "name": "FnFal_Scaleskitter_StatTrack"
+},
+{
+    "id": 1240018,
+    "name": "UMP45_Arid_StatTrack"
+},
+{
+    "id": 1240019,
+    "name": "MAC10_Arid_StatTrack"
+},
+{
+    "id": 1240020,
+    "name": "P350_Sandspirit_StatTrack"
+},
+{
+    "id": 1240021,
+    "name": "SM1014_Serpent_StatTrack"
+},
+{
+    "id": 1240022,
+    "name": "M4A1_Serpent_StatTrack"
+},
+{
+    "id": 1240023,
+    "name": "M110_Harbinger_StatTrack"
+},
+{
+    "id": 1240024,
+    "name": "Deagle_DustDevil_StatTrack"
+},
+{
+    "id": 1240025,
+    "name": "USP_MirageMenace_StatTrack"
+},
+{
+    "id": 1240026,
+    "name": "M16_DustDevil_StatTrack"
+},
+{
+    "id": 1240027,
+    "name": "AKR_MirageMenace_StatTrack"
+},
+{
+    "id": 1240035,
+    "name": "MP5_Insanity_StatTrack"
+},
+{
+    "id": 1240036,
+    "name": "M60_Quantum_StatTrack"
+},
+{
+    "id": 1240037,
+    "name": "Berettas_Hybrid_StatTrack"
+},
+{
+    "id": 1240038,
+    "name": "FabM_Tindalos_StatTrack"
+},
+{
+    "id": 1240039,
+    "name": "G22_Haunt_StatTrack"
+},
+{
+    "id": 1240040,
+    "name": "M40_VenomShade_StatTrack"
+},
+{
+    "id": 1240041,
+    "name": "FiveSeven_Hellspawn_StatTrack"
+},
+{
+    "id": 1240042,
+    "name": "P90_Revenant_StatTrack"
+},
+{
+    "id": 1240043,
+    "name": "AKR12_Haunt_StatTrack"
+},
+{
+    "id": 1240044,
+    "name": "M4_NKai_StatTrack"
+},
+{
+    "id": 1240046,
+    "name": "Tec9_Verglas_StatTrack"
+},
+{
+    "id": 1240047,
+    "name": "FnFal_Verglas_StatTrack"
+},
+{
+    "id": 1240048,
+    "name": "FAMAS_SnowStorm_StatTrack"
+},
+{
+    "id": 1240049,
+    "name": "Berettas_LumosShard_StatTrack"
+},
+{
+    "id": 1240050,
+    "name": "M16_Bigfoot_StatTrack"
+},
+{
+    "id": 1240051,
+    "name": "AKR_Icewing_StatTrack"
+},
+{
+    "id": 1240052,
+    "name": "MP7_FestalWrap_StatTrack"
+},
+{
+    "id": 1240053,
+    "name": "AWM_FestalWrap_StatTrack"
+},
+{
+    "id": 1240054,
+    "name": "P350_FestalWrap_StatTrack"
+},
+{
+    "id": 1240055,
+    "name": "SM1014_FreezingGasp_StatTrack"
+},
+{
+    "id": 1240071,
+    "name": "MAC10_Corrode_StatTrack"
+},
+{
+    "id": 1240072,
+    "name": "USP_Corrode_StatTrack"
+},
+{
+    "id": 1240073,
+    "name": "M110_ReachKeeper_StatTrack"
+},
+{
+    "id": 1240074,
+    "name": "VAL_Forge_StatTrack"
+},
+{
+    "id": 1240075,
+    "name": "FiveSeven_Toxic_StatTrack"
+},
+{
+    "id": 1240076,
+    "name": "UMP45_Industrial_StatTrack"
+},
+{
+    "id": 1240077,
+    "name": "M60_Fatal_StatTrack"
+},
+{
+    "id": 1240078,
+    "name": "SPAS_Dangerous_StatTrack"
+},
+{
+    "id": 1240079,
+    "name": "P90_FusionCore_StatTrack"
+},
+{
+    "id": 1240080,
+    "name": "VAL_OilSheen_StatTrack"
+},
+{
+    "id": 1240081,
+    "name": "Deagle_FusionCore_StatTrack"
+},
+{
+    "id": 1240082,
+    "name": "M4A1_Ferocity_StatTrack"
+},
+{
+    "id": 1240091,
+    "name": "M4_Flock_StatTrack"
+},
+{
+    "id": 1240092,
+    "name": "Deagle_VioletFlame_StatTrack"
+},
+{
+    "id": 1240093,
+    "name": "M4A1_Stainless_StatTrack"
+},
+{
+    "id": 1240094,
+    "name": "VAL_Joker_StatTrack"
+},
+{
+    "id": 1240095,
+    "name": "USP_Ghosts_StatTrack"
+},
+{
+    "id": 1240096,
+    "name": "M40_Disguise_StatTrack"
+},
+{
+    "id": 1240097,
+    "name": "G22_Flock_StatTrack"
+},
+{
+    "id": 1240098,
+    "name": "TEC9_Disguise_StatTrack"
+},
+{
+    "id": 1240099,
+    "name": "MP7_Fright_StatTrack"
+},
+{
+    "id": 1240100,
+    "name": "AKR12_Mimicry_StatTrack"
+},
+{
+    "id": 1240101,
+    "name": "VAL_GildedGale_StatTrack"
+},
+{
+    "id": 1240102,
+    "name": "AWM_HoheiTaisho_StatTrack"
+},
+{
+    "id": 1240103,
+    "name": "M40_Daybreak_StatTrack"
+},
+{
+    "id": 1240104,
+    "name": "SM1014_Triton_StatTrack"
+},
+{
+    "id": 1240105,
+    "name": "MP5_WaterGun_StatTrack"
+},
+{
+    "id": 1240106,
+    "name": "FnFal_DuskTide_StatTrack"
+},
+{
+    "id": 1240107,
+    "name": "VAL_Solstice_StatTrack"
+},
+{
+    "id": 1240108,
+    "name": "M16_SeaGlint_StatTrack"
+},
+{
+    "id": 1240116,
+    "name": "FiveSeven_Polymer_StatTrack"
+},
+{
+    "id": 1240117,
+    "name": "Berettas_ConstructionSector_StatTrack"
+},
+{
+    "id": 1240118,
+    "name": "Famas_Oxide_StatTrack"
+},
+{
+    "id": 1240119,
+    "name": "MP7_Rebellion_StatTrack"
+},
+{
+    "id": 1240120,
+    "name": "P350_Gearshift_StatTrack"
+},
+{
+    "id": 1240121,
+    "name": "M40_Skyfall_StatTrack"
+},
+{
+    "id": 1240122,
+    "name": "Val_CityNight_StatTrack"
+},
+{
+    "id": 1240123,
+    "name": "TEC9_Gangster_StatTrack"
+},
+{
+    "id": 1240124,
+    "name": "M4_Ironclad_StatTrack"
+},
+{
+    "id": 1240125,
+    "name": "FabM_Gangster_StatTrack"
+},
+{
+    "id": 1240126,
+    "name": "AWM_Spectral_StatTrack"
+},
+{
+    "id": 1240127,
+    "name": "AKR12_Emberbird_StatTrack"
+},
+{
+    "id": 1240134,
+    "name": "M110_DarkPact_StatTrack"
+},
+{
+    "id": 1240135,
+    "name": "USP_Suture_StatTrack"
+},
+{
+    "id": 1240136,
+    "name": "M16_Wraithwood_StatTrack"
+},
+{
+    "id": 1240137,
+    "name": "MAC10_ArcaneSurge_StatTrack"
+},
+{
+    "id": 1240138,
+    "name": "FNFAL_AstralRift_StatTrack"
+},
+{
+    "id": 1240139,
+    "name": "VAL_WidowsWeave_StatTrack"
+},
+{
+    "id": 1240145,
+    "name": "P90_Unstoppable_StatTrack"
+},
+{
+    "id": 1240146,
+    "name": "M4_Kachi_StatTrack"
+},
+{
+    "id": 1240147,
+    "name": "Tec9_NightSlayer_StatTrack"
+},
+{
+    "id": 1240148,
+    "name": "FiveSeven_PinkShot_StatTrack"
+},
+{
+    "id": 1240149,
+    "name": "M40_NorthernLights_StatTrack"
+},
+{
+    "id": 1240150,
+    "name": "AKR12_Hanami_StatTrack"
+},
+{
+    "id": 1240157,
+    "name": "SPAS_Tensai_StatTrack"
+},
+{
+    "id": 1240158,
+    "name": "VAL_Ronin_StatTrack"
+},
+{
+    "id": 1240159,
+    "name": "M4A1_SparklingGaze_StatTrack"
+},
+{
+    "id": 1240162,
+    "name": "AKR_Vermilion_StatTrack"
+},
+{
+    "id": 1240163,
+    "name": "Deagle_Vermilion_StatTrack"
+},
+{
+    "id": 1240166,
+    "name": "P350_InkSpree_StatTrack"
+},
+{
+    "id": 1240167,
+    "name": "UMP45_Heatwave_StatTrack"
+},
+{
+    "id": 1240168,
+    "name": "FNFAL_CharredWood_StatTrack"
+},
+{
+    "id": 1240169,
+    "name": "M60_Warp_StatTrack"
+},
+{
+    "id": 1240170,
+    "name": "M110_Grid_StatTrack"
+},
+{
+    "id": 1240171,
+    "name": "MP5_Tiles_StatTrack"
+},
+{
+    "id": 1240172,
+    "name": "AkimboUzi_Spray_StatTrack"
+},
+{
+    "id": 1240173,
+    "name": "USP_Rainforest_StatTrack"
+},
+{
+    "id": 1240174,
+    "name": "FAMAS_Feral_StatTrack"
+},
+{
+    "id": 1240175,
+    "name": "AkimboUzi_Toco_StatTrack"
+},
+{
+    "id": 1240176,
+    "name": "SPAS_Glide_StatTrack"
+},
+{
+    "id": 1240177,
+    "name": "M16_Raiva_StatTrack"
+},
+{
+    "id": 1240186,
+    "name": "M16_Mayhem_StatTrack"
+},
+{
+    "id": 1240187,
+    "name": "AkimboUzi_Skull_StatTrack"
+},
+{
+    "id": 1240188,
+    "name": "FnFal_Pro_StatTrack"
+},
+{
+    "id": 1240189,
+    "name": "SM1014_Wasp_StatTrack"
+},
+{
+    "id": 1240190,
+    "name": "AWM_Sylvan_StatTrack"
+},
+{
+    "id": 1240191,
+    "name": "P350_Ooze_StatTrack"
+},
+{
+    "id": 1240192,
+    "name": "P90_Noir_StatTrack"
+},
+{
+    "id": 1240193,
+    "name": "M4A1_Overdrive_StatTrack"
+},
+{
+    "id": 1240194,
+    "name": "Deagle_Eclipse_StatTrack"
+},
+{
+    "id": 1240195,
+    "name": "G22_Briar_StatTrack"
+},
+{
+    "id": 1240196,
+    "name": "AkimboUzi_OverdriveRed_StatTrack"
+},
+{
+    "id": 1240197,
+    "name": "AKR_Genesis_StatTrack"
+},
+{
+    "id": 1240202,
+    "name": "AkimboUzi_Streak_StatTrack"
+},
+{
+    "id": 1240203,
+    "name": "FabM_Streak_StatTrack"
+},
+{
+    "id": 1240204,
+    "name": "M4_Flex_StatTrack"
+},
+{
+    "id": 1240205,
+    "name": "M60_Flex_StatTrack"
+},
+{
+    "id": 1240206,
+    "name": "MP5_Blueprint_StatTrack"
+},
+{
+    "id": 1240207,
+    "name": "G22_Impulse_StatTrack"
+},
+{
+    "id": 1240209,
+    "name": "P350_Impact_StatTrack"
+},
+{
+    "id": 1240210,
+    "name": "M4A1_Impact_StatTrack"
+},
+{
+    "id": 1240212,
+    "name": "AKR12_Shark_StatTrack"
+},
+{
+    "id": 1240213,
+    "name": "P90_Oracle_StatTrack"
+},
+{
+    "id": 1240214,
+    "name": "DesertEagle_Gambit_StatTrack"
+},
+{
+    "id": 1240215,
+    "name": "SM1014_Piranha_StatTrack"
+},
+{
+    "id": 1240216,
+    "name": "FAMAS_Ritual_StatTrack"
+},
+{
+    "id": 1240217,
+    "name": "AkimboUzi_Ravage_StatTrack"
+},
+{
+    "id": 1240218,
+    "name": "VAL_Orbit_StatTrack"
+},
+{
+    "id": 1240219,
+    "name": "AWM_Ravage_StatTrack"
+},
+{
+    "id": 1240220,
+    "name": "UMP45_Smelter_StatTrack"
+},
+{
+    "id": 1240221,
+    "name": "FiveSeven_Vines_StatTrack"
+},
+{
+    "id": 1240222,
+    "name": "Tec9_Iris_StatTrack"
+},
+{
+    "id": 1240223,
+    "name": "M16_Challenger_StatTrack"
+},
+{
+    "id": 1240224,
+    "name": "FnFal_Splash_StatTrack"
+},
+{
+    "id": 1240232,
+    "name": "MP7_R1NA_StatTrack"
+},
+{
+    "id": 1240233,
+    "name": "AKR_Orchid_StatTrack"
+},
+{
+    "id": 1240234,
+    "name": "AkimboUzi_Yokai_StatTrack"
+},
+{
+    "id": 1240235,
+    "name": "Tec9_Blossom_StatTrack"
+},
+{
+    "id": 1240236,
+    "name": "Mallard_Ascend_StatTrack"
+},
+{
+    "id": 1240237,
+    "name": "P350_SilverWing_StatTrack"
+},
+{
+    "id": 1240238,
+    "name": "USP_CelestialTiger_StatTrack"
+},
+{
+    "id": 1240239,
+    "name": "FabM_Undertow_StatTrack"
+},
+{
+    "id": 1240240,
+    "name": "Berettas_Cascade_StatTrack"
+},
+{
+    "id": 1240241,
+    "name": "MP5_Clouds_StatTrack"
+},
+{
+    "id": 1240242,
+    "name": "M4A1_Tempest_StatTrack"
+},
+{
+    "id": 1240243,
+    "name": "Mallard_FallingLeaves_StatTrack"
+},
+{
+    "id": 1240245,
+    "name": "P90_Foxfire_StatTrack"
+},
+{
+    "id": 1240246,
+    "name": "SM1014_FallingLeaves_StatTrack"
+},
+{
+    "id": 1240247,
+    "name": "MAC10_Tempest_StatTrack"
+},
+{
+    "id": 1240248,
+    "name": "M40_WhiteAsh_StatTrack"
+},
+{
+    "id": 1240249,
+    "name": "DesertEagle_Blossom_StatTrack"
+},
+{
+    "id": 1240250,
+    "name": "AKR12_Kensei_StatTrack"
+},
+{
+    "id": 1240252,
+    "name": "Mallard_PhantomPack_StatTrack"
+},
+{
+    "id": 1240253,
+    "name": "G22_FlorDeMuertos_StatTrack"
+},
+{
+    "id": 1240254,
+    "name": "M4_BulletsAndRoses_StatTrack"
+},
+{
+    "id": 1240255,
+    "name": "AkimboUzi_HowlingGhost_StatTrack"
+},
+{
+    "id": 1240256,
+    "name": "VAL_RosaMortal_StatTrack"
+},
+{
+    "id": 1240257,
+    "name": "SPAS_EternalFlow_StatTrack"
+},
+{
+    "id": 1240258,
+    "name": "M60_Horror_StatTrack"
+},
+{
+    "id": 1240259,
+    "name": "FAMAS_Raider_StatTrack"
+},
+{
+    "id": 1240260,
+    "name": "AWM_Vampire_StatTrack"
+},
+{
+    "id": 1240261,
+    "name": "M16_Basilisk_StatTrack"
+},
+{
+    "id": 1240262,
+    "name": "MP5_ArcaneSurge_StatTrack"
+},
+{
+    "id": 1240263,
+    "name": "USP_Horror_StatTrack"
+},
+{
+    "id": 1240264,
+    "name": "UMP45_Leviathan_StatTrack"
+},
+{
+    "id": 1240265,
+    "name": "M110_Centipede_StatTrack"
+},
+{
+    "id": 1240266,
+    "name": "FabM_Fiend_StatTrack"
+},
+{
+    "id": 1240267,
+    "name": "VAL_PhantomPack_StatTrack"
+},
+{
+    "id": 1240277,
+    "name": "M4A1_PawPaw_StatTrack"
+},
+{
+    "id": 1240278,
+    "name": "AKR_LaReina_StatTrack"
+},
+{
+    "id": 1240279,
+    "name": "M40_AuricBloom_StatTrack"
+},
+{
+    "id": 1240280,
+    "name": "FnFal_Empyrean_StatTrack"
+},
+{
+    "id": 1240281,
+    "name": "AKR12_IceStorm_StatTrack"
+},
+{
+    "id": 1240282,
+    "name": "Mallard_WildWest_StatTrack"
+},
+{
+    "id": 1240283,
+    "name": "DesertEagle_WildFlower_StatTrack"
+},
+{
+    "id": 1240284,
+    "name": "Berettas_ArcticCamo_StatTrack"
+},
+{
+    "id": 1240285,
+    "name": "M4A1_PixelFlakes_StatTrack"
+},
+{
+    "id": 1240286,
+    "name": "G22_ReindeerSweater_StatTrack"
+},
+{
+    "id": 1240287,
+    "name": "TEC9_GiftWrap_StatTrack"
+},
+{
+    "id": 1240288,
+    "name": "SM1014_PenguinPatrol_StatTrack"
+},
+{
+    "id": 1240289,
+    "name": "AkimboUzi_FireHorse_StatTrack"
+},
+{
+    "id": 1240291,
+    "name": "P90_Hologram_StatTrack"
+},
+{
+    "id": 1240292,
+    "name": "USP_Hologram_StatTrack"
+},
+{
+    "id": 1240305,
+    "name": "FiveSeven_FlashingFlame_StatTrack"
+},
+{
+    "id": 1240306,
+    "name": "VAL_Vertex_StatTrack"
+},
+{
+    "id": 1240307,
+    "name": "MP7_MagmaTrail_StatTrack"
+},
+{
+    "id": 1240308,
+    "name": "P90_Horizon_StatTrack"
+},
+{
+    "id": 1240309,
+    "name": "M4_RetroFilm_StatTrack"
+},
+{
+    "id": 1240310,
+    "name": "M16_Accuracy_StatTrack"
+},
+{
+    "id": 1240311,
+    "name": "AkimboUzi_Zenith_StatTrack"
+},
+{
+    "id": 1240312,
+    "name": "P350_Emberbird_StatTrack"
+},
+{
+    "id": 1240313,
+    "name": "AKR_Sketch_StatTrack"
+},
+{
+    "id": 1240314,
+    "name": "Mallard_SnakeScales_StatTrack"
+},
+{
+    "id": 1240315,
+    "name": "M4A1_TreasureHunter_StatTrack"
+},
+{
+    "id": 1240316,
+    "name": "G22_Twilight_StatTrack"
+},
+{
+    "id": 1240328,
+    "name": "AWM_JadeStone_StatTrack"
+},
+{
+    "id": 1240329,
+    "name": "DesertEagle_JadeStone_StatTrack"
+},
+{
+    "id": 1240330,
+    "name": "M4A1_JadeStone_StatTrack"
+},
+{
+    "id": 10240323,
+    "name": "S1_FabM_CloudLily"
+},
+{
+    "id": 10240324,
+    "name": "S1_FiveSeven_BurningMist"
+},
+{
+    "id": 10240325,
+    "name": "S1_Mallard_InkWash"
+},
+{
+    "id": 10240326,
+    "name": "S1_AKR12_YearOfTheHorse"
+},
+{
+    "id": 10240327,
+    "name": "S1_Mantis_InkWash"
+},
+{
+    "id": 11240323,
+    "name": "S1_FabM_CloudLily_StatTrack"
+},
+{
+    "id": 11240324,
+    "name": "S1_FiveSeven_BurningMist_StatTrack"
+},
+{
+    "id": 11240325,
+    "name": "S1_Mallard_InkWash_StatTrack"
+},
+{
+    "id": 11240326,
+    "name": "S1_AKR12_YearOfTheHorse_StatTrack"
+},
+{
+    "id": 20240323,
+    "name": "S2_FabM_CloudLily"
+},
+{
+    "id": 20240324,
+    "name": "S2_FiveSeven_BurningMist"
+},
+{
+    "id": 20240325,
+    "name": "S2_Mallard_InkWash"
+},
+{
+    "id": 20240326,
+    "name": "S2_AKR12_YearOfTheHorse"
+},
+{
+    "id": 20240327,
+    "name": "S2_Mantis_InkWash"
+},
+{
+    "id": 21240323,
+    "name": "S2_FabM_CloudLily_StatTrack"
+},
+{
+    "id": 21240324,
+    "name": "S2_FiveSeven_BurningMist_StatTrack"
+},
+{
+    "id": 21240325,
+    "name": "S2_Mallard_InkWash_StatTrack"
+},
+{
+    "id": 21240326,
+    "name": "S2_AKR12_YearOfTheHorse_StatTrack"
+},
+{
+    "id": 30240323,
+    "name": "S3_FabM_CloudLily"
+},
+{
+    "id": 30240324,
+    "name": "S3_FiveSeven_BurningMist"
+},
+{
+    "id": 30240325,
+    "name": "S3_Mallard_InkWash"
+},
+{
+    "id": 30240326,
+    "name": "S3_AKR12_YearOfTheHorse"
+},
+{
+    "id": 30240327,
+    "name": "S3_Mantis_InkWash"
+},
+{
+    "id": 31240323,
+    "name": "S3_FabM_CloudLily_StatTrack"
+},
+{
+    "id": 31240324,
+    "name": "S3_FiveSeven_BurningMist_StatTrack"
+},
+{
+    "id": 31240325,
+    "name": "S3_Mallard_InkWash_StatTrack"
+},
+{
+    "id": 31240326,
+    "name": "S3_AKR12_YearOfTheHorse_StatTrack"
+}
+]

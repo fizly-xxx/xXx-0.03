@@ -5,7 +5,8 @@
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
 <title>xXx</title>
 <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;600;700&amp;family=Syne:wght@400;600;700;800&amp;display=swap" rel="stylesheet"/>
-<link href="style.css" rel="stylesheet"/></head>
+<link href="style.css" rel="stylesheet"/>
+</head>
 <body>
 <div class="window">
 <div class="titlebar">
@@ -14,7 +15,7 @@
 <div class="dot dot-yellow"></div>
 <div class="dot dot-green"></div>
 </div>
-<span class="app-name">xXx API <span style="color:var(--text3);font-weight:400">v2.1</span></span>
+<span class="app-name">xXx API <span style="color:var(--text3);font-weight:400">v1.0</span></span>
 <div class="status-pill"><div class="status-dot"></div> CONNECTED</div>
 </div>
 <nav class="nav">
@@ -22,6 +23,10 @@
 <svg fill="none" height="14" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="14"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path><polyline points="9 22 9 12 15 12 15 22"></polyline></svg>
       Home
     </button>
+<button class="nav-tab" onclick="switchTab('skins', this)">
+  <svg fill="none" height="14" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="14"><polygon points="12 2 2 7 12 12 22 7 12 2"></polygon><polyline points="2 17 12 22 22 17"></polyline><polyline points="2 12 12 17 22 12"></polyline></svg>
+	Skins
+	</button>
 <button class="nav-tab" onclick="switchTab('settings', this)">
 <svg fill="none" height="14" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="14"><circle cx="12" cy="12" r="3"></circle><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-4 0v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83-2.83l.06-.06A1.65 1.65 0 0 0 4.68 15a1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1 0-4h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 2.83-2.83l.06.06A1.65 1.65 0 0 0 9 4.68a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 4 0v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 2.83l-.06.06A1.65 1.65 0 0 0 19.4 9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z"></path></svg>
       Settings
@@ -34,6 +39,10 @@
 <svg fill="none" height="14" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="14"><rect height="13" width="15" x="1" y="3"></rect><polygon points="16 8 20 8 23 11 23 16 16 16 16 8"></polygon><circle cx="5.5" cy="18.5" r="2.5"></circle><circle cx="18.5" cy="18.5" r="2.5"></circle></svg>
       Inventory
     </button>
+<button class="nav-tab" onclick="switchTab('sales', this)">
+  <svg fill="none" height="14" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="14"><circle cx="9" cy="21" r="1"></circle><circle cx="20" cy="21" r="1"></circle><path d="M1 1h4l2.68 13.39a2 2 0 0 0 2 1.61h9.72a2 2 0 0 0 2-1.61L23 6H6"></path></svg>
+	  Sales
+	</button>
 <button class="nav-tab" onclick="switchTab('logs', this)">
 <svg fill="none" height="14" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="14"><polyline points="22 12 18 12 15 21 9 3 6 12 2 12"></polyline></svg>
       Logs
@@ -42,17 +51,34 @@
 <div class="content">
 <div class="tab-panel active" id="panel-home">
 <div class="section-title">Overview</div>
+
 <div class="home-grid">
 <div class="stat-card">
-<div class="stat-card-label">Order Price</div>
-<div class="stat-card-value accent" id="order-price-display">$12.50</div>
-<div class="stat-card-sub">Last configured price</div>
+	<div class="stat-card-label">Order Price</div>
+	<div class="stat-card-value accent" id="order-price-display">??.?? G</div>
+	<div class="stat-card-sub">Last configured price</div>
 </div>
 <div class="stat-card">
-<div class="stat-card-label">Lot Price</div>
-<div class="stat-card-value" id="lot-price-display">$12.45</div>
-<div class="stat-card-sub">Current market lot</div>
+	<div class="stat-card-label">Lot Price</div>
+	<div class="stat-card-value" id="lot-price-display">??.?? G</div>
+	<div class="stat-card-sub">Current market lot</div>
 </div>
+	<div class="stat-card">
+	<div class="stat-card-label">Balance</div>
+	<div class="stat-card-value accent" id="balance-display">??.?? G</div>
+	<div class="stat-card-sub">Current balance</div>
+</div>
+</div>
+
+<div class="stat-card" style="margin-bottom: 24px; display: flex; justify-content: space-between; align-items: center; border-color: var(--accent-dim);">
+  <div>
+    <div class="stat-card-label">Target Skin</div>
+    <div class="stat-card-value" id="home-skin-name" style="font-size: 15px;">—</div>
+  </div>
+  <div style="text-align: right;">
+    <div class="stat-card-label">Skin ID</div>
+    <div class="stat-card-value accent" id="home-skin-id" style="font-size: 15px;">—</div>
+  </div>
 </div>
 
 <div class="settings-row">
@@ -66,18 +92,7 @@
 </div>
 </div>
 
-<div class="field">
-<label>Select Skin</label>
-<select id="skin-select">
-<option value="">— Choose a skin —</option>
-<option value="ak47_redline">AK-47 | Redline (FT)</option>
-<option value="awp_asiimov">AWP | Asiimov (FT)</option>
-<option value="m4a4_howl">M4A4 | Howl (MW)</option>
-<option value="karambit_fade">Karambit | Fade (FN)</option>
-<option value="glock_fade">Glock-18 | Fade (FN)</option>
-<option value="deagle_blaze">Desert Eagle | Blaze (FN)</option>
-</select>
-</div>
+
 <div class="bottom-row">
 <div class="handshake-row">
 <input id="handshake-input" placeholder="Enter your handshake token…" type="text"/>
@@ -90,8 +105,40 @@
           START
         </button>
 </div>
-
 </div>
+
+<div class="tab-panel" id="panel-skins">
+    <div class="section-title">Skin Selector</div>
+
+    <div class="settings-row">
+        <div class="field">
+            <label>Category / Weapon</label>
+            <select id="weapon-select"><option>Loading...</option></select>
+        </div>
+        <div class="field">
+            <label>Skin</label>
+            <select id="skin-name-select"><option>—</option></select>
+        </div>
+    </div>
+
+    <div class="toggle-card">
+      <div class="toggle-info">
+        <div class="toggle-title">StatTrak™</div>
+        <div class="toggle-sub">Select StatTrak version if available</div>
+      </div>
+      <label class="toggle-switch">
+        <input id="is-stattrak" type="checkbox" onchange="updateSniperTarget()">
+        <div class="toggle-track"></div>
+        <div class="toggle-thumb"></div>
+      </label>
+    </div>
+
+    <div class="stat-card" style="margin-top:20px;">
+      <div class="stat-card-label">Selected Skin ID</div>
+      <div class="stat-card-value accent" id="final-skin-id">—</div>
+    </div>
+</div>
+
 <div class="tab-panel" id="panel-settings">
 <div class="section-title">Trading Mode</div>
 <div class="radio-group" id="mode-group">
@@ -124,29 +171,17 @@
 <div class="section-title">Parameters</div>
 <div class="settings-row param-group" id="group-custom" style="display: grid;">
 <div class="field">
-<label>Custom Price ($)</label>
+<label>Custom Price (G)</label>
 <input id="custom-price" placeholder="10.50" type="text"/>
 </div>
 </div>
-<div class="settings-row param-group" id="group-random">
-<div class="field">
-<label>Min Price ($)</label>
-<input id="min-price" placeholder="0.00" type="text"/>
-</div>
-<div class="field">
-<label>Max Price ($)</label>
-<input id="max-price" placeholder="999.99" type="text"/>
-</div>
-</div>
+
 <div class="settings-row param-group" id="group-outbid">
 <div class="field">
-<label>Outbid Delta ($)</label>
+<label>Outbid Delta (G)</label>
 <input id="outbid-delta" placeholder="0.01" type="text"/>
 </div>
-<div class="field">
-<label>Outbid Delay (seconds)</label>
-<input id="outbid-delay" placeholder="2" type="text"/>
-</div>
+
 </div>
 </div>
 <div class="tab-panel" id="panel-telegram">
@@ -177,28 +212,46 @@
 <div class="divider"></div>
 <div class="section-title">Notifications</div>
 <div class="settings-row">
-<div class="field">
-<label>Notify on</label>
-<select id="tg-notify">
-<option>All events</option>
-<option>Trades only</option>
-<option>Errors only</option>
-<option>Custom</option>
-</select>
-</div>
-<div class="field">
-<label>Message Format</label>
-<select id="tg-format">
-<option>Markdown</option>
-<option>Plain text</option>
-<option>HTML</option>
-</select>
+    <div class="field">
+        <label>Notify on (Сповіщення)</label>
+        <div style="display: flex; flex-direction: column; gap: 12px; margin-top: 10px; padding-right: 10px;">
+
+            <div style="display: flex; justify-content: space-between; align-items: center;">
+                <span style="font-size: 13px; color: var(--text2);">Купівля скіна (Снайп)</span>
+                <label class="toggle-switch">
+                    <input id="tg-notify-buy" type="checkbox" checked>
+                    <div class="toggle-track"></div>
+                    <div class="toggle-thumb"></div>
+                </label>
+            </div>
+
+            <div style="display: flex; justify-content: space-between; align-items: center;">
+                <span style="font-size: 13px; color: var(--text2);">Продаж скіна (Лот купили)</span>
+                <label class="toggle-switch">
+                    <input id="tg-notify-sell" type="checkbox" checked>
+                    <div class="toggle-track"></div>
+                    <div class="toggle-thumb"></div>
+                </label>
+            </div>
+
+            <div style="display: flex; justify-content: space-between; align-items: center;">
+                <span style="font-size: 13px; color: var(--text2);">Старт / Стоп бота</span>
+                <label class="toggle-switch">
+                    <input id="tg-notify-status" type="checkbox" checked>
+                    <div class="toggle-track"></div>
+                    <div class="toggle-thumb"></div>
+                </label>
+            </div>
+
+        </div>
+    </div>
 </div>
 </div>
 </div>
 </div>
 <div class="tab-panel" id="panel-inventory">
 <div class="inv-toolbar">
+<button class="btn btn-ghost btn-sm" onclick="loadInventory()">Refresh</button>
 <div class="section-title" style="margin-bottom:0;flex:none">Skins</div>
 <input placeholder="Search inventory…" style="width:300px;margin-bottom:0" type="text"/>
 <div class="inv-count" id="inv-count">0 items</div>
@@ -206,10 +259,21 @@
 <div class="inv-grid" id="inv-grid">
 </div>
 </div>
+<div class="tab-panel" id="panel-sales">
+  <div class="inv-toolbar">
+    <button class="btn btn-ghost btn-sm" onclick="loadSales()">Refresh Sales</button>
+    <div class="section-title" style="margin-bottom:0;flex:none">Items on Market</div>
+    <div class="inv-count" id="sales-count">0 items</div>
+  </div>
+  <div class="inv-grid" id="sales-grid"></div>
+</div>
 <div class="tab-panel" id="panel-logs">
 <div class="logs-toolbar">
 <div class="section-title" style="margin-bottom:0;flex:none">Console</div>
-<span class="log-level-badge badge-all active">ALL</span>
+<span class="log-level-badge badge-all active" data-level="ALL">ALL</span>
+<span class="log-level-badge badge-info" data-level="INFO">INFO</span>
+<span class="log-level-badge badge-warn" data-level="WARN">WARN</span>
+<span class="log-level-badge badge-error" data-level="ERROR">ERROR</span>
 <button class="btn btn-ghost btn-sm" onclick="clearLogs()" style="margin-left:auto">
 <svg fill="none" height="11" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="11"><polyline points="3 6 5 6 21 6"></polyline><path d="M19 6l-1 14a2 2 0 0 1-2 2H8a2 2 0 0 1-2-2L5 6"></path><path d="M10 11v6"></path><path d="M14 11v6"></path></svg>
           Clear
@@ -224,7 +288,7 @@
 <div class="modal-title">Sell Skin</div>
 <div class="modal-sub" id="modal-skin-name">Set a price for your item</div>
 <div class="field">
-<label>Sale Price ($)</label>
+<label>Sale Price (G)</label>
 <input id="sell-price-input" placeholder="0.00" type="text"/>
 </div>
 <div style="display:flex;align-items:center;justify-content:space-between;font-size:10px;color:var(--text3)">

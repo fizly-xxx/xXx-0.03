@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf8'?>
+<nuitka-compilation-report nuitka_version="4.0.8" nuitka_commercial_version="not installed" mode="onefile" completion="error exit message (1)" exit_message="pywebview: Conflict between user and plugin decision for module 'webview.platforms.win32'.">
+  <performance>
+    <memory_usage name="after_launch" value="36655104" />
+  </performance>
+  <data_file name="ui\index.html" source="${cwd}\ui\index.html" size="14365" reason="specified data dir 'ui' on command line" tags="user,copy,data-dir-contents" />
+  <data_file name="ui\script.js" source="${cwd}\ui\script.js" size="23220" reason="specified data dir 'ui' on command line" tags="user,copy,data-dir-contents" />
+  <data_file name="ui\style.css" source="${cwd}\ui\style.css" size="15146" reason="specified data dir 'ui' on command line" tags="user,copy,data-dir-contents" />
+  <data_composer blob_size="None" />
+  <command_line>
+    <option value="--onefile" />
+    <option value="--include-data-dir=ui=ui" />
+    <option value="--include-package=pythonnet" />
+    <option value="--include-package=clr" />
+    <option value="--include-module=webview.platforms.winforms" />
+    <option value="--include-module=webview.platforms.win32" />
+    <option value="--nofollow-import-to=webview.platforms.android" />
+    <option value="--nofollow-import-to=webview.platforms.cocoa" />
+    <option value="--nofollow-import-to=webview.platforms.gtk" />
+    <option value="--nofollow-import-to=webview.platforms.qt" />
+    <option value="--include-windows-runtime-dlls=yes" />
+    <option value="--no-deployment-flag=excluded-module-usage" />
+    <option value="main.pyw" />
+  </command_line>
+  <plugins>
+    <plugin name="anti-bloat" user_enabled="no" />
+    <plugin name="data-files" user_enabled="no" />
+    <plugin name="delvewheel" user_enabled="no" />
+    <plugin name="dll-files" user_enabled="no" />
+    <plugin name="eventlet" user_enabled="no" />
+    <plugin name="gevent" user_enabled="no" />
+    <plugin name="gi" user_enabled="no" />
+    <plugin name="glfw" user_enabled="no" />
+    <plugin name="implicit-imports" user_enabled="no" />
+    <plugin name="kivy" user_enabled="no" />
+    <plugin name="matplotlib" user_enabled="no" />
+    <plugin name="multiprocessing" user_enabled="no" />
+    <plugin name="options-nanny" user_enabled="no" />
+    <plugin name="pbr-compat" user_enabled="no" />
+    <plugin name="pkg-resources" user_enabled="no" />
+    <plugin name="playwright" user_enabled="no" />
+    <plugin name="pywebview" user_enabled="no" />
+    <plugin name="spacy" user_enabled="no" />
+    <plugin name="transformers" user_enabled="no" />
+  </plugins>
+  <onefile cache_mode="temporary" unpack_dir="{TEMP}\onefile_{PID}_{TIME}" />
+  <distributions />
+  <python python_exe="${sys.prefix}\Scripts\python.exe" python_flavor="CPython Official" python_version="3.13.13" os_name="Windows" os_release="11" arch_name="x86_64" filesystem_encoding="utf-8" gil="yes">
+    <search_path>
+      <path value="${cwd}" />
+      <path value="${sys.real_prefix}\DLLs" />
+      <path value="${sys.real_prefix}\Lib" />
+      <path value="${sys.real_prefix}" />
+      <path value="${sys.prefix}" />
+      <path value="${sys.prefix}\Lib\site-packages" />
+    </search_path>
+  </python>
+  <output run_filename="${cwd}\main.exe" />
+</nuitka-compilation-report>

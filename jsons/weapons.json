@@ -1,0 +1,6081 @@
+{
+    "GUNS": {
+        "PISTOLS": {
+            "G22": [
+                {
+                    "id": 11001,
+                    "skin": "Pixel Camouflage",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 11002,
+                    "skin": "Nest",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 11003,
+                    "skin": "Bird",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 11005,
+                    "skin": "Pattern",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 11006,
+                    "skin": "Inferno",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 11008,
+                    "skin": "Frost Wyrm",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 41101,
+                    "skin": "Relic",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 41102,
+                    "skin": "Starfall",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 61101,
+                    "skin": "Frozen",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 71103,
+                    "skin": "Monster",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 71104,
+                    "skin": "White Carbon",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 81107,
+                    "skin": "Carbon",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 81108,
+                    "skin": "Yellow Line",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 121100,
+                    "skin": "Scale",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 170008,
+                    "skin": "Casual",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 210005,
+                    "skin": "Steel Grip",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 230003,
+                    "skin": "Lion Lord",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240039,
+                    "skin": "Haunt",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240097,
+                    "skin": "Flock",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240195,
+                    "skin": "Briar",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240207,
+                    "skin": "Impulse",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240253,
+                    "skin": "Flor de Muertos",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240286,
+                    "skin": "Reindeer Sweater",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240316,
+                    "skin": "Twilight",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 1011002,
+                    "skin": "Nest",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1011008,
+                    "skin": "Frost Wyrm",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1041102,
+                    "skin": "Starfall",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1061101,
+                    "skin": "Frozen",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1071103,
+                    "skin": "Monster",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1071104,
+                    "skin": "White Carbon",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1081107,
+                    "skin": "Carbon",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1170008,
+                    "skin": "Casual",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1230003,
+                    "skin": "Lion Lord",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240039,
+                    "skin": "Haunt",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240097,
+                    "skin": "Flock",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240195,
+                    "skin": "Briar",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240207,
+                    "skin": "Impulse",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240253,
+                    "skin": "Flor de Muertos",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240286,
+                    "skin": "Reindeer Sweater",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240316,
+                    "skin": "Twilight",
+                    "is_stattrak": true
+                }
+            ],
+            "USP": [
+                {
+                    "id": 12001,
+                    "skin": "Genesis",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 12002,
+                    "skin": "2 Years",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 12003,
+                    "skin": "2 Years Red",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 41201,
+                    "skin": "Fiend",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 41212,
+                    "skin": "Pisces",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 61201,
+                    "skin": "Stone Cold",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 81200,
+                    "skin": "Geometric",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 81214,
+                    "skin": "Line",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 81215,
+                    "skin": "Ray",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 121200,
+                    "skin": "Chameleon",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 161200,
+                    "skin": "Stickerbomb",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 170020,
+                    "skin": "Purple Camo",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 200010,
+                    "skin": "Digital Burst",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 210006,
+                    "skin": "Hunter-02",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 220009,
+                    "skin": "Ignite",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 230010,
+                    "skin": "Griffin",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240025,
+                    "skin": "Mirage Menace",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240072,
+                    "skin": "Corrode",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240095,
+                    "skin": "Ghosts",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240135,
+                    "skin": "Suture",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240173,
+                    "skin": "Rainforest",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240238,
+                    "skin": "Celestial Tiger",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240263,
+                    "skin": "Horror",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240292,
+                    "skin": "Hologram",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 1041212,
+                    "skin": "Pisces",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1061201,
+                    "skin": "Stone Cold",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1081200,
+                    "skin": "Geometric",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1121200,
+                    "skin": "Chameleon",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1170020,
+                    "skin": "Purple Camo",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1200010,
+                    "skin": "Digital Burst",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1220009,
+                    "skin": "Ignite",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1230010,
+                    "skin": "Griffin",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240025,
+                    "skin": "Mirage Menace",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240072,
+                    "skin": "Corrode",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240095,
+                    "skin": "Ghosts",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240135,
+                    "skin": "Suture",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240173,
+                    "skin": "Rainforest",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240238,
+                    "skin": "Celestial Tiger",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240263,
+                    "skin": "Horror",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240292,
+                    "skin": "Hologram",
+                    "is_stattrak": true
+                }
+            ],
+            "P350": [
+                {
+                    "id": 13001,
+                    "skin": "Neon",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 13002,
+                    "skin": "Savannah",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 13003,
+                    "skin": "Forest Spirit",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 13004,
+                    "skin": "Rally",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 13005,
+                    "skin": "Skull",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 71306,
+                    "skin": "Radiation",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 81300,
+                    "skin": "Autumn",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 81323,
+                    "skin": "Nano",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 91300,
+                    "skin": "Blizzard",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 101300,
+                    "skin": "4 Years",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 121300,
+                    "skin": "Oni",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 170018,
+                    "skin": "Tag King",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 190005,
+                    "skin": "Raider",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 220007,
+                    "skin": "Rhino",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240020,
+                    "skin": "Sandspirit",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240054,
+                    "skin": "Festal Wrap",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240084,
+                    "skin": "Vitrum",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240120,
+                    "skin": "Gearshift",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240166,
+                    "skin": "Ink Spree",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240191,
+                    "skin": "Ooze",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240209,
+                    "skin": "Impact",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240237,
+                    "skin": "Silver Wing",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240312,
+                    "skin": "Emberbird",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 1013001,
+                    "skin": "Neon",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1013003,
+                    "skin": "Forest Spirit",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1013004,
+                    "skin": "Rally",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1071306,
+                    "skin": "Radiation",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1081300,
+                    "skin": "Autumn",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1091300,
+                    "skin": "Blizzard",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1121300,
+                    "skin": "Oni",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1170018,
+                    "skin": "Tag King",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1190005,
+                    "skin": "Raider",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240020,
+                    "skin": "Sandspirit",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240054,
+                    "skin": "Festal Wrap",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240120,
+                    "skin": "Gearshift",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240166,
+                    "skin": "Ink Spree",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240191,
+                    "skin": "Ooze",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240209,
+                    "skin": "Impact",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240237,
+                    "skin": "Silver Wing",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240312,
+                    "skin": "Emberbird",
+                    "is_stattrak": true
+                }
+            ],
+            "Berettas": [
+                {
+                    "id": 220015,
+                    "skin": "Soul Devourer",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 220016,
+                    "skin": "Damascus",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 230011,
+                    "skin": "Blazing Maw",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 230012,
+                    "skin": "Royal Rose",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240004,
+                    "skin": "Hexagon",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240037,
+                    "skin": "Hybrid",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240049,
+                    "skin": "Lumos Shard",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240086,
+                    "skin": "Artifacts",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240117,
+                    "skin": "Construction Sector",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240184,
+                    "skin": "Verdict",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240240,
+                    "skin": "Cascade",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240284,
+                    "skin": "Arctic Camo",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 1220015,
+                    "skin": "Soul Devourer",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1220016,
+                    "skin": "Damascus",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1230011,
+                    "skin": "Blazing Maw",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1230012,
+                    "skin": "Royal Rose",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240004,
+                    "skin": "Hexagon",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240037,
+                    "skin": "Hybrid",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240049,
+                    "skin": "Lumos Shard",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240117,
+                    "skin": "Construction Sector",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240240,
+                    "skin": "Cascade",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240284,
+                    "skin": "Arctic Camo",
+                    "is_stattrak": true
+                }
+            ],
+            "TEC-9": [
+                {
+                    "id": 41601,
+                    "skin": "Aurora",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 41605,
+                    "skin": "Fable",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 51601,
+                    "skin": "Splinter Storm",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 61601,
+                    "skin": "Necromancer",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 71607,
+                    "skin": "Reactor",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 81613,
+                    "skin": "Dalmatian",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 121600,
+                    "skin": "Tropic",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 141600,
+                    "skin": "Restless",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 151600,
+                    "skin": "Royal Frost",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 161600,
+                    "skin": "Stickerbomb",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 170019,
+                    "skin": "Needle",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 180015,
+                    "skin": "Splash",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 220013,
+                    "skin": "Tie Dye",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240001,
+                    "skin": "Glitch",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240046,
+                    "skin": "Verglas",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240098,
+                    "skin": "Disguise",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240123,
+                    "skin": "Gangster",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240147,
+                    "skin": "Night Slayer",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240183,
+                    "skin": "Ultimatum",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240222,
+                    "skin": "Iris",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240235,
+                    "skin": "Blossom",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240287,
+                    "skin": "Gift Wrap",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240298,
+                    "skin": "Smoldering Coal",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 1041605,
+                    "skin": "Fable",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1061601,
+                    "skin": "Necromancer",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1071607,
+                    "skin": "Reactor",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1121600,
+                    "skin": "Tropic",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1141600,
+                    "skin": "Restless",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1151600,
+                    "skin": "Royal Frost",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1170019,
+                    "skin": "Needle",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1180015,
+                    "skin": "Splash",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1220013,
+                    "skin": "Tie Dye",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240001,
+                    "skin": "Glitch",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240046,
+                    "skin": "Verglas",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240098,
+                    "skin": "Disguise",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240123,
+                    "skin": "Gangster",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240147,
+                    "skin": "Night Slayer",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240222,
+                    "skin": "Iris",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240235,
+                    "skin": "Blossom",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240287,
+                    "skin": "Gift Wrap",
+                    "is_stattrak": true
+                }
+            ],
+            "F/S": [
+                {
+                    "id": 41701,
+                    "skin": "Venom",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 41703,
+                    "skin": "Tactical",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 51701,
+                    "skin": "Camo Storm",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 71701,
+                    "skin": "Poison",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 71702,
+                    "skin": "Zone",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 81700,
+                    "skin": "Rush",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 81725,
+                    "skin": "Red Wraith",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 81726,
+                    "skin": "Wraith",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 131700,
+                    "skin": "Enforcer",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 141700,
+                    "skin": "Demonic Fog",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 151700,
+                    "skin": "Royal Frost",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 170007,
+                    "skin": "Zap",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 180013,
+                    "skin": "Octopus",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 230002,
+                    "skin": "Ophidian",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240041,
+                    "skin": "Hellspawn",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240075,
+                    "skin": "Toxic",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240090,
+                    "skin": "Corrosion",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240116,
+                    "skin": "Polymer",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240148,
+                    "skin": "Pink Shot",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240181,
+                    "skin": "Aquamarine",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240221,
+                    "skin": "Vines",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240305,
+                    "skin": "Flashing Flame",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 1041701,
+                    "skin": "Venom",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1041703,
+                    "skin": "Tactical",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1071701,
+                    "skin": "Poison",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1071702,
+                    "skin": "Zone",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1081700,
+                    "skin": "Rush",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1081726,
+                    "skin": "Wraith",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1131700,
+                    "skin": "Enforcer",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1141700,
+                    "skin": "Demonic Fog",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1151700,
+                    "skin": "Royal Frost",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1180013,
+                    "skin": "Octopus",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1230002,
+                    "skin": "Ophidian",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240041,
+                    "skin": "Hellspawn",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240075,
+                    "skin": "Toxic",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240116,
+                    "skin": "Polymer",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240148,
+                    "skin": "Pink Shot",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240221,
+                    "skin": "Vines",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240305,
+                    "skin": "Flashing Flame",
+                    "is_stattrak": true
+                }
+            ],
+            "Desert Eagle": [
+                {
+                    "id": 15001,
+                    "skin": "Morgan",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 15002,
+                    "skin": "Blood",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 15003,
+                    "skin": "Predator",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 15004,
+                    "skin": "Red Dragon",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 15005,
+                    "skin": "Winner",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 15006,
+                    "skin": "Dragon Glass",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 15007,
+                    "skin": "Thunder",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 41502,
+                    "skin": "Ace",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 81505,
+                    "skin": "Pro",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 121500,
+                    "skin": "Orochi",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 131500,
+                    "skin": "Yakuza",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 170003,
+                    "skin": "Piranha",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 170004,
+                    "skin": "Glory",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 190002,
+                    "skin": "Infection",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 210001,
+                    "skin": "Hunter",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 220020,
+                    "skin": "Venator",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240024,
+                    "skin": "Dust Devil",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240028,
+                    "skin": "Aureate",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240081,
+                    "skin": "Fusion Core",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240092,
+                    "skin": "Violet Flame",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240163,
+                    "skin": "Vermilion",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240194,
+                    "skin": "Eclipse",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240214,
+                    "skin": "Gambit",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240249,
+                    "skin": "Blossom",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240283,
+                    "skin": "Wildflower",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 1015003,
+                    "skin": "Predator",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1015004,
+                    "skin": "Red Dragon",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1015006,
+                    "skin": "Dragon Glass",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1041502,
+                    "skin": "Ace",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1121500,
+                    "skin": "Orochi",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1131500,
+                    "skin": "Yakuza",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1170003,
+                    "skin": "Piranha",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1190002,
+                    "skin": "Infection",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1220020,
+                    "skin": "Venator",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240024,
+                    "skin": "Dust Devil",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240081,
+                    "skin": "Fusion Core",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240092,
+                    "skin": "Violet Flame",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240163,
+                    "skin": "Vermilion",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240194,
+                    "skin": "Eclipse",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240214,
+                    "skin": "Gambit",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240249,
+                    "skin": "Blossom",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240283,
+                    "skin": "Wildflower",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240329,
+                    "skin": "Jade Stone",
+                    "is_stattrak": true
+                }
+            ]
+        },
+        "SMGS": {
+            "MAC10": [
+                {
+                    "id": 180008,
+                    "skin": "Argo",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 180009,
+                    "skin": "Constellations",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 180020,
+                    "skin": "Fatal Combo",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 190004,
+                    "skin": "Melt Away",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 200008,
+                    "skin": "Purple Mist",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 220001,
+                    "skin": "Noxious",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 220014,
+                    "skin": "Shogun Stripes",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 230006,
+                    "skin": "Wild Rage",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240019,
+                    "skin": "Arid",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240071,
+                    "skin": "Corrode",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240115,
+                    "skin": "Ruby Shadow",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240137,
+                    "skin": "Arcane Surge",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240179,
+                    "skin": "Pixel Camouflage",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240247,
+                    "skin": "Tempest",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240302,
+                    "skin": "Cardboard",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 1180008,
+                    "skin": "Argo",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1180009,
+                    "skin": "Constellations",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1180020,
+                    "skin": "Fatal Combo",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1190004,
+                    "skin": "Melt Away",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1200008,
+                    "skin": "Purple Mist",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1220001,
+                    "skin": "Noxious",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1220014,
+                    "skin": "Shogun Stripes",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1230006,
+                    "skin": "Wild Rage",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240019,
+                    "skin": "Arid",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240071,
+                    "skin": "Corrode",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240137,
+                    "skin": "Arcane Surge",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240247,
+                    "skin": "Tempest",
+                    "is_stattrak": true
+                }
+            ],
+            "UMP45": [
+                {
+                    "id": 32001,
+                    "skin": "Cyberpunk",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 32002,
+                    "skin": "Pixel",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 32003,
+                    "skin": "Shark",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 32004,
+                    "skin": "Winged",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 32005,
+                    "skin": "Beast",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 32006,
+                    "skin": "Iron",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 43201,
+                    "skin": "Pixel V2",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 43202,
+                    "skin": "Cerberus",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 73208,
+                    "skin": "Gas",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 73209,
+                    "skin": "White Carbon",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 83200,
+                    "skin": "Geometric",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 83201,
+                    "skin": "Spirit",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 103200,
+                    "skin": "4 Years",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 123200,
+                    "skin": "Peaceful Dream",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 200002,
+                    "skin": "Luminous",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 230009,
+                    "skin": "Warchief",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240018,
+                    "skin": "Arid",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240076,
+                    "skin": "Industrial",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240087,
+                    "skin": "VHS",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240167,
+                    "skin": "Heatwave",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240220,
+                    "skin": "Smelter",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240264,
+                    "skin": "Leviathan",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 1032001,
+                    "skin": "Cyberpunk",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1032003,
+                    "skin": "Shark",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1032004,
+                    "skin": "Winged",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1032005,
+                    "skin": "Beast",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1043202,
+                    "skin": "Cerberus",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1073208,
+                    "skin": "Gas",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1073209,
+                    "skin": "White Carbon",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1083200,
+                    "skin": "Geometric",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1083201,
+                    "skin": "Spirit",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1200002,
+                    "skin": "Luminous",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1230009,
+                    "skin": "Warchief",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240018,
+                    "skin": "Arid",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240076,
+                    "skin": "Industrial",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240167,
+                    "skin": "Heatwave",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240220,
+                    "skin": "Smelter",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240264,
+                    "skin": "Leviathan",
+                    "is_stattrak": true
+                }
+            ],
+            "MP5": [
+                {
+                    "id": 73610,
+                    "skin": "Project Z9",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 73611,
+                    "skin": "Reactor",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 73612,
+                    "skin": "Zone",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 93600,
+                    "skin": "Northern Fury",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 103500,
+                    "skin": "4 Years",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 170015,
+                    "skin": "Dusk",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 180010,
+                    "skin": "Gorgon",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 200005,
+                    "skin": "Space Blaster",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 220002,
+                    "skin": "Vector",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240035,
+                    "skin": "Insanity",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240089,
+                    "skin": "Silver-Plated",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240105,
+                    "skin": "Water Gun",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240171,
+                    "skin": "Tiles",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240180,
+                    "skin": "Iron",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240206,
+                    "skin": "Blueprint",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240241,
+                    "skin": "Clouds",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240262,
+                    "skin": "Arcane Surge",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240304,
+                    "skin": "Outrider",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 1073610,
+                    "skin": "Project Z9",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1073611,
+                    "skin": "Reactor",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1073612,
+                    "skin": "Zone",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1093600,
+                    "skin": "Northern Fury",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1180010,
+                    "skin": "Gorgon",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1200005,
+                    "skin": "Space Blaster",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240035,
+                    "skin": "Insanity",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240105,
+                    "skin": "Water Gun",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240171,
+                    "skin": "Tiles",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240206,
+                    "skin": "Blueprint",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240241,
+                    "skin": "Clouds",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240262,
+                    "skin": "Arcane Surge",
+                    "is_stattrak": true
+                }
+            ],
+            "MP7": [
+                {
+                    "id": 34001,
+                    "skin": "Offroad",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 34002,
+                    "skin": "Arcade",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 34003,
+                    "skin": "2 Years",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 34004,
+                    "skin": "2 Years Red",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 43401,
+                    "skin": "Thorn",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 43402,
+                    "skin": "Lich",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 63401,
+                    "skin": "Winter Sport",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 83400,
+                    "skin": "Revival",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 83409,
+                    "skin": "Mermaid",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 83410,
+                    "skin": "Graffiti",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 83411,
+                    "skin": "Banana",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 93400,
+                    "skin": "Blizzard",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 123400,
+                    "skin": "Palace",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 163400,
+                    "skin": "Stickerbomb",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 170016,
+                    "skin": "Dawn",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 200004,
+                    "skin": "Space Blaster",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 220010,
+                    "skin": "Precision",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240016,
+                    "skin": "Ridge",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240052,
+                    "skin": "Festal Wrap",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240099,
+                    "skin": "Fright",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240119,
+                    "skin": "Rebellion",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240232,
+                    "skin": "R1NA",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240307,
+                    "skin": "Magma Trail",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 1034001,
+                    "skin": "Offroad",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1034002,
+                    "skin": "Arcade",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1043402,
+                    "skin": "Lich",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1063401,
+                    "skin": "Winter Sport",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1083400,
+                    "skin": "Revival",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1083410,
+                    "skin": "Graffiti",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1083411,
+                    "skin": "Banana",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1093400,
+                    "skin": "Blizzard",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1123400,
+                    "skin": "Palace",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1200004,
+                    "skin": "Space Blaster",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1220010,
+                    "skin": "Precision",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240016,
+                    "skin": "Ridge",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240052,
+                    "skin": "Festal Wrap",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240099,
+                    "skin": "Fright",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240119,
+                    "skin": "Rebellion",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240232,
+                    "skin": "R1NA",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240307,
+                    "skin": "Magma Trail",
+                    "is_stattrak": true
+                }
+            ],
+            "Akimbo Uzi": [
+                {
+                    "id": 240172,
+                    "skin": "Spray",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240175,
+                    "skin": "Toco",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240187,
+                    "skin": "Skull",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240196,
+                    "skin": "Overdrive Red",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240202,
+                    "skin": "Streak",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240217,
+                    "skin": "Ravage",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240234,
+                    "skin": "Yokai",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240255,
+                    "skin": "Howling Ghost",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240289,
+                    "skin": "Fire Horse",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240311,
+                    "skin": "Zenith",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 1240172,
+                    "skin": "Spray",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240175,
+                    "skin": "Toco",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240187,
+                    "skin": "Skull",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240196,
+                    "skin": "Overdrive Red",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240202,
+                    "skin": "Streak",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240217,
+                    "skin": "Ravage",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240234,
+                    "skin": "Yokai",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240255,
+                    "skin": "Howling Ghost",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240289,
+                    "skin": "Fire Horse",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240311,
+                    "skin": "Zenith",
+                    "is_stattrak": true
+                }
+            ],
+            "P90": [
+                {
+                    "id": 35001,
+                    "skin": "Radiation",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 35002,
+                    "skin": "Ghoul",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 35003,
+                    "skin": "Fissure",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 35004,
+                    "skin": "Pilot",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 43502,
+                    "skin": "Jungle",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 83512,
+                    "skin": "Samurai",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 93500,
+                    "skin": "Iron Will",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 133500,
+                    "skin": "R.O.N.I.N. mk9",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 133501,
+                    "skin": "Z-50 F.U.J.I.N.",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 170017,
+                    "skin": "Oops",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 200006,
+                    "skin": "Purple Mist",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 220017,
+                    "skin": "Clash",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 230007,
+                    "skin": "Dragon Flame",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240015,
+                    "skin": "Nebula",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240042,
+                    "skin": "Revenant",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240079,
+                    "skin": "Fusion Core",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240088,
+                    "skin": "Cold Lead",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240145,
+                    "skin": "Unstoppable",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240192,
+                    "skin": "Noir",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240213,
+                    "skin": "Oracle",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240245,
+                    "skin": "Foxfire",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240291,
+                    "skin": "Hologram",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240308,
+                    "skin": "Horizon",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 1035002,
+                    "skin": "Ghoul",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1083512,
+                    "skin": "Samurai",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1093500,
+                    "skin": "Iron Will",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1133500,
+                    "skin": "R.O.N.I.N. mk9",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1133501,
+                    "skin": "Z-50 F.U.J.I.N.",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1170017,
+                    "skin": "Oops",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1200006,
+                    "skin": "Purple Mist",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1220017,
+                    "skin": "Clash",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1230007,
+                    "skin": "Dragon Flame",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240042,
+                    "skin": "Revenant",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240079,
+                    "skin": "Fusion Core",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240145,
+                    "skin": "Unstoppable",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240192,
+                    "skin": "Noir",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240213,
+                    "skin": "Oracle",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240245,
+                    "skin": "Foxfire",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240291,
+                    "skin": "Hologram",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240308,
+                    "skin": "Horizon",
+                    "is_stattrak": true
+                }
+            ]
+        },
+        "RIFLES": {
+            "FN FAL": [
+                {
+                    "id": 44901,
+                    "skin": "Leather",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 44902,
+                    "skin": "Acid Carbon",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 44903,
+                    "skin": "Tactical",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 84900,
+                    "skin": "Phoenix Risen",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 84906,
+                    "skin": "Aquamarine",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 154900,
+                    "skin": "Christmas Symbol",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 180017,
+                    "skin": "Basilisk",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 220006,
+                    "skin": "Red-Hot",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240017,
+                    "skin": "Scaleskitter",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240047,
+                    "skin": "Verglas",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240106,
+                    "skin": "Dusk Tide",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240138,
+                    "skin": "Astral Rift",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240168,
+                    "skin": "Charred Wood",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240188,
+                    "skin": "PRO",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240224,
+                    "skin": "Splash",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240280,
+                    "skin": "Empyrean",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240301,
+                    "skin": "Suppressor",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 1044903,
+                    "skin": "Tactical",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1084900,
+                    "skin": "Phoenix Risen",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1154900,
+                    "skin": "Christmas Symbol",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1180017,
+                    "skin": "Basilisk",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240017,
+                    "skin": "Scaleskitter",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240047,
+                    "skin": "Verglas",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240106,
+                    "skin": "Dusk Tide",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240138,
+                    "skin": "Astral Rift",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240168,
+                    "skin": "Charred Wood",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240188,
+                    "skin": "PRO",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240224,
+                    "skin": "Splash",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240280,
+                    "skin": "Empyrean",
+                    "is_stattrak": true
+                }
+            ],
+            "FAMAS": [
+                {
+                    "id": 48001,
+                    "skin": "Beagle",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 48002,
+                    "skin": "Fury",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 48003,
+                    "skin": "Hull",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 74800,
+                    "skin": "Monster",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 84800,
+                    "skin": "Autumn",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 124800,
+                    "skin": "Anger",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 154800,
+                    "skin": "Christmas Symbol",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 170006,
+                    "skin": "Gunsmoke",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 190003,
+                    "skin": "Handcraft",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240005,
+                    "skin": "Stellar Blitz",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240048,
+                    "skin": "Snow Storm",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240085,
+                    "skin": "Battle Steel",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240118,
+                    "skin": "Oxide",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240174,
+                    "skin": "Feral",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240216,
+                    "skin": "Ritual",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240259,
+                    "skin": "Raider",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 1048001,
+                    "skin": "Beagle",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1048002,
+                    "skin": "Fury",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1048003,
+                    "skin": "Hull",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1074800,
+                    "skin": "Monster",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1084800,
+                    "skin": "Autumn",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1124800,
+                    "skin": "Anger",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1154800,
+                    "skin": "Christmas Symbol",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1190003,
+                    "skin": "Handcraft",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240005,
+                    "skin": "Stellar Blitz",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240048,
+                    "skin": "Snow Storm",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240118,
+                    "skin": "Oxide",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240174,
+                    "skin": "Feral",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240216,
+                    "skin": "Ritual",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240259,
+                    "skin": "Raider",
+                    "is_stattrak": true
+                }
+            ],
+            "VAL": [
+                {
+                    "id": 240074,
+                    "skin": "Forge",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240080,
+                    "skin": "Oil Sheen",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240094,
+                    "skin": "Joker",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240101,
+                    "skin": "Gilded Gale",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240107,
+                    "skin": "Solstice",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240122,
+                    "skin": "Night City",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240139,
+                    "skin": "Widow\\'s Weave",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240158,
+                    "skin": "Ronin",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240218,
+                    "skin": "Orbit",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240256,
+                    "skin": "Rosa Mortal",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240267,
+                    "skin": "Phantom Pack",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240306,
+                    "skin": "Vertex",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 1240074,
+                    "skin": "Forge",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240080,
+                    "skin": "Oil Sheen",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240094,
+                    "skin": "Joker",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240101,
+                    "skin": "Gilded Gale",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240107,
+                    "skin": "Solstice",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240122,
+                    "skin": "Night City",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240139,
+                    "skin": "Widow\\'s Weave",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240158,
+                    "skin": "Ronin",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240218,
+                    "skin": "Orbit",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240256,
+                    "skin": "Rosa Mortal",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240267,
+                    "skin": "Phantom Pack",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240306,
+                    "skin": "Vertex",
+                    "is_stattrak": true
+                }
+            ],
+            "M4A1": [
+                {
+                    "id": 124300,
+                    "skin": "Bubblegum",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 124301,
+                    "skin": "Kitsune",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 134300,
+                    "skin": "K.I.N.G. v7.03",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 144300,
+                    "skin": "Immortal",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 154300,
+                    "skin": "Year Of The Tiger",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 170009,
+                    "skin": "Sour",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 180018,
+                    "skin": "Mermaid",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 230004,
+                    "skin": "Paladin",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240022,
+                    "skin": "Serpent",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240082,
+                    "skin": "Ferocity",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240093,
+                    "skin": "Stainless",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240159,
+                    "skin": "Sparkling Gaze",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240193,
+                    "skin": "Overdrive",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240210,
+                    "skin": "Impact",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240242,
+                    "skin": "Tempest",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240277,
+                    "skin": "PawPaw",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240285,
+                    "skin": "Pixel Flakes",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240315,
+                    "skin": "Treasure Hunter",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 1124300,
+                    "skin": "Bubblegum",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1124301,
+                    "skin": "Kitsune",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1134300,
+                    "skin": "K.I.N.G. v7.03",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1144300,
+                    "skin": "Immortal",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1154300,
+                    "skin": "Year Of The Tiger",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1170009,
+                    "skin": "Sour",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1180018,
+                    "skin": "Mermaid",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1230004,
+                    "skin": "Paladin",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240022,
+                    "skin": "Serpent",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240082,
+                    "skin": "Ferocity",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240093,
+                    "skin": "Stainless",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240159,
+                    "skin": "Sparkling Gaze",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240193,
+                    "skin": "Overdrive",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240210,
+                    "skin": "Impact",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240242,
+                    "skin": "Tempest",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240277,
+                    "skin": "PawPaw",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240285,
+                    "skin": "Pixel Flakes",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240315,
+                    "skin": "Treasure Hunter",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240330,
+                    "skin": "Jade Stone",
+                    "is_stattrak": true
+                }
+            ],
+            "M4": [
+                {
+                    "id": 44601,
+                    "skin": "Lizard",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 44603,
+                    "skin": "Samurai",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 46001,
+                    "skin": "Predator",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 46002,
+                    "skin": "Necromancer",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 46003,
+                    "skin": "Tiger",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 46004,
+                    "skin": "Evil",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 46006,
+                    "skin": "PRO",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 46007,
+                    "skin": "Grand Prix",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 54601,
+                    "skin": "Pixel Storm",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 84600,
+                    "skin": "Revival",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 84624,
+                    "skin": "Night Wolf",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 124600,
+                    "skin": "Demon",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 134600,
+                    "skin": "R.O.N.I.N. mk56",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 180004,
+                    "skin": "Minotaur",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 200001,
+                    "skin": "Sunset",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 220008,
+                    "skin": "Powergame",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240044,
+                    "skin": "N-Kai",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240091,
+                    "skin": "Flock",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240124,
+                    "skin": "Ironclad",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240141,
+                    "skin": "Furious Sharpshooter",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240146,
+                    "skin": "Kachi",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240204,
+                    "skin": "Flex",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240254,
+                    "skin": "Bullets and Roses",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240309,
+                    "skin": "Retro Film",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 1044601,
+                    "skin": "Lizard",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1044603,
+                    "skin": "Samurai",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1046002,
+                    "skin": "Necromancer",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1046006,
+                    "skin": "PRO",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1046007,
+                    "skin": "Grand Prix",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1084600,
+                    "skin": "Revival",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1084624,
+                    "skin": "Night Wolf",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1124600,
+                    "skin": "Demon",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1134600,
+                    "skin": "R.O.N.I.N. mk56",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1180004,
+                    "skin": "Minotaur",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1200001,
+                    "skin": "Sunset",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240044,
+                    "skin": "N-Kai",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240091,
+                    "skin": "Flock",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240124,
+                    "skin": "Ironclad",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240146,
+                    "skin": "Kachi",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240204,
+                    "skin": "Flex",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240254,
+                    "skin": "Bullets and Roses",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240309,
+                    "skin": "Retro Film",
+                    "is_stattrak": true
+                }
+            ],
+            "AKR12": [
+                {
+                    "id": 45001,
+                    "skin": "Railgun",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 45002,
+                    "skin": "Pixel Camouflage",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 45003,
+                    "skin": "Mechanic",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 45004,
+                    "skin": "Aurora",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 84400,
+                    "skin": "Geometric",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 84500,
+                    "skin": "Carbon",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 84501,
+                    "skin": "Spring",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 94400,
+                    "skin": "Flow",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 104400,
+                    "skin": "4 Years",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 124500,
+                    "skin": "Roar",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 134500,
+                    "skin": "Armored",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 134501,
+                    "skin": "Transistor",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 170002,
+                    "skin": "Steam Beast",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 180016,
+                    "skin": "Carving",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 190001,
+                    "skin": "Riot",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 230001,
+                    "skin": "Ashbringer",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240043,
+                    "skin": "Haunt",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240100,
+                    "skin": "Mimicry",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240127,
+                    "skin": "Emberbird",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240140,
+                    "skin": "Cold-hearted",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240150,
+                    "skin": "Hanami",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240212,
+                    "skin": "Shark",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240250,
+                    "skin": "Kensei",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240281,
+                    "skin": "Ice Storm",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 1045001,
+                    "skin": "Railgun",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1045002,
+                    "skin": "Pixel Camouflage",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1084400,
+                    "skin": "Geometric",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1084500,
+                    "skin": "Carbon",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1094400,
+                    "skin": "Flow",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1134500,
+                    "skin": "Armored",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1134501,
+                    "skin": "Transistor",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1170002,
+                    "skin": "Steam Beast",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1180016,
+                    "skin": "Carving",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1190001,
+                    "skin": "Riot",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1230001,
+                    "skin": "Ashbringer",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240043,
+                    "skin": "Haunt",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240100,
+                    "skin": "Mimicry",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240127,
+                    "skin": "Emberbird",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240150,
+                    "skin": "Hanami",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240212,
+                    "skin": "Shark",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240250,
+                    "skin": "Kensei",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240281,
+                    "skin": "Ice Storm",
+                    "is_stattrak": true
+                }
+            ],
+            "AKR": [
+                {
+                    "id": 44002,
+                    "skin": "Treasure Hunter",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 44003,
+                    "skin": "Tiger",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 44004,
+                    "skin": "Sport",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 44005,
+                    "skin": "Necromancer",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 44006,
+                    "skin": "Carbon",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 44007,
+                    "skin": "2 Years Red",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 44401,
+                    "skin": "Worm",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 54401,
+                    "skin": "Fabric Storm",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 84402,
+                    "skin": "Dragon",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 84403,
+                    "skin": "Nano",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 124400,
+                    "skin": "Scale",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 144400,
+                    "skin": "Night Fury",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 170001,
+                    "skin": "Tag King",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 180001,
+                    "skin": "Scylla",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 200009,
+                    "skin": "Digital Burst",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 210004,
+                    "skin": "Steel Grip",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 220011,
+                    "skin": "Evolution",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240027,
+                    "skin": "Mirage Menace",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240051,
+                    "skin": "Icewing",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240162,
+                    "skin": "Vermilion",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240197,
+                    "skin": "Genesis",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240233,
+                    "skin": "Orchid",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240278,
+                    "skin": "La Reina",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240313,
+                    "skin": "Sketch",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 1044002,
+                    "skin": "Treasure Hunter",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1044004,
+                    "skin": "Sport",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1044005,
+                    "skin": "Necromancer",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1044006,
+                    "skin": "Carbon",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1084402,
+                    "skin": "Dragon",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1084403,
+                    "skin": "Nano",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1144400,
+                    "skin": "Night Fury",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1170001,
+                    "skin": "Tag King",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1180001,
+                    "skin": "Scylla",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1200009,
+                    "skin": "Digital Burst",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1220011,
+                    "skin": "Evolution",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240027,
+                    "skin": "Mirage Menace",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240051,
+                    "skin": "Icewing",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240162,
+                    "skin": "Vermilion",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240197,
+                    "skin": "Genesis",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240233,
+                    "skin": "Orchid",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240278,
+                    "skin": "La Reina",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240313,
+                    "skin": "Sketch",
+                    "is_stattrak": true
+                }
+            ],
+            "M16": [
+                {
+                    "id": 47001,
+                    "skin": "Camouflage",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 47002,
+                    "skin": "Winged",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 47003,
+                    "skin": "Facet",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 94700,
+                    "skin": "Iron Will",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 104700,
+                    "skin": "4 Years",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 134700,
+                    "skin": "Triumphant",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 170010,
+                    "skin": "Needle",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 180019,
+                    "skin": "Muraena",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 200007,
+                    "skin": "Retro Arcade",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 210002,
+                    "skin": "Sharpshooter",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 220019,
+                    "skin": "Shogun Stripes",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240026,
+                    "skin": "Dust Devil",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240050,
+                    "skin": "Bigfoot",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240108,
+                    "skin": "Sea Glint",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240136,
+                    "skin": "Wraithwood",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240177,
+                    "skin": "Raiva",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240186,
+                    "skin": "Mayhem",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240223,
+                    "skin": "Challenger",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240261,
+                    "skin": "Naga",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240299,
+                    "skin": "Bastion",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240310,
+                    "skin": "Accuracy",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 1047002,
+                    "skin": "Winged",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1094700,
+                    "skin": "Iron Will",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1134700,
+                    "skin": "Triumphant",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1170010,
+                    "skin": "Needle",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1180019,
+                    "skin": "Muraena",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1200007,
+                    "skin": "Retro Arcade",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1220019,
+                    "skin": "Shogun Stripes",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240026,
+                    "skin": "Dust Devil",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240050,
+                    "skin": "Bigfoot",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240108,
+                    "skin": "Sea Glint",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240136,
+                    "skin": "Wraithwood",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240177,
+                    "skin": "Raiva",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240186,
+                    "skin": "Mayhem",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240223,
+                    "skin": "Challenger",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240261,
+                    "skin": "Naga",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240310,
+                    "skin": "Accuracy",
+                    "is_stattrak": true
+                }
+            ]
+        },
+        "SHOTGUNS": {
+            "FabM": [
+                {
+                    "id": 76218,
+                    "skin": "Reactor",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 86300,
+                    "skin": "Flight",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 86317,
+                    "skin": "Waste",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 86318,
+                    "skin": "Parrot",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 126300,
+                    "skin": "Cursed Fire",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 146300,
+                    "skin": "Death Herald",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 156300,
+                    "skin": "Thief Of The Christmas",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 170005,
+                    "skin": "BOOM",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 180003,
+                    "skin": "Hercules",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240002,
+                    "skin": "Cranium",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240038,
+                    "skin": "Tindalos",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240083,
+                    "skin": "Vein",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240125,
+                    "skin": "Gangster",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240182,
+                    "skin": "Mayhem",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240203,
+                    "skin": "Streak",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240239,
+                    "skin": "Undertow",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240266,
+                    "skin": "Fiend",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 1076218,
+                    "skin": "Reactor",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1086300,
+                    "skin": "Flight",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1086318,
+                    "skin": "Parrot",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1146300,
+                    "skin": "Death Herald",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1156300,
+                    "skin": "Thief Of The Christmas",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1170005,
+                    "skin": "BOOM",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1180003,
+                    "skin": "Hercules",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240002,
+                    "skin": "Cranium",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240038,
+                    "skin": "Tindalos",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240125,
+                    "skin": "Gangster",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240203,
+                    "skin": "Streak",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240239,
+                    "skin": "Undertow",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240266,
+                    "skin": "Fiend",
+                    "is_stattrak": true
+                }
+            ],
+            "SM1014": [
+                {
+                    "id": 45302,
+                    "skin": "Blaster",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 62001,
+                    "skin": "Facet",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 62002,
+                    "skin": "Pathfinder",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 62003,
+                    "skin": "Necromancer",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 62004,
+                    "skin": "Northern Camouflage",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 62005,
+                    "skin": "Quake",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 62006,
+                    "skin": "Branches",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 66201,
+                    "skin": "Arctic",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 86216,
+                    "skin": "Wave",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 126201,
+                    "skin": "Tropic",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 170014,
+                    "skin": "Bolt",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 180014,
+                    "skin": "Fatal Combo",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240021,
+                    "skin": "Serpent",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240055,
+                    "skin": "Freezing Gasp",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240104,
+                    "skin": "Triton",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240189,
+                    "skin": "Wasp",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240215,
+                    "skin": "Piranha",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240246,
+                    "skin": "Falling Leaves",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240288,
+                    "skin": "Penguin Patrol",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 1062002,
+                    "skin": "Pathfinder",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1062003,
+                    "skin": "Necromancer",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1066201,
+                    "skin": "Arctic",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1086216,
+                    "skin": "Wave",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1180014,
+                    "skin": "Fatal Combo",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240021,
+                    "skin": "Serpent",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240055,
+                    "skin": "Freezing Gasp",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240104,
+                    "skin": "Triton",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240189,
+                    "skin": "Wasp",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240215,
+                    "skin": "Piranha",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240246,
+                    "skin": "Falling Leaves",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240288,
+                    "skin": "Penguin Patrol",
+                    "is_stattrak": true
+                }
+            ],
+            "SPAS": [
+                {
+                    "id": 180011,
+                    "skin": "Griffin",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 180012,
+                    "skin": "Zeus",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 180021,
+                    "skin": "Octopus",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 190006,
+                    "skin": "Raider",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 200003,
+                    "skin": "Vibe",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 220005,
+                    "skin": "Vesper Haze",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 220018,
+                    "skin": "Taint",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 230008,
+                    "skin": "Unicorn",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240078,
+                    "skin": "Dangerous",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240157,
+                    "skin": "Tensai",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240176,
+                    "skin": "Glide",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240257,
+                    "skin": "Eternal Flow",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240300,
+                    "skin": "Umbra",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 1180011,
+                    "skin": "Griffin",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1180012,
+                    "skin": "Zeus",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1180021,
+                    "skin": "Octopus",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1190006,
+                    "skin": "Raider",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1200003,
+                    "skin": "Vibe",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1220018,
+                    "skin": "Taint",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1230008,
+                    "skin": "Unicorn",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240078,
+                    "skin": "Dangerous",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240157,
+                    "skin": "Tensai",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240176,
+                    "skin": "Glide",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240257,
+                    "skin": "Eternal Flow",
+                    "is_stattrak": true
+                }
+            ],
+            "M60": [
+                {
+                    "id": 126400,
+                    "skin": "Grunge",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 126401,
+                    "skin": "Steam Beast",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 136400,
+                    "skin": "Mecha",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 136401,
+                    "skin": "Y-20 R.A.I.J.I.N.",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 146400,
+                    "skin": "Demonic Fog",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 170012,
+                    "skin": "Turret",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 180006,
+                    "skin": "Ares",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240003,
+                    "skin": "Spaceware",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240036,
+                    "skin": "Quantum",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240077,
+                    "skin": "Fatal",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240169,
+                    "skin": "Warp",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240185,
+                    "skin": "Copper",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240205,
+                    "skin": "Flex",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240258,
+                    "skin": "Horror",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 1126400,
+                    "skin": "Grunge",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1126401,
+                    "skin": "Steam Beast",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1136400,
+                    "skin": "Mecha",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1136401,
+                    "skin": "Y-20 R.A.I.J.I.N.",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1146400,
+                    "skin": "Demonic Fog",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1180006,
+                    "skin": "Ares",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240003,
+                    "skin": "Spaceware",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240036,
+                    "skin": "Quantum",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240077,
+                    "skin": "Fatal",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240169,
+                    "skin": "Warp",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240205,
+                    "skin": "Flex",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240258,
+                    "skin": "Horror",
+                    "is_stattrak": true
+                }
+            ]
+        },
+        "SNIPERS": {
+            "M40": [
+                {
+                    "id": 52001,
+                    "skin": "Quake",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 52002,
+                    "skin": "PRO",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 52003,
+                    "skin": "Beagle",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 65201,
+                    "skin": "Arctic",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 65202,
+                    "skin": "Winter Track",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 75205,
+                    "skin": "Monster",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 125200,
+                    "skin": "Cursed Fire",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 155200,
+                    "skin": "Thief Of The Christmas",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 165200,
+                    "skin": "Stickerbomb",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 170011,
+                    "skin": "Grip",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 180005,
+                    "skin": "Constellations",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 220003,
+                    "skin": "Impale",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 230005,
+                    "skin": "Wyvern",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240040,
+                    "skin": "Venom Shade",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240096,
+                    "skin": "Disguise",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240103,
+                    "skin": "Daybreak",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240121,
+                    "skin": "Skyfall",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240149,
+                    "skin": "Northern Lights",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240178,
+                    "skin": "Smolder",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240248,
+                    "skin": "White Ash",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240279,
+                    "skin": "Auric Bloom",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 1052001,
+                    "skin": "Quake",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1052003,
+                    "skin": "Beagle",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1065201,
+                    "skin": "Arctic",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1065202,
+                    "skin": "Winter Track",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1075205,
+                    "skin": "Monster",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1155200,
+                    "skin": "Thief Of The Christmas",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1170011,
+                    "skin": "Grip",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1180005,
+                    "skin": "Constellations",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1230005,
+                    "skin": "Wyvern",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240040,
+                    "skin": "Venom Shade",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240096,
+                    "skin": "Disguise",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240103,
+                    "skin": "Daybreak",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240121,
+                    "skin": "Skyfall",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240149,
+                    "skin": "Northern Lights",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240248,
+                    "skin": "White Ash",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240279,
+                    "skin": "Auric Bloom",
+                    "is_stattrak": true
+                }
+            ],
+            "Mallard": [
+                {
+                    "id": 240236,
+                    "skin": "Ascend",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240243,
+                    "skin": "Falling Leaves",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240252,
+                    "skin": "Phantom Pack",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240276,
+                    "skin": "PRO Gold",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240282,
+                    "skin": "Wild West",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240303,
+                    "skin": "Paint Scrawl",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240314,
+                    "skin": "Snake Scales",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 1240236,
+                    "skin": "Ascend",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240243,
+                    "skin": "Falling Leaves",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240252,
+                    "skin": "Phantom Pack",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240282,
+                    "skin": "Wild West",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240314,
+                    "skin": "Snake Scales",
+                    "is_stattrak": true
+                }
+            ],
+            "M110": [
+                {
+                    "id": 45301,
+                    "skin": "Cyber",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 85300,
+                    "skin": "Transition",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 95300,
+                    "skin": "Flow",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 135300,
+                    "skin": "Z-07 M.A.R.K.S.M.A.N.",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 145300,
+                    "skin": "Celestial Beast",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 155300,
+                    "skin": "Year Of The Tiger",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 165300,
+                    "skin": "Stickerbomb",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 170013,
+                    "skin": "Pursuit",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 180007,
+                    "skin": "Themis",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 220004,
+                    "skin": "Tech Shard",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240023,
+                    "skin": "Harbinger",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240073,
+                    "skin": "Reach Keeper",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240134,
+                    "skin": "Dark Pact",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240170,
+                    "skin": "Grid",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240265,
+                    "skin": "Centipede",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 1045301,
+                    "skin": "Cyber",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1085300,
+                    "skin": "Transition",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1095300,
+                    "skin": "Flow",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1135300,
+                    "skin": "Z-07 M.A.R.K.S.M.A.N.",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1145300,
+                    "skin": "Celestial Beast",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1155300,
+                    "skin": "Year Of The Tiger",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1180007,
+                    "skin": "Themis",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240023,
+                    "skin": "Harbinger",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240073,
+                    "skin": "Reach Keeper",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240134,
+                    "skin": "Dark Pact",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240170,
+                    "skin": "Grid",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240265,
+                    "skin": "Centipede",
+                    "is_stattrak": true
+                }
+            ],
+            "AWM": [
+                {
+                    "id": 51001,
+                    "skin": "Sport",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 51002,
+                    "skin": "Phoenix",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 51003,
+                    "skin": "Gear",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 51004,
+                    "skin": "Scratch",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 51006,
+                    "skin": "Sport V2",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 51007,
+                    "skin": "Genesis",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 51008,
+                    "skin": "2 Years Red",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 65101,
+                    "skin": "Winter Sport",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 85104,
+                    "skin": "Treasure Hunter",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 85127,
+                    "skin": "Dragon",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 95100,
+                    "skin": "Polar Night",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 125100,
+                    "skin": "BOOM",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 125101,
+                    "skin": "Elevation",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 165100,
+                    "skin": "Stickerbomb",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 180002,
+                    "skin": "Poseidon",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 210003,
+                    "skin": "Cold-blooded",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 220012,
+                    "skin": "Kings",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240006,
+                    "skin": "Xenoguard",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240013,
+                    "skin": "Nebula",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240053,
+                    "skin": "Festal Wrap",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240102,
+                    "skin": "Hohei Taisho",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240126,
+                    "skin": "Spectral",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240190,
+                    "skin": "Sylvan",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240219,
+                    "skin": "Ravage",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240244,
+                    "skin": "Moonstone",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240260,
+                    "skin": "Vampire",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240297,
+                    "skin": "Dark Camo",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 240328,
+                    "skin": "Jade Stone",
+                    "is_stattrak": false
+                },
+                {
+                    "id": 1051002,
+                    "skin": "Phoenix",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1051003,
+                    "skin": "Gear",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1051004,
+                    "skin": "Scratch",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1051007,
+                    "skin": "Genesis",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1065101,
+                    "skin": "Winter Sport",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1085127,
+                    "skin": "Dragon",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1095100,
+                    "skin": "Polar Night",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1125100,
+                    "skin": "BOOM",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1180002,
+                    "skin": "Poseidon",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1220012,
+                    "skin": "Kings",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240006,
+                    "skin": "Xenoguard",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240053,
+                    "skin": "Festal Wrap",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240102,
+                    "skin": "Hohei Taisho",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240126,
+                    "skin": "Spectral",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240190,
+                    "skin": "Sylvan",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240219,
+                    "skin": "Ravage",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240244,
+                    "skin": "Moonstone",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240260,
+                    "skin": "Vampire",
+                    "is_stattrak": true
+                },
+                {
+                    "id": 1240328,
+                    "skin": "Jade Stone",
+                    "is_stattrak": true
+                }
+            ]
+        }
+    },
+    "KNIFES": {
+        "M9 Bayonet": [
+            {
+                "id": 71001,
+                "skin": "Blue Blood",
+                "is_stattrak": false
+            },
+            {
+                "id": 71002,
+                "skin": "Ancient",
+                "is_stattrak": false
+            },
+            {
+                "id": 71003,
+                "skin": "Scratch",
+                "is_stattrak": false
+            },
+            {
+                "id": 71004,
+                "skin": "Universe",
+                "is_stattrak": false
+            },
+            {
+                "id": 71005,
+                "skin": "Dragon Glass",
+                "is_stattrak": false
+            },
+            {
+                "id": 97100,
+                "skin": "Frozen",
+                "is_stattrak": false
+            },
+            {
+                "id": 157100,
+                "skin": "Kumo",
+                "is_stattrak": false
+            },
+            {
+                "id": 200012,
+                "skin": "Digital Burst",
+                "is_stattrak": false
+            },
+            {
+                "id": 240063,
+                "skin": "Dark Shiver",
+                "is_stattrak": false
+            },
+            {
+                "id": 240154,
+                "skin": "Amber Koi",
+                "is_stattrak": false
+            },
+            {
+                "id": 240228,
+                "skin": "Moonstone",
+                "is_stattrak": false
+            },
+            {
+                "id": 240293,
+                "skin": "Sketch",
+                "is_stattrak": false
+            },
+            {
+                "id": 240294,
+                "skin": "Citrine",
+                "is_stattrak": false
+            },
+            {
+                "id": 240295,
+                "skin": "Poison",
+                "is_stattrak": false
+            },
+            {
+                "id": 240296,
+                "skin": "Twilight",
+                "is_stattrak": false
+            }
+        ],
+        "Karambit": [
+            {
+                "id": 72001,
+                "skin": "Acid",
+                "is_stattrak": false
+            },
+            {
+                "id": 72002,
+                "skin": "Claw",
+                "is_stattrak": false
+            },
+            {
+                "id": 72003,
+                "skin": "Gold",
+                "is_stattrak": false
+            },
+            {
+                "id": 72004,
+                "skin": "Dragon Glass",
+                "is_stattrak": false
+            },
+            {
+                "id": 72006,
+                "skin": "Scratch",
+                "is_stattrak": false
+            },
+            {
+                "id": 72007,
+                "skin": "Universe",
+                "is_stattrak": false
+            },
+            {
+                "id": 97200,
+                "skin": "Cold Flame",
+                "is_stattrak": false
+            },
+            {
+                "id": 97201,
+                "skin": "Frozen",
+                "is_stattrak": false
+            },
+            {
+                "id": 97203,
+                "skin": "Snow Camo",
+                "is_stattrak": false
+            },
+            {
+                "id": 157200,
+                "skin": "Year Of The Tiger",
+                "is_stattrak": false
+            },
+            {
+                "id": 200011,
+                "skin": "Purple Camo",
+                "is_stattrak": false
+            },
+            {
+                "id": 240014,
+                "skin": "Nebula",
+                "is_stattrak": false
+            },
+            {
+                "id": 240111,
+                "skin": "Pelagia",
+                "is_stattrak": false
+            },
+            {
+                "id": 240131,
+                "skin": "Widow\\'s Weave",
+                "is_stattrak": false
+            },
+            {
+                "id": 240164,
+                "skin": "Vermilion",
+                "is_stattrak": false
+            },
+            {
+                "id": 240275,
+                "skin": "White Rose",
+                "is_stattrak": false
+            },
+            {
+                "id": 240290,
+                "skin": "Hologram",
+                "is_stattrak": false
+            }
+        ],
+        "jKommando": [
+            {
+                "id": 73001,
+                "skin": "Acid",
+                "is_stattrak": false
+            },
+            {
+                "id": 73002,
+                "skin": "Ancient",
+                "is_stattrak": false
+            },
+            {
+                "id": 73003,
+                "skin": "Reaper",
+                "is_stattrak": false
+            },
+            {
+                "id": 73004,
+                "skin": "Floral",
+                "is_stattrak": false
+            },
+            {
+                "id": 73005,
+                "skin": "Iron",
+                "is_stattrak": false
+            },
+            {
+                "id": 73006,
+                "skin": "Luxury",
+                "is_stattrak": false
+            },
+            {
+                "id": 73007,
+                "skin": "Universe",
+                "is_stattrak": false
+            },
+            {
+                "id": 97300,
+                "skin": "Frozen",
+                "is_stattrak": false
+            },
+            {
+                "id": 157300,
+                "skin": "Augustite",
+                "is_stattrak": false
+            },
+            {
+                "id": 200015,
+                "skin": "Prism",
+                "is_stattrak": false
+            },
+            {
+                "id": 240056,
+                "skin": "Blight",
+                "is_stattrak": false
+            },
+            {
+                "id": 240132,
+                "skin": "Plasma",
+                "is_stattrak": false
+            },
+            {
+                "id": 240271,
+                "skin": "Engraving",
+                "is_stattrak": false
+            }
+        ],
+        "Butterfly": [
+            {
+                "id": 47502,
+                "skin": "Legacy",
+                "is_stattrak": false
+            },
+            {
+                "id": 47503,
+                "skin": "Dragon Glass",
+                "is_stattrak": false
+            },
+            {
+                "id": 47504,
+                "skin": "Black Widow",
+                "is_stattrak": false
+            },
+            {
+                "id": 47505,
+                "skin": "Starfall",
+                "is_stattrak": false
+            },
+            {
+                "id": 57501,
+                "skin": "Fire Storm",
+                "is_stattrak": false
+            },
+            {
+                "id": 97500,
+                "skin": "Cold Flame",
+                "is_stattrak": false
+            },
+            {
+                "id": 157500,
+                "skin": "Kumo",
+                "is_stattrak": false
+            },
+            {
+                "id": 240007,
+                "skin": "Glitch",
+                "is_stattrak": false
+            },
+            {
+                "id": 240059,
+                "skin": "Saphira",
+                "is_stattrak": false
+            },
+            {
+                "id": 240130,
+                "skin": "Ripple",
+                "is_stattrak": false
+            },
+            {
+                "id": 240225,
+                "skin": "Gambit",
+                "is_stattrak": false
+            },
+            {
+                "id": 240269,
+                "skin": "Arcane Surge",
+                "is_stattrak": false
+            },
+            {
+                "id": 240319,
+                "skin": "Wild West",
+                "is_stattrak": false
+            },
+            {
+                "id": 240331,
+                "skin": "Jade Stone",
+                "is_stattrak": false
+            }
+        ],
+        "Flip": [
+            {
+                "id": 67701,
+                "skin": "Dragon Glass",
+                "is_stattrak": false
+            },
+            {
+                "id": 67702,
+                "skin": "Arctic",
+                "is_stattrak": false
+            },
+            {
+                "id": 67703,
+                "skin": "Stone Cold",
+                "is_stattrak": false
+            },
+            {
+                "id": 67704,
+                "skin": "Vortex",
+                "is_stattrak": false
+            },
+            {
+                "id": 67705,
+                "skin": "Frozen",
+                "is_stattrak": false
+            },
+            {
+                "id": 97700,
+                "skin": "Snow Camo",
+                "is_stattrak": false
+            },
+            {
+                "id": 157700,
+                "skin": "Holiday Frost",
+                "is_stattrak": false
+            },
+            {
+                "id": 240011,
+                "skin": "Magnalium",
+                "is_stattrak": false
+            }
+        ],
+        "Kunai": [
+            {
+                "id": 77813,
+                "skin": "Bone",
+                "is_stattrak": false
+            },
+            {
+                "id": 77814,
+                "skin": "Luxury",
+                "is_stattrak": false
+            },
+            {
+                "id": 77815,
+                "skin": "Poison",
+                "is_stattrak": false
+            },
+            {
+                "id": 77816,
+                "skin": "Radiation",
+                "is_stattrak": false
+            },
+            {
+                "id": 77817,
+                "skin": "Reaper",
+                "is_stattrak": false
+            },
+            {
+                "id": 97800,
+                "skin": "Cold Flame",
+                "is_stattrak": false
+            },
+            {
+                "id": 97801,
+                "skin": "Snow Camo",
+                "is_stattrak": false
+            },
+            {
+                "id": 157800,
+                "skin": "Augustite",
+                "is_stattrak": false
+            },
+            {
+                "id": 200014,
+                "skin": "Prism",
+                "is_stattrak": false
+            },
+            {
+                "id": 240008,
+                "skin": "Glitch",
+                "is_stattrak": false
+            },
+            {
+                "id": 240156,
+                "skin": "Wavesong",
+                "is_stattrak": false
+            },
+            {
+                "id": 240231,
+                "skin": "Diffusion",
+                "is_stattrak": false
+            },
+            {
+                "id": 240318,
+                "skin": "Fire Horse",
+                "is_stattrak": false
+            }
+        ],
+        "Scorpion": [
+            {
+                "id": 87919,
+                "skin": "Veil",
+                "is_stattrak": false
+            },
+            {
+                "id": 87920,
+                "skin": "Sea Eye",
+                "is_stattrak": false
+            },
+            {
+                "id": 87921,
+                "skin": "Scratch",
+                "is_stattrak": false
+            },
+            {
+                "id": 87922,
+                "skin": "Starfall",
+                "is_stattrak": false
+            },
+            {
+                "id": 97900,
+                "skin": "Cold Flame",
+                "is_stattrak": false
+            },
+            {
+                "id": 157900,
+                "skin": "Holiday Frost",
+                "is_stattrak": false
+            },
+            {
+                "id": 240010,
+                "skin": "Magnalium",
+                "is_stattrak": false
+            },
+            {
+                "id": 240112,
+                "skin": "Ahau",
+                "is_stattrak": false
+            },
+            {
+                "id": 240152,
+                "skin": "Neko Joy",
+                "is_stattrak": false
+            },
+            {
+                "id": 240274,
+                "skin": "Howling Ghost",
+                "is_stattrak": false
+            }
+        ],
+        "Tanto": [
+            {
+                "id": 138000,
+                "skin": "Dojo",
+                "is_stattrak": false
+            },
+            {
+                "id": 138001,
+                "skin": "Yakuza",
+                "is_stattrak": false
+            },
+            {
+                "id": 138002,
+                "skin": "Malachite",
+                "is_stattrak": false
+            },
+            {
+                "id": 138003,
+                "skin": "Pearl Abyss",
+                "is_stattrak": false
+            },
+            {
+                "id": 138004,
+                "skin": "Transistor",
+                "is_stattrak": false
+            },
+            {
+                "id": 138005,
+                "skin": "Flow",
+                "is_stattrak": false
+            },
+            {
+                "id": 148000,
+                "skin": "Restless",
+                "is_stattrak": false
+            },
+            {
+                "id": 158000,
+                "skin": "Year Of The Tiger",
+                "is_stattrak": false
+            },
+            {
+                "id": 200016,
+                "skin": "Retro Arcade",
+                "is_stattrak": false
+            },
+            {
+                "id": 240009,
+                "skin": "Glitch",
+                "is_stattrak": false
+            },
+            {
+                "id": 240061,
+                "skin": "Frost Nova",
+                "is_stattrak": false
+            },
+            {
+                "id": 240114,
+                "skin": "Solstice",
+                "is_stattrak": false
+            },
+            {
+                "id": 240151,
+                "skin": "Hanami",
+                "is_stattrak": false
+            },
+            {
+                "id": 240226,
+                "skin": "Celestial Tiger",
+                "is_stattrak": false
+            },
+            {
+                "id": 240251,
+                "skin": "Blossom",
+                "is_stattrak": false
+            }
+        ],
+        "Dual Daggers": [
+            {
+                "id": 170021,
+                "skin": "Acid",
+                "is_stattrak": false
+            },
+            {
+                "id": 170022,
+                "skin": "Demonic Steel",
+                "is_stattrak": false
+            },
+            {
+                "id": 170023,
+                "skin": "Grunge",
+                "is_stattrak": false
+            },
+            {
+                "id": 170024,
+                "skin": "Molten",
+                "is_stattrak": false
+            },
+            {
+                "id": 180000,
+                "skin": "Harmony",
+                "is_stattrak": false
+            },
+            {
+                "id": 180028,
+                "skin": "Jaws",
+                "is_stattrak": false
+            },
+            {
+                "id": 200017,
+                "skin": "Retro Arcade",
+                "is_stattrak": false
+            },
+            {
+                "id": 240060,
+                "skin": "Frost Nova",
+                "is_stattrak": false
+            },
+            {
+                "id": 240109,
+                "skin": "Tiki",
+                "is_stattrak": false
+            },
+            {
+                "id": 240129,
+                "skin": "Contagion",
+                "is_stattrak": false
+            },
+            {
+                "id": 240270,
+                "skin": "Flor de Muertos",
+                "is_stattrak": false
+            }
+        ],
+        "Kukri": [
+            {
+                "id": 180022,
+                "skin": "Ares",
+                "is_stattrak": false
+            },
+            {
+                "id": 180023,
+                "skin": "Prophet",
+                "is_stattrak": false
+            },
+            {
+                "id": 180024,
+                "skin": "Gold Trim",
+                "is_stattrak": false
+            },
+            {
+                "id": 180025,
+                "skin": "Antique Silver",
+                "is_stattrak": false
+            },
+            {
+                "id": 180026,
+                "skin": "Constellations",
+                "is_stattrak": false
+            },
+            {
+                "id": 180027,
+                "skin": "Divine Power",
+                "is_stattrak": false
+            },
+            {
+                "id": 200013,
+                "skin": "Digital Burst",
+                "is_stattrak": false
+            },
+            {
+                "id": 240110,
+                "skin": "Sea Glint",
+                "is_stattrak": false
+            },
+            {
+                "id": 240128,
+                "skin": "Decay",
+                "is_stattrak": false
+            },
+            {
+                "id": 240227,
+                "skin": "Cascade",
+                "is_stattrak": false
+            },
+            {
+                "id": 240320,
+                "skin": "Pixel Glass",
+                "is_stattrak": false
+            }
+        ],
+        "Stiletto": [
+            {
+                "id": 220021,
+                "skin": "Soul Devourer",
+                "is_stattrak": false
+            },
+            {
+                "id": 220022,
+                "skin": "Viper",
+                "is_stattrak": false
+            },
+            {
+                "id": 220023,
+                "skin": "Tie Dye",
+                "is_stattrak": false
+            },
+            {
+                "id": 220024,
+                "skin": "Damascus",
+                "is_stattrak": false
+            },
+            {
+                "id": 240012,
+                "skin": "Flux",
+                "is_stattrak": false
+            },
+            {
+                "id": 240062,
+                "skin": "Dark Shiver",
+                "is_stattrak": false
+            },
+            {
+                "id": 240153,
+                "skin": "Voidroot",
+                "is_stattrak": false
+            },
+            {
+                "id": 240230,
+                "skin": "Ascend",
+                "is_stattrak": false
+            },
+            {
+                "id": 240322,
+                "skin": "Empyrean",
+                "is_stattrak": false
+            }
+        ],
+        "Mantis": [
+            {
+                "id": 240198,
+                "skin": "Eclipse",
+                "is_stattrak": false
+            },
+            {
+                "id": 240199,
+                "skin": "Citrine",
+                "is_stattrak": false
+            },
+            {
+                "id": 240200,
+                "skin": "Nest",
+                "is_stattrak": false
+            },
+            {
+                "id": 240201,
+                "skin": "Genesis",
+                "is_stattrak": false
+            },
+            {
+                "id": 240211,
+                "skin": "Impact",
+                "is_stattrak": false
+            },
+            {
+                "id": 240229,
+                "skin": "Yokai",
+                "is_stattrak": false
+            },
+            {
+                "id": 240272,
+                "skin": "Poison",
+                "is_stattrak": false
+            },
+            {
+                "id": 240317,
+                "skin": "Glacier",
+                "is_stattrak": false
+            }
+        ],
+        "Fang": [
+            {
+                "id": 240029,
+                "skin": "Flare",
+                "is_stattrak": false
+            },
+            {
+                "id": 240030,
+                "skin": "Serpent",
+                "is_stattrak": false
+            },
+            {
+                "id": 240031,
+                "skin": "Obsidian",
+                "is_stattrak": false
+            },
+            {
+                "id": 240032,
+                "skin": "Relic",
+                "is_stattrak": false
+            },
+            {
+                "id": 240033,
+                "skin": "Aureate",
+                "is_stattrak": false
+            },
+            {
+                "id": 240034,
+                "skin": "Damascus",
+                "is_stattrak": false
+            },
+            {
+                "id": 240045,
+                "skin": "Haunt",
+                "is_stattrak": false
+            },
+            {
+                "id": 240058,
+                "skin": "Saphira",
+                "is_stattrak": false
+            },
+            {
+                "id": 240155,
+                "skin": "Wavesong",
+                "is_stattrak": false
+            },
+            {
+                "id": 240321,
+                "skin": "Ice Storm",
+                "is_stattrak": false
+            }
+        ],
+        "Sting": [
+            {
+                "id": 240064,
+                "skin": "Mimicry",
+                "is_stattrak": false
+            },
+            {
+                "id": 240065,
+                "skin": "Meld",
+                "is_stattrak": false
+            },
+            {
+                "id": 240066,
+                "skin": "Corrode",
+                "is_stattrak": false
+            },
+            {
+                "id": 240067,
+                "skin": "Fleck",
+                "is_stattrak": false
+            },
+            {
+                "id": 240068,
+                "skin": "Shroud",
+                "is_stattrak": false
+            },
+            {
+                "id": 240069,
+                "skin": "Oil Sheen",
+                "is_stattrak": false
+            },
+            {
+                "id": 240070,
+                "skin": "Temper Shades",
+                "is_stattrak": false
+            },
+            {
+                "id": 240113,
+                "skin": "Pelagia",
+                "is_stattrak": false
+            },
+            {
+                "id": 240133,
+                "skin": "Arcane Surge",
+                "is_stattrak": false
+            },
+            {
+                "id": 240273,
+                "skin": "Carmine Thorns",
+                "is_stattrak": false
+            }
+        ]
+    },
+    "GLOVES": {
+        "Gloves": [
+            {
+                "id": 3000,
+                "skin": "Phoenix Risen",
+                "is_stattrak": false
+            },
+            {
+                "id": 3001,
+                "skin": "Autumn",
+                "is_stattrak": false
+            },
+            {
+                "id": 3002,
+                "skin": "Geometric",
+                "is_stattrak": false
+            },
+            {
+                "id": 3003,
+                "skin": "Retro Wave",
+                "is_stattrak": false
+            },
+            {
+                "id": 3004,
+                "skin": "Living Flame",
+                "is_stattrak": false
+            },
+            {
+                "id": 3005,
+                "skin": "Neuro",
+                "is_stattrak": false
+            },
+            {
+                "id": 3006,
+                "skin": "Burning Fists",
+                "is_stattrak": false
+            },
+            {
+                "id": 3007,
+                "skin": "Punk",
+                "is_stattrak": false
+            },
+            {
+                "id": 3008,
+                "skin": "Champion",
+                "is_stattrak": false
+            },
+            {
+                "id": 3009,
+                "skin": "Steam Rider",
+                "is_stattrak": false
+            },
+            {
+                "id": 3010,
+                "skin": "Year Of The Tiger",
+                "is_stattrak": false
+            },
+            {
+                "id": 3011,
+                "skin": "Acid",
+                "is_stattrak": false
+            },
+            {
+                "id": 3012,
+                "skin": "Camo",
+                "is_stattrak": false
+            },
+            {
+                "id": 3013,
+                "skin": "Fossil",
+                "is_stattrak": false
+            },
+            {
+                "id": 3014,
+                "skin": "Handcraft",
+                "is_stattrak": false
+            },
+            {
+                "id": 3015,
+                "skin": "Raider",
+                "is_stattrak": false
+            },
+            {
+                "id": 3016,
+                "skin": "Thug",
+                "is_stattrak": false
+            },
+            {
+                "id": 3017,
+                "skin": "Templar",
+                "is_stattrak": false
+            },
+            {
+                "id": 3018,
+                "skin": "X-Ray",
+                "is_stattrak": false
+            },
+            {
+                "id": 3019,
+                "skin": "Onyx",
+                "is_stattrak": false
+            },
+            {
+                "id": 3020,
+                "skin": "Tan Hide",
+                "is_stattrak": false
+            },
+            {
+                "id": 3021,
+                "skin": "Dragon Scale",
+                "is_stattrak": false
+            },
+            {
+                "id": 3022,
+                "skin": "Royal Rose",
+                "is_stattrak": false
+            },
+            {
+                "id": 3023,
+                "skin": "Flux",
+                "is_stattrak": false
+            },
+            {
+                "id": 3024,
+                "skin": "Shatter",
+                "is_stattrak": false
+            },
+            {
+                "id": 3025,
+                "skin": "Haunt",
+                "is_stattrak": false
+            },
+            {
+                "id": 3026,
+                "skin": "Plague",
+                "is_stattrak": false
+            },
+            {
+                "id": 3027,
+                "skin": "Mortal Veil",
+                "is_stattrak": false
+            },
+            {
+                "id": 3028,
+                "skin": "Immolation",
+                "is_stattrak": false
+            },
+            {
+                "id": 3029,
+                "skin": "Pattern Test",
+                "is_stattrak": false
+            },
+            {
+                "id": 3030,
+                "skin": "Stream",
+                "is_stattrak": false
+            },
+            {
+                "id": 3031,
+                "skin": "Artificer",
+                "is_stattrak": false
+            },
+            {
+                "id": 3032,
+                "skin": "Dragon Glass",
+                "is_stattrak": false
+            },
+            {
+                "id": 3033,
+                "skin": "Mimicry",
+                "is_stattrak": false
+            },
+            {
+                "id": 3034,
+                "skin": "Rebellion",
+                "is_stattrak": false
+            },
+            {
+                "id": 3035,
+                "skin": "Utility",
+                "is_stattrak": false
+            },
+            {
+                "id": 3036,
+                "skin": "Ironclad",
+                "is_stattrak": false
+            },
+            {
+                "id": 3037,
+                "skin": "Spectral",
+                "is_stattrak": false
+            },
+            {
+                "id": 3038,
+                "skin": "Gangster",
+                "is_stattrak": false
+            },
+            {
+                "id": 3039,
+                "skin": "Polymer",
+                "is_stattrak": false
+            },
+            {
+                "id": 3040,
+                "skin": "Hanami",
+                "is_stattrak": false
+            },
+            {
+                "id": 3041,
+                "skin": "Feral",
+                "is_stattrak": false
+            },
+            {
+                "id": 3042,
+                "skin": "Marble",
+                "is_stattrak": false
+            },
+            {
+                "id": 3043,
+                "skin": "Slash",
+                "is_stattrak": false
+            },
+            {
+                "id": 3044,
+                "skin": "Frond",
+                "is_stattrak": false
+            },
+            {
+                "id": 3045,
+                "skin": "Spray",
+                "is_stattrak": false
+            },
+            {
+                "id": 3046,
+                "skin": "Flicker",
+                "is_stattrak": false
+            },
+            {
+                "id": 3047,
+                "skin": "Impulse",
+                "is_stattrak": false
+            },
+            {
+                "id": 3048,
+                "skin": "Ravage",
+                "is_stattrak": false
+            },
+            {
+                "id": 3049,
+                "skin": "Dread",
+                "is_stattrak": false
+            },
+            {
+                "id": 3050,
+                "skin": "Ritual",
+                "is_stattrak": false
+            },
+            {
+                "id": 3051,
+                "skin": "White Camo",
+                "is_stattrak": false
+            },
+            {
+                "id": 3052,
+                "skin": "Gambit",
+                "is_stattrak": false
+            },
+            {
+                "id": 3053,
+                "skin": "Tessera",
+                "is_stattrak": false
+            },
+            {
+                "id": 3054,
+                "skin": "Skeletal Hand",
+                "is_stattrak": false
+            }
+        ]
+    }
+}

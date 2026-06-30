@@ -372,3 +372,7 @@ __pycache__/
 *.onefile-build/
 astandy_logs/
 main.dist/
+code.py
+nuitka-crash-report.xml
+build.txt
+all_code_project_1.txt
